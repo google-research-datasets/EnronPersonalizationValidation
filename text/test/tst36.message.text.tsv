@@ -1,0 +1,1259 @@
+0	I forwarded this meeting to Casey.
+0	I will be out of the office.
+0	Stacey
+1	Just FYI - Thu Pham Arnold does our Global Counterparty requests now.
+1	Stacey
+2	These are fine.
+2	Hope all is well.
+2	Stacey
+3	You can put John as your primary and me as your secondary.
+3	Stacey
+4	I don't really like what they are suggesting either.
+4	We'll talk Monday.
+4	Besides, they(we) would have to get AA to sign off on half MTM half something else.
+4	Stacey
+5	Wasn't sure if you had heard anything about Donnie testing for EES and EnPower.
+5	I am not sure there is anything we need to do, just wanted to keep you in the loop.
+5	Stacey
+6	Dave, Can you please approve or reject Samantha's request.
+6	If you are not comfortable approving it, then reject it so she can resubmit.
+6	When I went into the system today, it said it had already been assigned to you.
+6	Stacey
+7	Did you send this to Kathy reeves?
+7	She is in charge of Calgary's power risk management.
+7	Stacey
+8	Have them go through accounting.
+8	This is non-trading expenses.
+8	Not our area unless it runs through the DPR.
+8	Stacey
+9	What is the latest on this?
+9	Stacey
+10	Sounds good, I will abide.
+10	Stacey
+11	Wasn't sure if you had gotten this answered, but there is really no reason that should want to see this.
+11	Stacey
+12	I understand all the following except the Index-Option.
+12	Why would it be treated as a Spread-Option?
+12	Stacey
+13	Where did she get this information?
+13	Is it a below the line adjustment (not in the DPR)?
+13	Stacey
+14	Thank you!
+14	Stacey
+15	Thanks!
+15	Stacey
+16	It was wonderful.
+16	Not so excited to be back - I'm sure it will get better as the week goes on.
+16	How was your flight?
+16	Did you feel safer?
+16	They want me to go on the London Doorstep in November, so I was just wondering.
+16	Stacey
+17	All I ever saw was the e-mail from the Office of the Chair.
+17	Stacey
+18	Here is Thursday's data: Broker Deal ID Enron Entity Portfolio Trader Deal Date Deal Start Date Deal End Date Total Deal Volume Chris Mallory Count 7 Diana Scholtes Count 2 Holden Salisbury Count 2 Matt Motley Count 4 Mike Swerzbin Count 1 Phil Platter Count 1 Sean Crandall Count 1 Tom Alonso Count 1 Grand Count 19
+19	The file is in O:\_Dropbox\Stacey\Quarterly Comparison.xls Let me know when you get the file so we can make sure it will work for you.
+19	Thanks, Stacey
+20	yes
+21	I agree with this request.
+21	Stacey
+22	The blending vs. non-blending can be confusing and could potentially cause problems down the road so I would first like to make some general statements regarding the history or this change and what the rules should be as I understand them.
+22	Only the curves applicable to the East NERC regions are being marked as a daily and monthly volatility; therefore, no blending is needed for daily options (they point directly to the daily vols) or monthly options (they point directly to the monthly vol).
+22	All curves applicable to the West NERC regions are still being marked as intramonth and monthly; therefore, blending is needed to provide a volatility for daily options.
+22	The best rules to be in place for the blending vs. non-blending would be based on curve.
+22	East curves do not blend.
+22	West curves do blend.
+22	Therefore, ANY daily or monthly option in the East would not have to blend.
+22	The potential problem that could be caused by making the rule apply to portfolios is that, for example, the East portfolio could potentially enter into an option at a West region (curve) and that transaction would need to use blended curves even though it is in the East portfolio.
+22	Options at a different expiry than daily or monthly is another problem.
+22	Are there different blending rules embedded in the code for weekly expiration?
+22	We still need to discuss this.
+22	I would be happy to all sit down and have a meeting concerning this issue whenever everyone is comfortable enough that we know all the current rules.
+22	Let me know.
+22	Stacey
+23	I will talk to Tim re: Jeff Richter's Schedule C reserve and get back to you.
+23	Stacey
+24	Lavorato is asking why Jeff Richter still has $25MM of reserve associated to him since he has moved to EES?
+24	How would you like me to handle this question?
+24	Thanks, Stacey
+25	What was it?
+26	Can you let them know you will be doing this.
+26	Stacey
+27	We will be having a staff meeting today.
+27	If we can start at 12:15 rather than 12:00 that would be great because I have an 11:00 meeting.
+27	John, What is the phone number where we can reach you?
+27	Sorry I do not have an itinerary.
+27	I would like to go over Doorstep findings and anything else you would like to fill me in on since we have not met in a while.
+27	Stacey
+28	Thanks for doing all the work!
+28	Stacey
+29	Can you take a look at this report for the West and make sure it is correct.
+29	Thanks, Stacey
+30	Question re: Jeff Richter Stacey
+31	Sounds like a great idea to do follow-up reviews.
+31	I have budgeted $2000 a month for travel and lodging on the West RC.
+31	I would prefer you keep it to every six weeks in order to cover me coming up there and others coming down for training.
+31	I think it would be beneficial for you to be able to meet with groups in Houston.
+31	I also only budgeted for $100/month for Overtime/Working Meals so we may have to subsidize that with the traveling budget.
+31	I have not heard anything lately on the video conferencing.
+31	If you don't mind, ask Tim if he has made any decisions on the video conferencing.
+31	Stacey
+32	Let's wait until we all meet so we don't piecemeal the data to you, but you are correct in your assumption about transmission for the East.
+32	Stacey
+33	Let me know if this does not work.
+33	This is a report straight from the calculation engine so it is easy and fast to generate.
+33	Stacey
+34	Are you still attending these meetings?
+34	Stacey
+35	Make sure you have my e-mail address as the full name Stacey.W.White@enron.com I don't know why they would be coming back.
+35	Hope you are doing well!
+35	Stacey
+36	Does this make sense to you?
+36	Stacey
+37	There were some conversations regarding getting the Index Option into RisktRAC.
+37	It may be that they are not there yet.
+37	Zhiyun was working with the RAC IT, she would know the latest.
+37	Stacey
+38	When: Friday, October 19, 2001 10:00 AM-11:00 AM (GMT-06:00) Central Time (US & Canada).
+38	Where: EB3143B Please invite anyone I may have missed.
+38	Thanks, Stacey
+39	Just wanted you to see this correspondence.
+39	Stacey
+40	Can everyone please check the following files for the below requirements.
+40	Fill out anything you may know and cc: me on the response so I can figure out which ones are unaccounted for.
+40	Thanks, Stacey
+41	I am still tracking down the Green Mountain documentation, but here is the documentation for LCRA.
+41	I'll forward the rest when I get it.
+41	Thanks, Stacey
+42	SLACKER!!!
+43	Who is your contact in Liquids?
+43	Stacey
+44	I was given your name by Kathy Reeves as a candidate who might know something about a book named C2-CAND-EGSC.
+44	See attached file below for instructions on what information is needed for the book.
+44	Thanks, Stacey White
+45	Nick, I would like 3 red poinsettias.
+45	Thanks, Stacey
+46	Casey should be contacting you to set up a time to talk.
+46	Thanks, Stacey
+47	John, Are you currently preparing option sensitivity reports for Matt Motley?
+47	If so, please put together a bullet point list of what we do on a daily basis, who the audience is, and anything else you think might be relevant to an audience of users interested in what procedures we perform for stress/ scenario testing.
+47	Thanks, Stacey
+48	Which ancillary curves are you referring to?
+48	Dana and Doug mark the Northeast and Ercot ancillaries and we do not have ancillaries for every curve.
+48	Stacey
+49	I cannot think of anything that would cause this to be incorrect.
+49	Please let me know if you agree and I will bless the change.
+49	Thanks, Stacey
+50	Do you still have a list of users who calculated their books at the end of September as 9/28 instead of 9/30?
+50	Stacey
+51	Let's go ahead and make this change.
+51	We can think of no reason why this would cause a problem.
+51	If everyone could keep a close eye on this deal after the change, that will be most beneficial.
+51	Thanks, Stacey
+52	Thank you so much for the invite.
+52	Just found this week I have to go to London for work and will be leaving on Nov. 2.
+52	Have a wonderful time!!
+52	Stacey
+53	Can you send me (or tell me where to access) the matrix put together which defines the legal entity for each desk.
+53	Debbie Brackett informed me that the entities are not necessarily the 'legal' entity but something else and I need to help get to the bottom of this.
+53	Thanks, Stacey
+54	Thank you!
+55	This is exposure (P&L and position) by month, by region for New Power Company.
+55	Please let me know how often you need data like this.
+55	The numbers represented are as of 10/18/2001.
+55	Thanks, Stacey
+56	Who do you have working on this?
+56	Stacey
+57	Can you send me an example?
+57	Stacey
+58	I don't know where all those pictures are.
+58	We received them online, so I am sure they are lost.
+58	Donnie may have them.
+58	Remember, he was dressed as Austin Powers.
+58	Stacey
+59	As long as Tim has conversations with Lavo and we get adequate documentation to share with accounting, we should be fine.
+59	Stacey
+60	That is fine.
+60	She doesn't really care about the Schedule C stuff, she just wants to know that is going to come off of LTD.
+60	Stacey
+61	Actually, I believe we got a hold of Kori and Erol last month before they officialized and they did it correctly.
+61	Stacey
+62	Tanya, Kim mentioned to me that legal wanted by delivery point and financial/physical broken out, so here is an update.
+62	Numbers are still as of 10/18/2001.
+62	Stacey
+63	Casey, Can you remind me of all this?
+63	Thanks, Stacey John, Good questions, when I figure it out I will add to the Month End Procedures.
+63	Stacey
+64	Are you setting up a meeting?
+64	Stacey
+65	Cost Center 103823 should have 6% allocated to West Power (not 13%) and 94% allocated to East Power.
+65	Thanks, Stacey
+66	Tom, Hope this helps.
+66	1) Only the power positions need to be queried.
+66	Gas positions for spread options and heat rates are included in the gas bench.
+66	2) Any power Exchange transactions should be included, but the gas transactions calculated in ERMT should not be included as they are on the gas bench.
+66	Thanks, Stacey
+67	The risk group should be able to help you coordinate this request.
+67	Stacey White
+68	What day?
+69	I have a meeting tomorrow from 10:30-11:30.
+69	I do not have anything else until 2:00.
+69	Stacey
+70	Why would this person need Read/Write to m:\common\power I typically only grant access for Write capabilities to Risk.
+70	Stacey
+71	Can you or someone else ask her why she requested m:\common\power Read/Write?
+71	Stacey
+72	Thanks!
+73	good luck
+74	I am sorry to be difficult and you can definitely have a meeting without me and fill me in later, but the all-employee meeting is today and I have been asked to be there by Bob.
+74	In addition, I have a work lunch headed by Sally to discuss the all-employee meeting.
+74	Sorry again, Stacey
+75	Yes - I travel to Portland on a regular basis and access the network from the hotel.
+75	I also I am a member of the 'Emergency Weather Plan' team meaning that I have to simulate my computer at work from home in case my group (Power Risk Management) cannot get to the building.
+75	Stacey White
+76	We'll take care of it.
+76	Welcome back!
+76	Stacey
+77	Can one of you make sure LT-SERC is still an active book (if not, have it reactivated) and coordinate with TJae regarding the EOL ID.
+77	John may still be set up in EnPower, I am not sure that his access was ever taken away, but we need to have his trader ID attached to LT-SERC.
+77	Let me know if you have any questions.
+77	Stacey
+78	When: Tuesday, October 23, 2001 12:00 PM-1:00 PM (GMT-06:00) Central Time (US & Canada).
+78	Where: EB3143C We will begin having weekly download/discussion sessions starting the week after next.
+78	This meeting will be mandatory and you should not send a substitute unless approved by me.
+78	If the day and time do not work with your schedule please let me know so we can coordinate our calendars.
+78	Thanks, Stacey
+79	Sorry I had to cancel, a meeting was put on my calendar that I cannot miss.
+79	Stacey
+80	How much money are we talking?
+80	Re: AA, they will need explanation as to the amount.
+80	Georgeanne is typically involved in all Schedule C discussion with them.
+80	Stacey
+81	Martin, I have both a toll tag and a parking transponder.
+81	My toll tag # is 00136756.
+81	Please let me know what else I need to do.
+81	Thanks, Stacey White
+82	No, I just noticed that we hadn't had a staff meeting in a while and next week is month end and the next week I will not be here.
+82	Casey is out on Friday and have back to back meetings tomorrow.
+82	Make your commitment to DHA and we'll update you on the staff meeting.
+82	Stacey
+83	There is no attachment.
+83	Stacey
+84	Just wondered if anyone has noticed any change in EnPower performance?
+84	See e-mail below.
+84	Stacey
+85	Can you get with Doug and show him what documentation we do have for Green Mountain?
+85	Also, have you requested from Anita Luong the documentation we sent them for Green Mountain's Schedule C. Thanks, Stacey
+86	Sorry, I thought I did this yesterday.
+86	Can you give me the latest on the reconciliation?
+86	Stacey
+87	Can you take care of this?
+87	Stacey
+88	Congratulations US Citizen!
+88	You have to set up a new book (see the other Spreadsheet books for naming convention).
+88	Can't wait to discuss all this.
+88	Stacey
+89	When: Thursday, October 25, 2001 10:30 AM-11:30 AM (GMT-06:00) Central Time (US & Canada).
+89	Where: call-in 853-1870 I am also sending you a forward of a meeting I am supposed to have with Scotty Gilbert and Jeff Richter tomorrow - hope you can join us.
+89	Stacey
+90	I will not be there until 4:00.
+90	Stacey
+91	I really am in the dark re: Hanson.
+91	If you could make the rounds then we might have a better idea if Donnie should be there.
+91	If Scotty does not know all the particulars (and Jeff does) I am not sure that the 9:30 PST meeting will be effective.
+91	I basically just want some answers!
+91	Stacey
+92	Here is an updated New Power Company exposure as of 10-24.
+92	I have included Buy/Sell, Deal Type, and Capacity/Commodity.
+92	Please let me know if there is any other detail you need.
+92	Stacey
+93	Jason, I am aware of the risk being taken regarding the old Sun machines moving to the new building.
+93	Specifically, they may not work once taken out of commission.
+93	I am also willing to take this risk and request that the current machines the power risk group operates on should accompany them to the new building.
+93	Thanks, Stacey
+94	No formal agenda has been planned for our staff meeting today.
+94	Instead, I would like for each of you to think of a question(s) or problem(s) that you have encountered while in the group.
+94	These questions/problems can be something that you already know the answer to or have yet to receive the answer.
+94	For those areas that you already know the answer, this would be a good time to share what you have been working on with the rest of the group and maybe stop everyone else from running into the same question/problem.
+94	For those areas that you do not the answer, we will do our best to get that answered.
+94	In addition, if there is any additional detail that you would like to know regarding topics covered in the Risk Overview class, this would be a good time to ask since the class is fresh on your minds.
+94	Thanks, Stacey & Casey
+95	Maria, What information are you trying to obtain through m:\common\power?
+95	Sorry for all the questions, but everyone requesting this directory gets them as this directory contains extremely sensitive information.
+95	Thanks, Stacey
+96	James, Just a quick note and request regarding our UK & Continental Power Doorstep review we will be performing.
+96	Please provide a list of books, curves and deal types used for UK & Continental Power.
+96	In addition, please send information on any large, structured, out of the norm transactions and any transactions that are calculated outside of the core trading system.
+96	Please provide this information early next week.
+96	Look forward to seeing you.
+96	Stacey
+97	We will not be there next week so that should be fine.
+97	Are the complex derivatives group and 'structured book' run by Paul Darcy the same thing?
+97	If yes, then we are planning on reviewing that area.
+97	Should I contact Paul Darcy directly?
+97	If no, what is the complex derivatives group?
+97	Thanks, Stacey
+98	Sorry I left you off the first distribution.
+98	Stacey
+99	Please release the new version of PL Desk to production.
+99	Thanks, Stacey
+100	The power curves are actually located in M:\power2\region If you want access to this drive please resubmit request and make sure it is Read Only.
+100	Thanks, Stacey
+101	I cannot view this request in eRequest.
+101	Please approve on my behalf or remedy the problem of seeing the request and I will approve myself.
+101	Stacey
+102	Do we have any transactions with these counterparties similar to Hanson?
+102	Stacey
+103	Tim, I typically do not like to give access to m:\common\power\ directory as this is where all the DPR information is.
+103	A member of your fundamentals team, Maria Van Houton, would like access to the drive in order to access curve data that the risk group puts together.
+103	If this is o.k.
+103	with you I will approve, otherwise I will tell her to get the information from the curve directory m:\power2\region.
+103	Thanks, Stacey
+104	How many times are you going to publish the P&L today?
+104	(just a joke - is everything o.k.?) Stacey
+105	I was incorrect about Alberta ENA, it should be zero but where is Alberta?
+105	It should have a big position.
+105	Stacey
+106	Yes.
+106	Stacey
+107	Michael, Can you remind me who all gets these reports?
+107	Stacey
+108	Thanks
+109	Keith, Here are the procedures for the East.
+109	The West is not currently running option sensitivities.
+109	Approximately every one to two weeks or as requested by the options traders an option sensitivity report is run using PortCalc.
+109	Three parameters are tested: Price (increments from -5 to +5), monthly Volatility (increments from -25% to +25%), and Time (increments up to 90 days. (Reminder: the increments are changeable) The data is imported from PortCalc into an Excel pivot table. The pivot table is then used to show how the various Greeks (delta, gamma, theta and Vega) change for each trader's book, generally with a 3 month look ahead. The data can also be sorted by and grouped by other criteria, if requested, such as by region and delivery date These reports are given to the East option traders only. Thanks, Stacey
+110	Sorry I haven't responded very timely.
+110	Things have been hectic at work.
+110	I am looking forward to seeing you tomorrow.
+110	Russell said you would be in around 6-7, is this right?
+110	What kind of food do you want to eat, Russell suggested a Mexican food place, is this o.k.
+110	with you?
+110	Stacey
+111	FYI
+112	I hope all is well with you!
+112	Kristin, Mike and I will be arriving in London Saturday, November 3.
+112	We will be there through the next Saturday, leaving early that morning.
+112	Can't wait to see you.
+112	Any exciting news?
+112	How's work, social life, etc. Stacey
+113	Any calc will do.
+113	When testing, please do not write over AdHoc, I need to pull some information from there.
+113	Stacey
+114	Just a reminder to forward Martha the cash flow request.
+114	Thanks, Stacey
+115	Can you make sure that your group starts using the new & improved request form.
+115	See m:\common\power\riskmgmt\admin\Requests & Request Templates\Blank Book Request Enpower.xls Thanks, Stacey
+116	I was not sure if you wanted exposure by asset, liability or absolute value so I provided the top 25 assets and top 25 liabilities.
+116	Hope this helps.
+116	Stacey
+117	Who was your surgeon for lasik surgery?
+117	Would you recommend?
+117	I am planning on getting surgery next year and have to make my benefit elections to cover.
+117	Thanks, Stacey
+118	All your suggestions sound good.
+118	Thanks for being on top of the personnel issues!
+118	Thanks again, Stacey
+119	Geoff, Here is all my data: Worst Case - my husband's pager - 281-264-9294 If you need anything else, please let me know.
+119	Stacey
+120	I thought we already told them to exclude those portfolios???
+120	Stacey
+121	Yeah - are you still going on vacation?
+121	Stacey
+122	I was working on getting the right sign-off before I approved or denied.
+122	I should know no later than tomorrow.
+122	Stacey
+123	You can go ahead and send it to me as I am sure I will be performing the review at some point.
+123	Thanks, Stacey
+124	Just curious, what was Nick doing when he visited Houston the beginning of November.
+124	Just wondering, because I didn't know he was here.
+124	Stacey
+125	OK - I believe that is when I was gone, now that you mention it.
+125	Stacey
+126	If you get a chance, give me a call.
+126	Can't wait to hear all the London scoop!
+126	I hope you are well despite this disaster.
+126	Stacey
+127	I heard you got information on Monica.
+127	Could you forward it to me?
+127	Thanks, Stacey
+128	I'm all right.
+128	In denial a little because I really do not want to work anywhere else, but oh well!
+128	How are you?
+128	Did you get a chance to talk to Monica?
+128	I hope they are o.k.
+128	Stacey
+129	Here you go.
+129	Sorry for the delay.
+129	Please let me know what else I can do.
+129	The file is subtotaled to include Peak and Off-peak together.
+129	It includes both positions and current MTM as of last night.
+129	Stacey White
+130	Have you turned in my expense report?
+130	Do you need my Amex bill?
+130	Stacey
+131	Thanks.
+131	Stacey
+132	I'll let you know if I hear anything.
+132	I have absolutely no idea at this point.
+132	Stacey
+133	I have no contractors.
+133	Stacey
+134	As of right now this is the plan for the killed transactions: Please use the attached spreadsheet that indicates the prior day changes in your rolls.
+134	Then compare these actual changes to the projected changes in the spreadsheet below.
+134	As of tonight, please top-level all prior day changes and we will tackle tomorrow.
+134	Also, remember that traditionally you would have no financial prior days on the first business day, so the financial prior days showing up in your rolls are due to killed financial transactions.
+134	These amounts should also be top-leveled.
+134	Thanks, Stacey
+135	When does she leave?
+135	Stacey
+136	Please make sure you cc: me on all requests that you send out to credit, VaR, etc for the banks.
+136	If you are not sending something via e-mail and you are just giving information over the phone.
+136	Please send me the information as well.
+136	Thanks, Stacey
+137	I was in a meeting last night to discuss who was critical.
+137	I do not know if that list has been blessed.
+137	The list we put together would definitely get us a through especially since we will not have all the old deals.
+137	Your normal contacts should be there - Norman, Zhiyun, Min, Duong Luu, Will Smith.
+137	Stacey
+138	That is bizarre.
+138	They may have sent everyone home and called them back.
+138	I will investigate tomorrow.
+138	Stacey
+139	Can you give me a final list of the EnPower support that still exists so that we can have a good contact list?
+139	Thanks, Stacey
+140	Can you look in to this for me?
+140	Stacey
+141	Where is the DPOS folder?
+141	Stacey
+142	Do you think Min would be able to help?
+142	Stacey
+143	Can you unarchive m:\common\power\position\dpr\1999 and as far back as there are years in this directory.
+143	Stacey
+144	Min should be able to help you with your excel request.
+144	Stacey
+145	Have you been in contact with him?
+145	Stacey
+146	He would definitely be going to clean-up if we start the new company.
+146	If we do not start the new company he would be the first person laid off.
+146	What kind of contract is he under?
+146	Stacey
+147	I have no idea how the contracts are being handled.
+147	If he is that unhappy he should talk to Billy Lemmons (the associate HR rep).
+147	Stacey
+148	Here is my request: Can you make the system calculate a killed deal?
+148	There were deals killed with Sempra Energy Trading on Saturday and the credit group needs to know what the value would have been had these deals been calculated against yesterday's curves.
+148	Basically, we need to calc all Sempra deals that were killed Saturday or later as of last night.
+148	Is this possible?
+148	Thanks, Stacey
+149	The LT-Option book should have a prior day of +226,703.43.
+149	Please include this in the spreadsheet I sent out yesterday.
+149	It is a Constellation deal that was not killed.' Thanks, Stacey
+150	I have Norman running a calc on the Sempra transactions.
+150	He was able to set up a special calc to calc the killed deals.
+150	When he is able to give you the values, will you call Dave Forster @ 3-1861 and let him know the values.
+150	I will be in meetings from 1:30 - 4:30.
+150	Thanks, Stacey
+151	Good to hear!
+152	I had received this from Chris Abel.
+152	Maybe it will be beneficial.
+152	Stacey
+153	Please provide access to the following individuals: Thanks, Stacey
+154	This is the latest on our status of calculating and reporting the DPR.
+154	Rick Buy, our chief risk officer, asked that we get back to normal as soon as possible.
+154	I am currently working on termination statuses and when deals will be killed etc. I am also working on a way to get the PCS cleaned up.
+154	Continue to run the calc with the true-up flag off as this will cause more confusion than it is worth.
+154	Thanks, Stacey
+155	No problem.
+155	Do not worry about my previous requests.
+155	Stacey
+156	I was comparing the 'Position by Trader PRINT' tab in WestPos to the VaR report (Nov. 26 for example).
+156	I would hope the rules for carrying over a week will still apply, but I have not heard anything concrete.
+156	I'll see what I can find out.
+156	Stacey
+157	Those are funny.
+157	Work is hectic, can't write much, but hope to find a time that you can come visit.
+157	Stacey
+158	thanks
+159	Any specific reason we need two different portfolios?
+159	Stacey
+160	James' birthday party is that Saturday.
+160	Before I knew that I was thinking of going home.
+160	Stacey
+161	Please see the bottom of this e-mail for the original values given to Andrea for this exercise.
+161	At the time, we had not broken out East & West and only had a total value.
+161	My issue is that the original values do not tie to the values were are seeing today.
+161	Just to be sure, the calcs we are running should include all Sempra deals killed on or after Saturday, Dec. 1.
+161	Can you please advise as to which numbers are correct.
+161	Thanks, Stacey
+162	I had forwarded your message to HR and had not heard anything.
+162	However, I just went to yahoo and was reading an article that says the website is careerservices@enron.com but that it is not currently in operation.
+162	Good luck, Stacey
+163	The LT-SW book was not officialized last night.
+163	I have officialized it this morning.
+163	We still need to be careful regarding officializations for credit purposes.
+163	Stacey
+164	Will, If you could attempt the following report I would greatly appreciate it.
+164	I have given a best efforts try in report writer, but because I am pulling MTM value it is pulling every strip.
+164	I need all options by flowing from today forward for the East and West portfolios.
+164	I need deal date, start date, end date, premium, strike price, Monthly/Daily Option indicator, MTM value from AdHoc, Buy/Sell, Counterparty, Enron Entity, Call/Put, Deal Type, Region.
+164	Thanks so much, Stacey Call me tomorrow when I can start working - 281-894-0468.
+165	The option query that we ran this morning does not tie back to AdHoc.
+165	I first realized it when I was trying to clean up deals that had many strips.
+165	There were instances where the P&L and delta were not consistent for every strip so I looked in AdHoc to see which number was right and that is when I started noticing inconsistencies.
+165	Could you please query the P&L and Delta for the following deal numbers in spreadsheet.
+165	The only way I have to do this is to query each deal separately in AdHoc.
+165	Your help would be greatly appreciated.
+165	Stacey Phone numbers where I can be reached: Thanks, Stacey
+166	I have consolidated the changes in the following file: Please change the trade date on all the newly created Bankruptcy Deals to the trade date of the original deal.
+166	Also, please cross-reference in both transactions the associated deals numbers and document that the deal numbers are due to termination.
+166	Also, check with Will Smith to make sure he has completed the Allegheny transfers (they were missed in the initial batch run) and then re-calc the 'Termination Test' portcalcs to ensure that the designated counterparties are not included in the old portfolios.
+166	Also, check with Norman or Zhiyun to ensure that they have attached the port-calc code to the Bankruptcy portfolios and then we need to make test runs on them as well.
+166	Thanks, Stacey
+167	Can you please work on attaching the portcalc code to the Bankruptcy Portfolios first thing Monday morning.
+167	Please reply to this e-mail when it is complete so we can begin testing the transactions we moved.
+167	Thanks, Stacey P.S.
+167	Zhiyun, Thank you so much for the option data.
+167	Stacey
+168	Melissa, Can you please attach the effective termination dates to your physical and financial termination lists.
+168	We have yet to touch December, and need these dates before we can start.
+168	Thanks, Stacey
+169	The most updated termination lists are in the following files: They are saved in m:\riskmgt\stacey\special projects\ Stacey
+170	When you are done with the script please call Casey and John.
+170	Thanks, Stacey
+171	Could you have someone put together the trader performance spreadsheet for November?
+171	Thanks, Stacey
+172	have you sent it to frank?
+173	Thought you might need to know some of these names.
+173	Stacey
+174	Frank, Please ensure that Israel Estrada receives his previous access for IT purposes.
+174	He was mistakenly removed on Friday.
+174	Stacey
+175	Please split up the following list and change the deal date back to the original deal date.
+175	Thanks, Stacey
+176	I don't.
+176	Stacey
+177	Call me tomorrow so we can discuss the following: Employee morale Terminations with cash already paid Other terminations to ensure they are not affecting downstream systems Scheduling cuts Thanks, Stacey
+178	Corry, I would love to start the process of cleaning up the scheduling system.
+178	We will need help from the schedulers as well so can you send Duong Luu their logins and request the 'Zero Volumes' application in EnPower.
+178	There are many people asking about what is flowing and the month is creeping by so if you could get with me tomorrow to make a game plan that would be great.
+178	I think we should have the schedulers send us their spreadsheets with an explanatory and then we, along with Unify users, will come up with a plan.
+178	I hope to use the schedulers in this process as well, let me know your thoughts.
+178	Thanks, Stacey
+179	We are going to Cuero this weekend so will not be in for Sunday brunch.
+179	Sorry I will miss it.
+179	Stacey
+180	Will, Please run the 2002 script for Coral Power, L.L.C.
+180	Let me know when you are done.
+180	Stacey
+181	One question: I had Melissa Murphy put together the termination dates for each of the counterparties and was wondering if you could clarify something for me.
+181	If a termination date is 12/4/2001, do I move 12/4 forward to the bankrupt book or do I move 12/5 forward to the bankrupt book?
+181	Thanks, Stacey
+182	I spoke with this recruiter on the phone and told her I would forward the information to our accounting group.
+182	I was not sure who all in your group was part of the layoffs and thought you might be able to forward them this information.
+182	Stacey
+183	Elsie, I put the 11/30 strip back in the deal.
+183	The "884449 in bankruptcy" does refer to another deal that we created due to Aquila terminating transactions with us.
+183	The reason you cannot see it is because you probably do not have access to the new portfolio.
+183	Stacey
+184	FYI
+185	Wasn't sure if you had seen this website.
+185	Hope your searches are going well.
+185	Stacey
+186	I am waiting for an answer back from Elizabeth, but was wondering if you or any of your contacts might know the answer to the following.
+186	Thanks, Stacey
+187	Yes, you will do normal calculation tonight.
+187	In addition, either today or tomorrow, please also calculate the Bankruptcy Portfolio.
+187	Export data from both West and Bankruptcy Portfolio by Counterparty and Physical/Financial.
+187	Compare the data to the Termination Lists.
+187	All counterparties on the termination list should be included in Bankruptcy Portfolio and all other counterparties should be in the West portfolio.
+187	If you notice discrepencies, please investigate and correct.
+187	Also, Will is still changing some deals that Casey sent him an e-mail on.
+187	Do you know if this affected the West?
+187	If so, you will need to wait until he is complete.
+187	Stacey
+188	Due to problems with the gas curves there will be incorrect credit information for TXU, Calpine and Indeck Pepperel Power Assoc.
+188	out of EnPower (these counterparties have spread options and/or heat rate swaps that utilize the gas curves.) If you need these transaction re-calced in the morning please contact Andrea Dahlke and X 5-4080.
+188	Thanks, Stacey
+189	The gas curve problems have been solved; therefore, there will be no problems with the following counterparties.
+189	Stacey
+190	Do your gas books have any gas deals left?
+190	There were 23,000 deals missed in the 'kill exercise' performed by IT.
+190	If you have deals left, please re-calc tomorrow to see if they go away.
+190	If you have no deals, then you are done!
+190	Stacey
+191	John, This file gives you similar information to the file that Jeff sent you for gas.
+191	Frank is using it to continue investigating what went wrong with the extraction from the VaR model.
+191	If you want me to change anything, let me know.
+191	Thanks, Stacey
+192	We technically should have no third party transactions.
+192	If we do, we need to move them to the NG-Price book.
+192	Please let me know if this is the case.
+192	Also, Casey & I will be both be out of the office tomorrow.
+192	If you need someone in Houston to help get questions answered please call Andrea.
+192	Thanks, Stacey
+193	Here is the file I started.
+193	I know there is plenty of missing data because I did not know all the commodities involved with each counterparty.
+193	If you could fill in what you know, that would be a big head start on this heinous project.
+193	I will be out of the office tomorrow.
+193	My cell phone works again so I will be available.
+193	Have a great weekend.
+193	Thanks, Stacey
+194	I will be out of the office tomorrow and out of town this weekend.
+194	If an emergency arises, please try the following numbers: Have a great weekend!
+195	The bankruptcy post ids are as follows: Let me know what else I can do.
+195	Stacey
+196	got it!
+196	Hope everything is going well.
+196	Stacey
+197	When you get a chance, give me an update on this.
+197	Stacey
+198	Yes, I can get BPA volumes.
+198	What is it for?
+198	Stacey
+199	When: Monday, December 17, 2001 2:30 PM-3:30 PM (GMT-06:00) Central Time (US & Canada).
+199	Where: My desk
+200	What did today's look like?
+200	Do we still have the same problems in power?
+200	Stacey
+201	Thanks for the offer, I have a Dr's appt.
+201	Maybe later this week.
+201	Mid C is R9, but WSCC-N is R8.
+201	A 'B' indicates a basis curve which WSCC-N is not.
+201	Have you talked to Bruce from Chase re: these files?
+201	Stacey
+202	Just wanted to make sure you had the latest files of terminated counterparties.
+203	Please split the following deals into their respective pre and post bankruptcy desks: Counterparty Name Trades Terminated Early Termination Date Thanks, Stacey
+204	The post ids for the bankruptcy books will be: They are running right now.
+204	They take approximately 30 minutes so should be complete at 9:45.
+204	If you are not seeing numbers, call Andrea Dahlke X5-4080.
+204	I am running to a dentist appointment this morning, and will be back shortly.
+204	Stacey
+205	Attached is a spreadsheet with marks as of 12/18/2001.
+205	If you need anything else, please let me know.
+205	Stacey White
+206	I am not sure why these did not show up yesterday, maybe my query was incorrect.
+206	However, the following spreadsheet contains terminated counterparties that still show up in the West portfolio.
+206	Let me know that you have or have not corrected it.
+206	Thanks, Stacey
+207	We are in town so count us in. I am TOTALLY planning on getting loaded (on munchies).
+207	Stacey
+208	Melissa, I was told that Grant County was also terminated and is on Kim's list, but I have not seen it on our updated master power list.
+208	Can you let me know the status of this counterparty.
+208	Thanks, Stacey
+209	Debbie, The bankruptcy post ids for 12-18 are 15296 and 15297.
+209	The data should be available first thing in the morning.
+209	Norman is running the calcs for me because I was receiving error messages.
+209	Stacey Norman, If the post ids change or the data is not available by morning please reply to all to let us know the status.
+209	Thanks, Stacey
+210	In addition to running the East and West portfolio calculations we will also be running the bankruptcy books on a daily basis.
+210	These should be run as 'Official AdHoc Full Book' but NOT OFFICIALIZED.
+210	The post id numbers should be e-mailed to Debbie Brackett, Stephanie McGinnis and John Powell before you leave for the evening.
+210	Thanks, Stacey
+211	We will be running a December MTD DPR tomorrow.
+211	Before we start this process please recalc the East, West, Eastbank, & Westbank portfolios to AdHoc.
+211	Check one more time that only terminated counterparties are in the Bank portfolios and all terminated counterparties are out of the East and West portfolios.
+211	Before kicking off the calcs, double check the specific deals that are listed on the Physical Power Terminated spreadsheet.
+211	I believe there were whole deals moved to the Bank portfolios by Will that should never have been moved, because they were already liquidated in November.
+211	Also, I have attached a new copy of the physical terminations.
+211	There is one counterparty (TXU) added to the list that we need to take care of before kicking off the calcs.
+211	In addition to adjusting deal entry for TXU we also need to adjust scheduling.
+211	Before recalcing the Bank portfolios, please contact Debbie Brackett or Stephanie McGinnis (4-2022) to make sure that they have extracted the data they need from the portfolios.
+211	We should still be calcing on 'No True-up'.
+211	Casey, I know you said this probably will still cause us trouble.
+211	At this point, we are going for reasonableness with numbers.
+211	All the previous top-levels in our rolls (as of the 3rd or 4th) will stay as top-levels until we know the exact amount of cash that is being attributed to power.
+211	The remaining prior day values will be held in Schedule E for Georgeanne to move to a balance sheet account.
+211	These top levels should match the total value of your Bankruptcy portfolios.
+211	Where I think it will get tricky is that we are calculating as of the 18th and have transactions in the Bankruptcy portfolio that are before the 18th and therefore will fall into your liquidations.
+211	These numbers will also have to moved to Schedule E. When running through liquidations in the East and West portfolios, we will not be flat.
+211	Currently, we are liquidating all non-terminated counterparties other than those specifically negotiated out of by scheduling.
+211	(Thresa and I are working on this with Corry and Cara).
+211	The settlements group will figure out what the counterparty agrees with through the check-out and ultimately the clean-up process.
+211	Tomorrow should be a blast - I can't wait!!!
+211	Stacey
+212	What are you talking about?
+212	Stacey
+213	Let me know if anything sticks out as peculiar.
+213	Stacey
+214	How do we want to go about this?
+214	Stacey
+215	This is the latest list I have received.
+215	I will forward you any updates.
+215	Stacey
+216	You suck!
+217	Dana, Here are the values of the annuities in the book as of 12/18/2001.
+217	These annuities represent amounts UI paid to Enron for the specified PPA's taken on during the transaction.
+217	Stacey Deal # Description Amount The following list represents other values associated with Resco, Derby and Shelton.
+217	Deal # Description Amount 257449.4 Receipt of capacity Shelton $ 49,488 I have also attached a file with UI current deal numbers and comments attached to those deals, thought it might help.
+217	Stacey
+218	Good News!!!
+218	The termination spreadsheets have been updated.
+218	There are three new counterparties for physical and one new counterparty for financial.
+218	Will Smith has moved a new version of Deal Liquidation into stage for us to use going forward.
+218	It incorporates both his script for moving deals to Bankruptcy books and splitting deals on their termination dates.
+218	Please look at this so we can use it on our updates.
+218	Stacey
+219	I have put this file together for our investigation.
+219	Have to run to a meeting, can discuss later.
+219	Stacey
+220	I ran deal data for the counterparties we received termination notification on today.
+220	I did not want to start moving deals while you were running calcs, so we can just do this tomorrow.
+220	The deals are on the 'East New as of 12-19' and the 'West New as of 12-19' tabs.
+220	Stacey P.S.
+220	Don't forget about Will's new application in stage.
+220	Stacey
+221	Please forward to the following: Nick Hiemstra Ed Baughman Naveed Ahmed The request is for the East and West portfolios (non-terminated).
+221	Don't forget to include Capacity and show separately in queries.
+221	By Portfolio, by Counterparty, by Category Code - P&L and delta by month.
+221	Also send a P&L update to Elizabeth Sager and Don Miller.
+221	The original files are 'East by Counterparty' and 'West by Counterparty'.
+221	Stacey
+222	This is the latest draft of pre-bankruptcy pay-outs.
+222	I have put all the information I have, please add any that you may know.
+222	Have a Merry Christmas!
+223	I spoke to Tim today regarding the prepayment transactions with terminated counterparties.
+223	He constructed this e-mail in response.
+223	Hope this clarifies.
+223	Have a Merry Christmas, Stacey
+224	Just wanted you to be aware of our concerns regarding Min Zheng.
+224	He is our Excel support and is called upon on a daily basis for help.
+224	Thanks, Stacey
+225	I have another meeting at this time.
+225	Can we reschedule or can I send someone else?
+225	Stacey
+226	Have you seen documentation on these counterparties?
+226	Stacey
+227	We have many deals in the system with UI, but they are all part of one contract.
+227	To my knowledge, this is the only big contract we have with them.
+227	Just wanted to let you know because going through all the deals would be time consuming and they basically are one huge deal.
+227	Stacey
+228	No I had another meeting at this time.
+228	Stacey
+229	See point 2 below - just wanted you to be on the lookout for MidAmerican.
+229	Stacey
+230	One more to look for.
+230	Stacey
+231	Fran, Congratulations!
+231	I can't believe you didn't call and tell me.
+231	Can't wait to see the ring.
+231	Stacey
+232	Thank you regarding Min.
+232	He does an extreme amount of work for us and I believe going forward we will need more rather than less of Excel type reports.
+232	Stacey
+233	Melissa, Here are some more.
+233	Just keeping you in the loop.
+233	Stacey
+234	Min, I am so happy that you were moved to the Netco list.
+234	Thank you for all your hard work and the efforts you have put forth to learn our needs and react quickly to them.
+234	I look forward to working with you in the future.
+234	Stacey
+235	Melissa, Can you find out if this Master Energy Purchase and Sale Agreement covers all our deals with TXU?
+235	Stacey
+236	Melissa, Here are some more to investigate!
+236	Stacey
+237	One more forward of terminated counterparties.
+237	Won't promise this will be the last.
+237	Stacey
+238	Now that Will has been cleaning out scheduling tables, will you ensure that the prepays in the document below are still in the scheduling system.
+238	If they are not, we can autoschedule them.
+238	Thanks, Stacey
+239	Thank you
+240	Please review and let me know if I have misrepresented any counterparties.
+240	If you want me to add comments, send them to me and I will incorporate.
+240	Thanks, Stacey David, Just to make sure you know, the Power Physical Terminated Transactions spreadsheet, is put together by Melissa from information she has received from Master Log and other.
+240	This is our primary source for moving transactions into the bankruptcy book as she review to ensure that the contracts terminated cover all our trades.
+240	Thanks, Stacey
+241	Let me know how I can help.
+241	Stacey
+242	Here is the latest Master.
+242	It is kind of a cluster.
+242	The easiest way to pick out power is to set an AutoFilter and look at Enron Entity column.
+242	Stacey
+243	Can one of you resend me the unarchive shortcut to 2000 data?
+243	Stacey
+244	As of now I should have no employees on the Estate list.
+244	Israel Estrada was on the list previously, but we have moved him to Power Global Rates in Netco.
+244	Stacey
+245	Fine by me.
+246	Go ahead and include counterparties on our power list even if they do not have any outstanding trades.
+246	That way, if anyone is comparing our lists later on their will be no discrepancy and they won't have to ask us again.
+246	Thanks for all the other information.
+246	Stacey
+247	I believe two of you is fine.
+247	We have stopped our rotation in the East and will have lots of work to do re: setting up books, continuing with terminations etc. Until it becomes evident, continue on.
+247	Stacey
+248	We have been officializing every day and the information is obviously as good as the curves.
+248	Every other Friday is just as good as any other day.
+248	Stacey
+249	They are rotating one person out a day starting Monday.
+249	We will not be setting up the West books.
+249	I would like to meet with you and Casey Monday morning if possible.
+249	You can still be at home as long as we can call you.
+249	Stacey
+250	Would 10:00 our time work?
+250	Stacey
+251	I am not personally interested in any positions currently.
+251	Thank you, Stacey White
+252	I can meet Tuesday anywhere from 9:00 to 3:00 (the meeting would have to end at 3:00 because I have a Dr's appt.).
+252	Wednesday, I am totally open.
+252	Stacey
+253	This looks good.
+253	I originally had a headcount of 11.
+253	If you added one to my headcount, then I agree.
+253	Stacey
+254	Wonder if he knows this?
+254	Stacey
+255	Please let me know your thoughts on the following correspondence.
+255	We are in the process of putting together our integration plan and the interest rate curve is one of our biggest stumbling blocks since the interest rate group will not be going to NEWCO.
+255	As you can see, your name has been volunteered and I need to know what all you will need access to in order to get this curve to the Risk Management groups on a timely (preferably 2:00 p.m.) basis.
+255	Thanks, Stacey
+256	Casey and John can get back to you on your specific question re: Canada.
+256	However, I wanted to let you know that our DPR will more than likely not be final until Friday.
+256	Hopefully we can get you all reports then.
+256	We have had to leave the DPR open due to many terminations that are still funneling our way and we are getting the 12-31 data as clean as possible for the estate.
+256	Stacey
+257	I know of nothing in stage that I use.
+257	I would like to make sure Casey and John both agree with me.
+257	Stacey
+258	Looks good - you mention month-end deadlines.
+258	You also might want to mention the work that goes on during month-end close and how that could potentially affect trading P&L.
+258	Stacey
+259	You can contact Leslie Reeves for this information.
+259	Stacey
+260	Please find attached the Integration Plan for Power Risk Management.
+260	If you need this information consolidated or expanded just let me know.
+260	Thanks, Stacey
+261	Casey, Can you have someone follow up with Hai and Harry and see how all these reports are working?
+261	Stacey
+262	Let me know if this is not what you need.
+262	Stacey
+263	Why is there still a financial position in the East portfolio for UI?
+263	Stacey
+264	This is coming from Kathy Reeves.
+264	Give her a call.
+264	Stacey
+265	I have already updated the Physical and Financial Terminated spreadsheets with these updates.
+265	Please have your groups start the split/clean-up scheduling process for the new counterparties.
+265	Stacey
+266	Here is the latest results from our valuation engine.
+266	Please let me know if you see any mistakes.
+266	We will update with your newest changes tomorrow, so you can exclude those from your evaluation.
+266	I also noticed that their is a financial UI transaction.
+266	I believe this was just an oversite and have asked Casey to look into it.
+266	Thanks, Stacey
+267	After talking to Tom I have a new plan of attack for Schedule E's.
+267	He informed me that the top-levels were typically put in at one region level per roll.
+267	I had Zhiyun re-run the killed deals calc (post id 15667).
+267	Everyone should go back into the rolls and put the top-levels into their correct regions also adjusting the Schedule E's.
+267	This is why the differences are so large in certain areas and the only way we can start to pinpoint the problem is to find the problem spots.
+267	I have also identified where the $4.6 MM difference for OPPD arose from.
+267	Deal # 11678.04 has not been transferred into the East Bank book.
+267	In addition, there are no volumes in this deals; however, if you look back to the official 11/30/2001 calc there are volumes for this deal.
+267	It gets more bizarre than that because there were two deals that should have been transferred for OPPD (11678.4, and 564826.1).
+267	Deal 564826.1 was transferred but the valuations are approximately $4MM different.
+267	I have printed detail for deals 11678.4 and 564826.1 (they are in Casey's chair) as of the 11/30/2001 official calc.
+267	I have also printed deal 564826.1 in the 11/30/2001 bankruptcy calc.
+267	I noticed that I cannot see any swap detail reports for the bankruptcy calc.
+267	Please re-calc and generate these reports as they will probably be important as we dig into details.
+267	Other than Andrea who has to perform some IT testing, no one should be working (or playing) on anything other than trying to get these Schedule E's and top-levels figured out.
+267	The task is actually very important as there will be many decisions made off of these numbers.
+267	Thanks, Stacey
+268	I have two other meetings at this time.
+268	Stacey
+269	The e-mail was sent on 1/3/2002, but the detail states that "TXU Energy Trading Company should be considered terminated effective December 2, 2001 by reason of an automatic termination provision in the agreement between TXU and EPMI".
+269	The e-mail does not give any details on ENA, ECC, of EES.
+269	Stacey
+270	Just make sure this is OK.
+270	Stacey
+271	This is possible.
+271	Probably won't be until tomorrow.
+271	Stacey
+272	Thanks - Merry Christmas!
+273	Do you need any help?
+273	Stacey
+274	Tim, John's communication regarding not updating December was in order to complete December liquidations for accounting and settlements last week.
+274	However, we were then informed that settlements would not draft their billing until the 14th of January so we then retracted our 'hold' on updating December schedule.
+274	Any updates that can be made in order for settlements to get the most accurate data would be most appreciated.
+274	In addition, the cash flow forecast (as indicated by Don) will be coordinated through Kristin.
+274	I do not believe you will have to do any work for this as all the data will come from our risk calculations and true settlement information.
+274	Thanks, Stacey
+275	The users I would start with are: Todd Warwick Frank Cernosek Stacey
+276	Don, Could you have someone send me the newest list of counterparties (both East & West) that we are still performing with.
+276	Thanks, Stacey
+277	We are through the 'As of 1-7' tabs.
+277	Stacey
+278	When: Thursday, January 10, 2002 2:30 PM-3:30 PM (GMT-06:00) Central Time (US & Canada).
+278	Where: Sonia can you set up on 5 in new building Sonia, It looks like you have a meeting from 2-4, so can you send me any documentation that you may have done re: any seating arrangements in the new building.
+278	Thanks, Stacey
+279	login: swhite
+280	Please don't forget to send this to us so we will have a record.
+280	Stacey
+281	Let me know if you need anything else.
+281	Stacey
+282	Do you know if the rest of these auto-terminations apply to all deals we have with this counterparties, or just certain deals?
+282	Please look into them and let me know as soon as possible.
+282	Stacey
+283	When: Thursday, January 10, 2002 4:30 PM-5:00 PM (GMT-06:00) Central Time (US & Canada).
+283	Where: ECS05102
+284	As soon as we finish calcing our book on Friday, we should be good to go.
+284	We will start as soon as possible.
+285	Each of you needs to send a book request for the East & West portfolios for the counterparties listed in the following spreadsheet.
+285	The spreadsheet identifies those counterparties which we are still performing under the contracts.
+285	Please create a East-Performance and a West-Performance book.
+285	We then need to get all deals with the following counterparties moved to those books.
+285	I would suggest you pull the values out of AdHoc as of 12/31 for the counterparties by desk before transferring them to the new desk.
+285	Obviously these transactions will create prior days and the amount will run through the P&L in the old and new books and flatten out.
+285	The remaining prior day value will need to be in Schedule E. Stacey
+286	I have not recompared the Master Log to the 'Physical Terminated' spreadsheet.
+286	This is just an update of my initial review.
+286	Any comments would be appreciated.
+286	I have also not included the Auto Terminations that we found out about today.
+286	After tomorrow's updates, I will do these.
+286	We are planning on moving the auto-terminations identified by David and confirmed by Kimberly to the bankruptcy book tomorrow.
+286	If anyone has a problem with the counterparties identified, please let me know as soon as possible Thanks, Stacey
+287	Please start the following task in the morning: Using the Official 11-30 calcs that you exported deal summaries from, add the following counterparty's MTM by desk: Constellation Energy Authority Sempra Energy Trading Public Service of Colorado I believe the calc that identified our top-levels had extra transactions or values that did not fall out of our books.
+287	Once you have figured out the total for the above counterparties compare them to your top-levels.
+287	Thanks, Stacey
+288	I have to run, but call me tomorrow.
+288	I have an idea of what your difference might be caused from.
+288	Stacey
+289	Are the numbers in Canadian $'s?
+289	If so, can you send me conversions.
+289	Thanks, Stacey
+290	Thanks
+291	The orig trading books can be set up at a later date.
+291	It should be a while before we have any activity of that sort.
+291	We ran financial liquidations because we have not had any additions to the financial terminations.
+291	I am working on one more big set of counterparties who had auto-termination language in their master agreements.
+291	I vote we catch up with all the information we have as of today and then run liquidations on Monday.
+291	What do you guys think?
+291	Stacey
+292	Sonia, Kim may have some changes to the seating assignments.
+292	I believe these changes will also affect where Evelyn's settlements group sits.
+292	Please coordinate changes and then send me a list of desk #'s and associated names.
+292	I need to forward this information to Lloyd Will.
+292	Thanks, Stacey
+293	John - Not even the Dec #'s are done yet?
+293	I believe they are planning on mass drafting Monday, so whatever is in the system at this time will go to Unify.
+293	We might as well match Unify even if it is wrong, I guess.
+293	Leslie - thoughts?
+293	Stacey
+294	Casey, Can you please auto-schedule the following deals for December.
+294	Please let Leslie and I know when you are complete.
+294	Stacey Deal #
+295	What is the exact name for Georgia Pacific?
+295	We do not see any transactions with them in the system.
+295	Stacey
+296	Steven Luong and Nick are working on a better list with more specific names.
+296	I'll keep you informed.
+296	Stacey
+297	I heard that.
+297	How was the floor meeting?
+297	Stacey
+298	I didn't hear much more than that myself.
+298	Stacey
+299	If you have not already done so, please send instructions to users (or IT support) to update machines in Portland.
+299	Thanks, Stacey
+300	Thanks!
+301	You just let me know what y'all decide.
+302	Leslie, Here is the most updated list of pre-bankruptcy payouts.
+302	Do you think Evelyn, Bryce, etc. could put together numbers for outstanding payable/receivable?
+302	Stacey
+303	Whenever we asked to give terminated information for the Estate we should include the 'Alberta ENA Bankruptcy' portfolio.
+303	The transactions in this portfolio are transactions entered into by Canada using a ENA contract that has now been terminated.
+303	If you have specific questions, please contact Kathy Reeves.
+303	Stacey
+304	Can you have someone do this?
+304	I forgot to put it on the group's To Do list for the week.
+304	(Besides, I thought I would do it myself, but never seem to find time).
+304	Stacey
+305	Was in a meeting with UBS at this time.
+305	Sorry.
+305	Stacey
+306	Thought you would think this was funny.
+306	Stacey
+307	What is she talking about?
+307	Stacey
+308	Hope this helps a little bit re: RisktRAC.
+308	After talking to Jeff, I believe the key to book codes is ensuring from IT that we can use whatever we want as the database will be entry.
+308	Andrea, I agree that you should keep a power list and Kam should keep the gas list.
+308	Also, just wondering if when we set up the gas books should we have also put in requests for gas daily, basis, index, etc. I couldn't remember how that worked.
+308	Stacey
+309	thanks
+310	Can you tell me what the post-id was on my original file?
+310	Stacey
+311	Here you go.
+311	Stacey
+312	FYI Stacey
+313	That's it for me.
+313	Stacey
+314	Wasn't sure if you wanted to read the whole letter.
+314	Here it is , if so.
+314	Stacey
+315	Thought you were moving this meeting to 3:00.
+315	Jeff and I have a meeting with UBS from 1:00-2:30.
+315	Stacey
+316	Can you all verify that you do or do not use the applications listed below as soon as possible.
+316	We are in the process of moving or discarding applications to move to the NETCO environment and are unaware of who uses the following applications.
+316	Thanks, Stacey
+317	Hope all is well.
+317	My new e-mail is stacey.w.white@enron.com The one you have will be decommissioned shortly.
+317	I still have a job and will more than likely go to the 'new co.' - the piece that UBS has bid for.
+317	Currently, we are extremely busy trying to close out old business at the same time as setting up details of the new business.
+317	Russell and I are both well, probably working too hard.
+317	What is new with you?
+317	Stacey If you get a chance give me a call - would love to talk to you.
+317	713-853-1870 (w) 281-382-5215 (cell).
+317	I tried the number listed on this e-mail for you, but it just rang and rang.
+318	Can you update the original file you sent with Bryce's changes below.
+318	I am afraid I do not understand exactly what I should change on Sequent.
+318	Thanks, Stacey
+319	Did y'all export, etc.?
+319	Stacey
+320	I totally agree!!
+320	Stacey
+321	Yes, thank you.
+321	How much do I owe you?
+321	Stacey
+322	have you forwarded to John, or do I need to?
+323	Have you told Kathy about this transfer?
+323	Should it be a bankruptcy book?
+323	Stacey
+324	You will LOVE this!
+324	Stacey
+325	It looks good for me.
+325	There are a couple of applications I do not have access to.
+325	Let me know what method you would like me to take in requesting access.
+325	Stacey
+326	Can Cecilia do what she has requested below?
+326	Stacey
+327	The following post-id's represent the re-calcs for 11-30: The total forward P&L for these post-id's should be $986,414,195 The following spreadsheets represents the final product from our request.
+327	Please see if you can pull by the parameters we chose from AdHoc.
+327	Stacey
+328	Thanks
+329	Home 281-412-9234 Cell 713-553-3641 Hope these are still the same.
+329	Stacey
+330	So sorry to be such a bother, but I just want to make sure that you received and are frantically thinking about my message.
+330	UBS is needing names confirmed this morning so offer letters can go out today.
+330	Stacey
+331	Thank you so much for this query.
+331	At this time, I am not sure what happened to the numbers in our spreadsheet.
+331	The data was pulled from AdHoc by calculating East, West, Eastbank, & Westbank.
+331	However, the total we retrieved from AdHoc did not match the total Portcalc value.
+331	I do not want you to spend time trying to figure out what happened to our spreadsheet because it could have been anything from using the wrong code to calc the books to simple user error.
+331	There are too many variables that are unknown.
+331	The good thing is, it works now.
+331	Thanks, Stacey
+332	I have re-confirmed with Power Operations and there are no more spots available to make room for one more risk person.
+332	I have all of Heather's information and will be glad to communicate her offer to her, if it has not already been communicated.
+332	Also, please let me know the message you are sending to 'estate' employees in Portland.
+332	I would like to communicate the same message to Samantha.
+332	If you want to talk to me you can reach me at 281-894-0468 or send me an e-mail.
+332	Stacey
+333	According to Tim, if we could find no other spots for her to stay in Risk, she would be designated as VM and Kit Blair would be taken off the list.
+333	Do you know what communication is being given to 'estate' employees in Portland?
+333	Stacey
+334	Sounds good to me.
+334	The only days I don't want to meet are the 4th and 5th.
+334	Stacey
+335	Thanks for the update.
+335	I finally talked to him also.
+335	The message you just told me, is what I communicated to Samantha.
+335	Whenever or if ever, you find out more specifics re: Portland estate, please let me know.
+335	Stacey
+336	Here you go.
+336	There is a chance I may have to go to a UBS dinner tonight, but it might get changed to tomorrow.
+336	If it does get changed, I will be there tonight.
+336	Stacey
+337	Do you think we should get Sonia to update this?
+337	Stacey
+338	I will be out of the office for a UBS orientation.
+338	Stacey
+339	Make sure you talk to Casey & John.
+339	Most of my Houston group has been out of the office either this morning or this afternoon for a UBS orientation.
+339	Stacey
+340	Do you know if they got these same numbers from John?
+340	Stacey
+341	Please update me on the answer to the following e-mail.
+341	I am almost certain I know the answer, but would like to make sure we are all on the same page.
+341	Thanks, Stacey
+342	Can you find out who in your HR would be a good contact for a job opening previously held by Lou Casari?
+342	I have a friend at Enron, my first boss, who will probably be leaving the company, but does not want to leave Houston if she does not have to.
+342	She is very well qualified for a management position, her resume should speak for itself.
+342	Let me know.
+342	Stacey
+343	Here's what he said....
+344	I updated the Physical Power Terminated spreadsheet with the following update.
+344	FYI - it is NSTAR!
+344	Stacey
+345	Thanks for the reminder.
+345	Just an FYI - it is not babysitting when it is your own kids.
+345	(Just kidding - wanting to share a pet peeve of my sister's.) Stacey
+346	Will be there.
+347	Power December books are final.
+347	This does not mean that every termination has been accounted for in the final Dec. 31 calculation.
+347	We eventually hit a stopping point for terminations and will catch up the remainder of terminations in 'after December' books.
+347	Also, power books are set up as you have defined below.
+347	Stacey
+348	I think your resume looks good.
+348	Brad called me today and they are definitely pulling together resumes.
+348	He says send a resume, call or both.
+348	Stacey
+349	I certainly do not anticipate that we will.
+349	I hope the Estate people are designating someone for this.
+349	I am going to look into it.
+349	Stacey
+350	Bob, What is the plan for this going forward?
+350	I am expecting that you will want to use my risk estate employees for this, I am correct?
+350	Stacey
+351	Sounds good to me.
+351	FYI - the option true-up was a different issue, related to the way options were being input into the system.
+351	They had days which would fall out of the calc, not a last day of the month problem.
+351	Stacey
+352	Just a reminder to make sure you get Tim a list of books/regions that are currently designated to be traded.
+352	We need to change trader names etc. so make sure he gets us this information as soon as possible.
+352	Stacey
+353	This should answer your regional trading question.
+353	Once again, there is nothing to physically stop them from trading in any region, but the management decision on regional trading for the East is as follows.
+353	I do not have this same information from the West.
+353	Stacey
+354	You will be extremely missed!
+354	Good luck in all your future ventures.
+354	Stacey
+355	Also, will you get Tim to give direction on what traders will be allowed to trade what regions.
+355	Thanks, Stacey
+356	We will be explaining the process to Tom Chapman for the East and Samantha Law for the West.
+356	Stacey
+357	As you can see from various e-mails, Samantha will need to take responsibility for these twice weekly calcs.
+357	I talked to Bob yesterday and he is aware that she is there and needing something to do.
+357	Unofficially, he said that there should be no employee changes before the end of February, so Sam should start coming to work and taking over any specific West Estate requests.
+357	Stacey
+358	Let me know what other detail you need.
+358	Stacey
+359	East Delivery Points for Facilities
+360	FYI - here is the 6th floor plan with my group attached to desk.
+360	Stacey
+361	Yes, she is actually down here right now and I am showing it to her.
+361	Send me your names and I'll print them in color for her.
+361	Stacey
+362	When you get around to setting up these fields for the West, please use the portfolio code 'W' for West and then use the same methodology for Book Code that Andrea did.
+362	I'll let you know the answer she gets from Andrew re: 'US Power East' because you should be using 'US Power West'.
+362	Stacey
+363	Here you go.
+363	It is totally liquidated, so no one will have to worry about it anymore!!!
+363	Stacey
+364	I am attaching this again because I am not certain that I saved it before I attached it the first time.
+364	Stacey
+365	yes
+366	Your gas books still have Bob Badeer and Matt Motley attached to them.
+366	You need to send in a change for these books.
+366	Stacey
+367	I just heard a rumor that the Ercot Power Trading was going to sit in the Gas (Open) section.
+367	Is this the case and does it change the seating for gas and power risk?
+367	Thanks, Stacey
+368	FYI - we will be running a live simulation on Thursday.
+368	I will give you more details when I know something.
+368	John, When you get a chance will you ask Tim if he is aware of this?
+368	Stacey
+369	He was not offered a job in UBS.
+369	He was told last Friday, by me, that he would remain in the Estate, so his resignation is from the Estate.
+369	Stacey
+370	FYI - the only other temporary information I can give you is Thursday Feb 7.
+370	is simulation date (as per previous e-mail) and Monday, Feb. 11 is the current 'go live' date.
+370	I'll try to keep you up to date with any changes.
+370	If there is ANYTHING we think we have not done or will not complete by next Wednesday, Feb. 5 such as desk set ups, RisktRAC set up (including hierarchies), individual roll set ups, testing of Min's new DPR Automation, and anything else I may not be thinking of, please let me know as soon as possible, so we can get the right resources working on it.
+370	Thanks, Stacey
+371	Please move until later in the afternoon.
+371	I have a 9:00 and an 11:00 in the new building.
+371	Stacey
+372	Please try contacting him at the following numbers 713-668-7572 (home) 832-338-6793 (cell) If you cannot contact him at these numbers, let me know, I have one other way of getting in touch with him.
+372	Thanks, Stacey
+373	FYI - Tim Carter resigned effective today.
+373	Stacey
+374	To be totally consistent from the beginning, can you rename either your long term Long Names to not include spaces between 'North' and 'West' and 'South' and 'West'.
+374	The short term books do not have spaces.
+374	Stacey
+375	Just want to make sure that Tom and Sam will be preparing these documents.
+375	Stacey
+376	Since we talked about a lot of different spreadsheets, can you give me some more guidance on what was included in the spreadsheet I talked about so I will send you the correct one.
+376	Stacey
+377	Can you do mine?
+378	Christina, This is just a reminder that I will be out of the office on Monday.
+378	If they need me to answer any questions here are the phone numbers: 281-894-0468 (home) 281-382-5215 (cell) Stacey
+379	No
+380	FYI on Estate EnPower support.
+381	I will attend.
+381	Also, is there someone who objects to sending invitations through the calendar tool?
+381	It is a much more efficient method of getting meetings on the calendar.
+381	Thanks, Stacey
+382	Christina, Please add the following items to our issues list.
+382	I have talked to Leslie about these and she will be able to talk through them on Monday.
+382	1.
+382	Determine whether or not we need to establish POA's for cash accounts.
+382	This is a Day 1 issue.
+382	Please insert after the 'Set up new cash accounts and lock box'.
+382	2.
+382	Determine whether or not financial commodity trading, other than power and gas, will be allowed in order to ensure that all adequate curves, indexes, etc and being established in the rate system.
+382	This is a Day 1 issue.
+382	3.
+382	Need to set up meeting to discuss approval processes for new curves, books, settlement indexes after Day 1.
+382	Suggested groups to be involved: Market Risk, Credit Risk, Finance and Control, Operations.
+382	4.
+382	Discussion around the use of Enron's 'New Counterparty' methodology.
+382	This is a Day 1 issue.
+382	Thanks, Stacey
+383	Who else should I send this to?
+383	Stacey
+384	I was out of the office yesterday when you called.
+384	It looks like you have received as much information as we have from Jeff.
+384	Thanks again for your continued help.
+384	Hope all is well.
+384	Stacey
+385	Thank you!
+386	Christina, Just wanted to let you know that Donnie will be joining us for the 11:30 meeting.
+386	Thanks, Stacey
+387	Vlad, Here is the latest book list based on book requests.
+387	The one item I know has not been requested is Andy Zipper as the LT-Option trader.
+387	When we request this and it is complete, we will send you an update.
+387	Stacey
+388	Should we request the LT-Option book to be attached to Andy Zipper?
+388	Any other books needed for him?
+388	Will he be allowed to trade all regions?
+388	Thanks, Stacey
+389	Please send a power and gas book request for Andy Zipper.
+389	Thanks, Stacey
+390	Sally, John Postlethwaite, Donnie Vinson and Casey Evans all have the title of Associate Director.
+390	Kathy Reeves was a manager previously so I assume she is also an Associate Director.
+390	I will be out of the office the rest of this afternoon for a doctor's appointment.
+390	If you need me I will have my cell phone 281-382-5215.
+390	Thanks, Stacey
+391	I have an 11:00, so I will have to leave early.
+391	Stacey
+392	Jeremy, We will need no additional curves.
+392	Only those designated by the gas group will need to be moved.
+392	Thanks for the heads-up.
+392	Stacey
+393	Does anyone know what the status of this change is for the West?
+393	Stacey
+394	This the latest on the move.
+394	Stacey
+395	Are they working on it?
+396	Who do we ask to set up the m:\common?
+396	This makes the most sense to me.
+396	Stacey
+397	Roberto, Can you please add to the m: drive a first tier directory of common.
+397	Please let me know ASAP that this is complete.
+397	Thanks, Stacey White Director, Power Risk Management
+398	Thank you.
+399	Make sure that all curves are downloaded by the end of simulation, 11:00 CST, tomorrow.
+399	Ideally, the 2/7/02 curves should be marked in the morning prior to simulation.
+399	We have been instructed to kick the calculation off as close to 11:00 CST as possible.
+399	This is to ensure that ALL downstream systems are able to run through the simulation.
+399	Please forward to all applicable traders.
+399	Thanks, Stacey
+400	In order to point to the UBS environment in EnPower you need to change your PortCalc Host to the following.
+400	This screen is reached through Tools - Option Environment.
+400	Also, copy the PortCalc Host into your FTP Host: Let me know if you have any questions.
+400	Stacey
+401	I had received this in an e-mail, wasn't sure if you had gotten a copy.
+401	Stacey

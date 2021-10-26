@@ -1,0 +1,607 @@
+0	Attached is a spreadsheet summarizing hourly TTC and ATC data for COB S/N from Jan 1, 2000 to April 2001.
+0	The data were obtained from the ISO.
+0	After looking at the data, it is clear that, although the TTC values have not changed from '00 to '01, the ATC values have decreased dramatically.
+0	I believe the reason for this is the ISO's attempt to prevent exports to the Northwest.
+0	I propose that we send this spreadsheet to our ISO rep (via Sue Mara) and ask him to explain the reason for the reduction.
+0	Thanks
+1	This gets even better.
+1	On Tuesday, April 3, I had our California prescheduler ask the ISO Day Ahead personnel why the COB S/N ATC had been decreased so much.
+1	There reply was that the ATC is calculated by taking the TTC less Existing Transmission Contracts less FTRs less Capacity Benefit Margin.
+1	Normally, and up until January 1 of this year, they haven't used a Capacity Benefit Margin when calculating ATC leaving the state.
+1	So the amount of ATC they had at COB S/N is normally in the 700 to 800 MW range, rather than the 35 to 60 MW of ATC they are using now.
+1	We asked what this Capacity Benefit Margin was, and they said it's not in their tariff, it's in the NERC Operating Manual.
+1	I went to the NERC web site, and sure enough, Capacity Benefit Margin is a defined term.
+1	It reads : "Capacity Benefit Margin is the amount of TTC reserved by load serving entities to ensure access to generation from interconnected systems to meet generation reliability requirements".
+1	The ISO's use of this language is outrageous.
+1	This is language to ensure that load has transmission access to remote generation.
+1	I can see them using this argument with respect to COB N/S but no way COB S/N!!
+1	In fact, one could very easily argue that they are VIOLATING this criteria.
+1	If we have load in the Northwest, and have purchased generation in California, we should have access to available transmission.
+2	They auctioned off 56, up from 37, so that's not it.
+3	Thanks, there fruity-pants.
+4	Alan, Attached is the memo I promised.
+4	It's sort of rough, but accurate.
+4	Please feel free to utilize any or all of it.
+4	It would be interesting to get Steve Walton's feedback as well.
+4	Also, this doesn't really address my concerns with respect to curtailing firm exports under muni-transmission (at least not completely).
+4	If you have any questions, let me know.
+5	Installed Windows 2000 at home and work; quite nice.
+5	No compatability problems.
+5	Good job.
+6	Your numbers are close enough to mine to agree.
+6	I put in an annuity to Modesto for $158,321.16 dated March 31.
+6	The Enron deal number is 573111 (just in case there is any confusion).
+6	If there are any problems, give me a call.
+6	Thanks, Sean
+7	Attached are my final comments.
+7	They deal more with the proposal to curtail exports (including muni).
+7	I don't really care if we file this with the material we have already put together, or do something with it separately.
+7	With respect to the ATC and TTC questions we were addressing earlier, I haven't added anything to what Steve put together.
+7	The CAISO's argument about restricting ATC because of Path 15 congestion, because, as Steve points out, any technical problems would affect both TTC AND ATC.
+7	If anyone has any questions, let me know
+8	Seems like one or each desk could participate.
+8	The problem would be the unrecorded line.
+9	cell phone is a good idea.
+10	How many "mothballed" power plants are there?
+11	Kevin, Here are the examples we talked about Assumptions: 2.
+11	We put out a COB/MC market $4 at $7.
+11	Here's what will happen in the broker market: (A) If someone hits my bid of $4 in the broker market I will BUY COB at something like $35, and I will SELL Mid-C at $31.
+11	(B) If someone lifts my offer of $7 in the broker market I will SELL COB at something like $35, and I will BUY Mid-C at $28.
+11	If you take the same assumptions and show this market on EOL, here's my understanding of what will happen: (C) If someone hits my bid of $4 on EOL, I will SELL COB at $35, and I will BUY MC at $39 (compare this with (A)) (D) If someone lifts my offer of $7 on EOL, I will BUY COB at $35, and I will SELL MC at $42 (compare this with (B)).
+11	Clearly this doesn't work.
+11	One possible solution, I think, is to examine what happens if you put out a COB/MC product on EOL, but switch the products such that Product 1 = MC and Product 2 = COB, and assume we put the underlying Product 1 market out as MC $30 @ $40.
+11	(E) If someone hits my bid of $4 on EOL, I will SELL MC at $35, and I will BUY COB at $39 (achieves same result as (A), which is what we want).
+11	(F) If someone lifts my offer of $7 on EOL, I will BUY MC at $35, and I will SELL COB at $42 (achieves the same result as (B), which is what we want).
+11	I realize (E) and (F) don't jive with our long contract description, but conceptually it works.
+11	If you have any questions, let me know.
+12	Bruce, I haven't had an opportunity to call you directly yet, so I thought I would e-mail you first and sort of lay out the circumstances.
+12	I've been a short-term trader with Enron for about 4 years -- I run our short-term Northwest book.
+12	Prior to that, I cash traded for Portland General for a couple of years.
+12	My contract with Enron is up July 31, and I have a 3-month non-compete obligation.
+12	Theoretically, the earliest I could leave Enron would be May 31, so the earliest I could start with another shop would be Sept 1.
+12	To be honest, at this point I'm shopping.
+12	I'm talking to a couple of other outfits and I basically want to see what sort of interest there is out there.
+12	I talked with Matt, and he mentioned you, so I thought it might be a good idea to get in touch.
+12	If you are interested in pursuing anything further, please e-mail me and we'll arrange a time we can talk over the phone.
+12	Thanks, Sean
+13	We've been experimenting with spreads on EOL and I want to lay out to you what happens when you transact a spread on EOL.
+13	Assume you want to put out the COB/MC spread -4 at 4.
+13	Also assume COB is 275 at 300.
+13	As you know, if you put this out in the broker market, you would expect to buy COB $4 under Mid-C or sell COB $4 over.
+13	If you want to duplicate these trades on EOL you could put out COB/MC -4 at 4, but here is what's going to happen (assume COB mid is 287.5).
+13	If somebody 'hits' your 'bid' you will sell COB at 287.5 and buy Mid-C at 283.5.
+13	If somebody 'lifts' your 'offer' you will buy COB at 287.5 and sell MC at 291.5.
+13	Effectively the EOL transaction turns your bid into an offer and an offer into a bid, or the title is COB/MC but the transaction is MC/COB.
+13	The problem it seems to me is that, fundamentally, bid is always first, offer is second.
+13	For this to work as is, the market would have to accept that, in all cases bid/offer applies except with EOL spreads where it's offer/bid.
+13	This seems too confusing to me.
+13	I'm not sure how you guys feel about it, but I want to give you a heads up.
+14	Steve, I've been talking with James over the last couple of weeks about possible opportunities at Duke.
+14	Just to give you a quick look at my background, I've been running Enron's short-term Northwest desk for about 4 years.
+14	Prior to that, I performed more or less the same function with PGE for a couple of years.
+14	My contract with Enron is up July 31.
+14	I'm under a 3-month noncompete obligation after I leave Enron.
+14	Theoretically, my last day with Enron could be May 31, so the first day I'd be able to start somewhere else would be Sept 1.
+14	To be honest, at this point I'm shopping.
+14	My goal is to have 3-4 options to consider by May 31.
+14	I'll be in Salt Lake on May 4, so if you are interested in getting together to talk about any opportunities Duke might have, please let me know.
+14	Thanks, Sean
+15	Today is a good time.
+15	E-mail me with a number I can reach you at, a time, and I'll give you a call from my cell phone.
+15	Thanks
+16	Sounds good.
+16	I'll give you a call.
+17	Kevin This looks like it will work.
+17	Since there has been some confusion around this, I'll lay out what I think will happen with this language.
+17	Assumption #1: COB is not displayed on EOL.
+17	Product 1 is COB; Product 2 is MC Situation #1 Customer lifts the COB/MC spread at $10.
+17	Enron will then BUY the MC at $325 and SELL COB at $335.
+17	Situation #2 Customer hits the COB/MC spread at $5.
+17	Enron will then SELL the MC at $325 and BUY COB at $329.
+17	This is how it should work.
+17	I suggest we test things out now, and see how it works.
+17	Thanks, Sean
+18	Why
+19	If I can build a product, I'm ready any time.
+19	We can test it internally before we go live.
+19	Let me know if I can build the product.
+19	Thanks
+20	Thanks for your response.
+20	I was wondering if you guys have public information about the spill program coming up.
+21	Kevin, Is the SP and NP language in the spread language the same language we use when we transact SP15 or NP15 on eol?
+22	Hey Bruce, Thanks for the chance to meet you and the people you work with.
+22	I was just wondering where we are at now.
+22	If you get a chance, either e-mail me or give me a call.
+22	Thanks again, Sean
+23	Down to brass tacks, eh?
+23	This is always the interesting part.
+23	Quite frankly Bruce, it's a pretty good job market.
+23	Basically I'm looking at two other prospects.
+23	The first will require me to sign a 2-year contract, the second will not.
+23	The base component with the first is going to be around $275/year.
+23	The second is going to be around $250/year.
+23	As far as incentive bonus goes, I'm looking at about a minimum of $450 for the first to about a max of $750.
+23	At the second I'm looking at a min of about $350 to about a max of $900.
+23	So over a one year period, we're looking at about $725 to $1.025M for prospect 1, and $600 To $1.15M for prospect 2.
+23	In terms of location, both prospect 1 and 2 are in attractive locations for me.
+23	Prospect 1 is in a VERY attractive location.
+23	To be honest, I'm not a big buyer of Houston, so I have to factor that into the equation.
+23	Secondly, both prospects are big, well entrenched players, so I'm pretty confident of the above numbers.
+23	While I'm pretty excited about the prospects of being on the "ground floor" with Cinergy, I also have to recognize Cinergy doesn't have a P&L track record for me to assess the probability of the incentive payout.
+23	For that reason, I think, I would require a fairly large guaranteed number the first year, while still participating in Cinergy's incentive program.
+23	The second year I would be willing to renegotiate the guaranteed number if we had our feet underneath us and it looked like we had the room to prove ourselves and generate some serious money for the company.
+23	Given what you guys have in mind, I honestly think I can help you achieve your goals more quickly, and with less risk.
+23	I also think there is serious money to be made with the right team--I've seen it happen at Enron.
+23	No matter what happens, I appreciate you taking the time.
+23	Please also extend my thanks to everyone I had the opportunity to meet in Cincinnati.
+24	Hey Bruce, The 600 and 725 are guaranteed, yes.
+24	I didn't mean to imply Cinergy wouldn't pay out; I meant more i'm basically comparing startup prospects with established company/operations prospects.
+24	Startup prospects are, I think, more risky.
+24	Also, I realize there are distinct advantages from living in Houston.
+24	My "reluctance" is more of a family/moving type of thing.
+24	It is an issue, but not a huge one.
+24	Thanks, Sean
+25	Bruce, The 600K is salary, and nonperformance related bonus payouts.
+25	It is NOT guaranteed bonus over and above salary (I wish it was).
+25	Basically, I am 95% certain I will make a minimum of 600K/year with either company, worst case I'm looking at 500K/year (excluding incentive).
+25	Incentive would be in addition to.
+25	My offer would have to be in that ballpark.
+25	If I worked 1/3 the year, assuming a base salary in the 250 to 300 range, I would get 100 less.
+25	Also, I'm not trying to be vague.
+25	Essentially I'm working with 3 moving parts--non of which has become crystal clear yet.
+25	At this point, let's look at this: 2-year contract with an out after 1-year.
+25	$275 base salary.
+25	$225 signing bonus.
+25	$225 retention bonus after 1-year.
+25	If I take it, I'm done for another year.
+25	Participation in the 17% incentive package.
+25	Relocation package.
+25	That seems to be the ballpark we are in. Thanks, Sean
+26	Steve, Thanks for the dinner and chance to meet everyone Friday.
+26	It actually was a pleasure to talk with Nancy (rare, I think for an interview situation).
+26	I'm sorry to say I'm still in a holding pattern.
+26	There are a couple of bits of information I still need to process, but I thought I would email you with some initial numbers.
+26	I'd also like to confirm my understanding of Duke's compensation program.
+26	Base Salary: $150K-$175K/year LTI: 100% of base salary paid out in options that vest 1/3 every year.
+26	Performance Incentive: 2X to 6X base salary.
+26	No contract.
+26	Full relocation package.
+26	This is what I recall from the interview.
+26	If I'm wrong, I'd appreciate clarification.
+26	Regardless of what happens, I appreciate your time and consideration.
+26	I should be able to come to a decision next week.
+26	Thanks, Sean
+27	Looks good then, let's try it.
+28	Hey Bruce, Hope you had a good vacation.
+28	I was just touching base to see where we're at.
+28	I leave for Europe on June 5 and I'll be gone until July 2.
+28	My last day in the office here will be either Thursday or Friday of this week.
+28	Some other places you can contact me are: cell: 503-805-2557 home: 503-656-5253 Thanks, Sean
+29	Hey Bruce, Thanks for the response.
+29	I think I would like to see Cinergy's bid.
+29	I sort of have to weigh many nonfinancial issues as well.
+29	It would be nice to know where we are at.
+29	If you could provide me a rough number, that would be helpful.
+29	Thanks, Sean
+30	Thanks Bruce, I appreciate it.
+31	hey
+32	WEST POWER TRADING Accomplishments and Goals First-Half Accomplishments ST NW book made approximately $28 million.
+32	Effectively managed complex physical positions in the Northwest.
+32	Effectively managed ST NW personnel.
+32	Provided effective leadership to other traders and schedulers on the desk.
+32	Provided feedback to Fundamentals.
+32	Short Term Goals Continue to trade the ST NW Book.
+32	Meet new P&L objective.
+32	Work on my discipline.
+32	Learn more about gas.
+32	Learn more about options.
+32	Prepare for Q3.
+32	Work with Tom and Mark to create more of a cohesive and integrated cash desk.
+32	Apply coordinated pressure at various points in the cash market.
+32	Work more with Fundamentals with respect to organizing and displaying information.
+32	Long Term Goals Play a lead role in Enron's involvement in the Northwest RTO, if the RTO turns out to be a substantive and functional organization.
+33	Here are some questions/comments I have regarding the ruling.
+33	1.
+33	How does the cap apply to index prices.
+33	If the DJ-PV index settles at $120 and the cap is $98, do parties selling index have to adjust there price to $98?
+33	2.
+33	Would financial products (swaps) be affected by the cap?
+33	3.
+33	There has to be less ambiguity with respect to day ahead cash markets.
+33	For example, assume it's a Monday and the ISO is under normal conditions and the price is $92.
+33	Then assume on HE 14 the ISO declares a stage one and the price clears at $100 and the price is $100 for the rest of the day.
+33	Tuesday assume the price is $85 during the first few offpeak hours, but the Wednesday forecast shows identical conditions as Monday.
+33	What is the day ahead cash cap trading Tuesday for Wednesday?
+33	Is it $85 or $100?
+33	One could make the argument that it should be $100 because it is reasonable to assume they will be in a stage one real time on Wednesday, but at the time cash is traded they are not in a stage one.
+33	It seems to me the easiest way to solve this problem would be to have an independent market organization declare what the day ahead cash market price was before the cash market traded.
+33	So for the example, they may recognize it's likely a stage 1 $100 cap will be in effect on Wednesday, so they'll set the cap at $100.
+33	The market will know before hand and there will be no ambiguity.
+33	More efficient market, less litigation.
+33	4.
+33	What about call options?
+33	If a generator owns a call option at $125, the cap is $100, but the market is actually trading $150, does the generator have the right to exercise the option?
+33	What if the generator has a plant that he can fire up at $150.
+33	Does the generator have to wait until the price hits $150?
+33	Seems like the strike price on an option would be an easily demonstrable expense.
+33	And would there be a difference between a marketer owning an option and a generator owning an option?
+34	Here are my comments 1.
+34	I wouldn't agree the caps have hurt liquidity.
+34	In fact, in the Northwest at least, they have actually increased liquidity.
+34	Any decrease in liquidity can be attributed primarily to a couple of things (1) uncertainty about the level of the cap and (2) when the day-ahead prices trade above the cap (removing marketers as sellers).
+34	I would propose the following cap timelines.
+34	First of all, I think it's important that FERC realize the "spot" market really is two separate markets, what we call the "day-ahead" cash markets, and "day-of" real-time markets.
+34	The 24-hour designation doesn't dovetail with the current market timelines and is a source of confusion that can adversely affect liquidity and dispatch of power plants.
+34	For example, day-ahead cash typically trades from 6:00 am to approximately 7:00 am for next day deliveries.
+34	However, on Thursdays the WSCC OTC market trades for Friday and Saturday deliveries, and on Fridays, we trade for Sunday and Monday (all of this can be adjusted for various reasons, but this is the typical schedule).
+34	If we held to the 24-hour spot cap literally, then Tuesday thru Friday the cap would apply to the day-ahead market, but would not apply to Saturday and Monday.
+34	This obviously cannot be an intended consequence.
+34	I recommend the cap timeline be consistent with the day-ahead WSCC OTC trading timelines.
+34	In addition, there is some question with respect to what cap applies to the day-ahead market.
+34	What if the forecast calls for much higher temperatures and it is assured that real-time markets will be trading above the 85% threshold?
+34	Assume that stage I, II or even III is a certainty.
+34	It seems prudent that a higher day-ahead price cap be established (still consistent with FERC's guidelines).
+34	Why?
+34	Because you would want units prescheduled to have high reserve margins going into real-time, rather than scrambling to dispatch units real-time.
+34	It seems like it would be prudent for some independent board to set the day-ahead price cap equal to either the 85% or Stage I limit prior to trading time.
+34	This board would have to have regional representatives in order to be truly effective.
+34	Establishing the cap does not have to be cumbersome or time consuming, in fact, it should be fairly easy.
+34	The cap governing real-time transactions is clear.
+34	However, what isn't clear is what happens when the new Stage I cap is actually lower than the existing 85% of stage I cap.
+34	For example, during the first couple of days in July the real-time cap was operating under the 85% of Stage 1 criteria, approximately $92.
+34	The ISO hit a Stage I and Stage II and the price actually fell to the $70s.
+34	This created uncertainty exactly when it shouldn't happen.
+34	As a result supply was apparently affected in California and the Southwest for a few hours across the peak.
+34	It seems odd that prices should fall real-time as reserve margins decrease.
+34	One could argue this is a good reason why caps should be tied to daily gas prices, but assuming that isn't an option, I propose something like this: The DAY BEFORE (around 2200) the CAISO, or preferably an independent body, would determine the real-time non-Stage cap as well as a Stage minimum.
+34	While in a stage I, II, or III the hourly price would be the HIGHER of the non-stage price cap OR the recalculated Stage price.
+34	If the Stage I price turned out lower, then the non-stage price would be used for that hour, but the recalculated Stage I cap (and corresponding 85% price) would apply for the NEXT operating day, and for day-ahead cash trading for the next trade day.
+34	This provides information before the trading period (enhancing liquidity) and eliminates strange price movements during real-time.
+34	It also fits the FERC price cap paradigm.
+34	2.
+34	Marketer prices.
+34	I think there is a clear bias against marketers in the order.
+34	But given the fact it seems deliberately slanted against marketers, there are clearly three areas where marketers should be allowed to recover costs that are easily demonstrable.
+34	First would be losses at a tie into California.
+34	If we sell at the cap and incurr losses, then we can't sell at the cap.
+34	Second would be the 10% credit premium.
+34	Credit issues apply whether you're a marketer or generator.
+34	Third would be call options.
+34	It seems if the market trades above the cap and above the strike in a call option, that a party should be able to exercise and sell.
+34	I'm not sure what the difference between a peaking plant and a call option is.
+35	Wow!
+35	A long time.
+35	I was out June 5 and came back on July 2.
+35	I thought it was 3 weeks, but it was more.
+36	For you Stewart, anything.
+37	I think I fixed them.
+37	Sorry about that.
+37	Let me know if there are any other problems.
+38	I'll be putting it in today.
+39	Virginia, No problem, sorry for the delay.
+39	The deal number is 693176.
+39	Thanks, Sean
+40	you make it all seem so easy, amy.
+40	thanks.
+41	hey it changes from day to day.
+41	the number that will get you the closest is 503-464-3917.
+41	so i got back from europe a couple of weeks ago.
+41	went to italy (tuscany), switzerland, france (paris), and amsterdam.
+41	quite cool.
+41	i think now though i'm ready for a beach vacation (hawaii or mexico).
+41	i'm going to go this fall.
+41	hope everything is going well with you.
+41	take care Sean
+42	Hey, What about deal 704370 amiga?
+43	Thanks, Amy!!!
+44	Just a clarification.
+44	The new leg 3 is just for onpeak (correct?), and the premium is $2 total, not in addition to premium of first deal.
+44	Is this correct?
+45	Thank you very much.
+45	I appreciate the quick response.
+46	Privileged and Confidential Prepared at the Request of Counsel Gary, Attached are daily real-time transactions for the period involved.
+46	Deal numbers are included.
+46	Pay close attention to the delivery points to ensure you have them all, in particular, NOB N/S and NOB S/N.
+46	Thanks, Sean
+47	Privileged and Confidential Prepared at the Request of Counsel Draft
+48	Privileged and Confidential Prepared at the Request of Counsel Draft
+49	Privileged and Confidential Prepared at the Request of Counsel Draft
+50	We are 50 MW short at the Mid-Columbia during the offpeak hours for Monday (HE 01 thru HE 06, HE 23-24).
+50	We are short to Portland General.
+50	When you buy, put 25 MW in the Short-Term Northwest Book, and put the other 25 in the West Hourly BOM book.
+50	Sean
+51	back
+52	I heard about this.
+52	Griswold was a weener.
+53	On August 16, 2001, Enron counsel in DC requested that the Enron Northwest cash desk pull together a tremendous amount of data for part of the 2001 operating year.
+53	The data request was unusual in the type of information it asked for, and for the most part, Enron's internal systems did not track the information in the format requested.
+53	Since the pending lawsuit involves a large amount of money, it was imperative that (1) the data be pulled together, even though our internal systems did not track this type of information in a format that was readily accessible; (2) the data be as accurate as possible, and; (3) it be done in a very short period of time.
+53	The amount of data we were asked to review and pull together was massive.
+53	Utilizing Cara's comprehensive, and fairly unique understanding of our scheduling and accounting systems, we were able to accomplish this task.
+53	There were many instances where we hit a "brick wall".
+53	Specifically, it was difficult to match information from our scheduling dataset with our accounting dataset, although it was imperative we do so.
+53	Cara was instrumental in bridging this gap.
+53	As a result of her efforts, we were able to hand a quality set of data to our consultants in DC, and subsequently for our FERC filing.
+53	I recommend that Cara receive a Personal Best Award for the amount of $2,000.
+53	Sean Crandall (Amy. Is this good enough?)
+54	Fran, I'm pretty sure I've already been hit for some of these.
+54	If you could provide me a P&L copy from June 1 thru today (either electronic or paper) I'd appreciate it.
+55	I have sent a justification for the PBA ($2K) to Amy (per her request).
+55	She has sent it along to Houston.
+56	I've had an idea for a new EOL product that I would like to start our EOL legal and contracts people thinking about.
+56	It's kind of a weird product, but I think it would trade quite a bit once people figured out what it was.
+56	It's called the Day Ahead/Real-Time Park/Lend product.
+56	Essentially it's a financial trade on a day ahead basis that is settled real time.
+56	For example, let's say Morgan Stanley agrees to sell us 25 MW onpeak for $25, but that it is not prescheduled--it is to be settled real time.
+56	If we fast forward to real-time, Morgan Stanley has two options.
+56	They can buy from us on EOL, whereby this transaction books out, or they can deliver us physical power, whereby we have to sell the power to a third party real time.
+56	The nice thing about this product is it provides any party the ability to take a position to real time, even if they are not a control area.
+56	In addition, it would provide utilities and generators the ability to hedge a day-ahead position.
+56	Kevin, I'm not sure if it's you I need to talk to about this, but I would appreciate some direction if it's somebody else.
+56	Once we identify who we need to look at this, I'd like to set up a conference call to discuss contract language and EOL mechanics.
+56	Thanks.
+57	I'm not sure if my first response got through.
+57	The person to talk to about this, this long of a term, is Mike Swerzbin.
+57	If you have question concerning the short-term, let me know.
+57	Thanks.
+58	My name is Sean Crandall; I work with Jeff Richter.
+58	I'll send you a check.
+58	I'd like to pick the Bears as the losing team this week.
+59	Kevin, Could you e-mail me the contract language we currently have for the Mid-C physical product so I can work with it?
+59	(I don't have an electronic copy).
+59	Thanks
+60	Kevin, One more thing.
+60	We'd like to get some more spreads going.
+60	Specifically the PV/MC, the NP/SP, and the PV/SP.
+60	I realize the PV/SP might be a problem from a legal standpoint because of contract language, but I would like to get the others going.
+60	Can you give me a call some time today?
+60	Thanks.
+61	I pick Washington.
+61	I've mailed you my check today.
+62	My pick is New England.
+63	Please keep me up to date.
+63	Thanks.
+64	Kevin, My apologies for not getting back sooner, but I sort of wanted to see how the Enron real-time products did before proceeding with this.
+64	It seems like real-time is a success, so let's get going with this.
+64	I call this product DART (Day-Ahead/Real-Time).
+64	It's basically a physical product that is transacted on a day-ahead cash basis, but is delivered on real-time.
+64	For example, on the day-ahead, lets say I post a "US Pwr Phy Firm Mid-C Peak Oct04 to Oct05 DART" $27 at $28.
+64	If I get hit, then the party selling to me is obligated to deliver on Oct 5th, real-time 25 MW each hour.
+64	I would be long real-time at $27.
+64	If a party lifts my $28, then I would be obligated to deliver to them on Oct 5, real-time, 25 MW each hour.
+64	I would be short at $28.
+64	The mechanics of this deal are much like a regular day-ahead cash transaction.
+64	The primary difference is we would have to flag these deals somehow such that they would not get mixed with our regular day-ahead transactions that needed to be prescheduled.
+64	As far as the product language goes, I think if you add the following language to what you provided below, we should be OK (obviously subject to legal review).
+64	"This product is intended to be transacted on a Day-Ahead basis, for delivery on a Real-Time basis. Day Ahead means the trading day prior to the day of delivery, consistent with WSCC scheduling and trading practices. Real-time means the actual Delivery Day. Real-time deliveries shall be consistent with generally accepted WSCC scheduling timelines and practices."
+64	Take a look, give me a call.
+64	Thanks.
+65	Alan, You were saying we had some instructional material concerning PJM.
+65	Could you provide me with a copy.
+65	Thanks.
+66	You are right.
+66	There are no delivery/scheduling obligations on the day ahead DART product (unlike the regular day-ahead).
+66	Yes.
+66	A DART onpeak would mean delivery on all onpeak hours for the corresponding day, and a DART offpeak would mean delivery on all offpeak hours for the corresponding day.
+67	The 24-26 is OK with me.
+68	I would like to go Monday through Wednesday.
+68	Thanks.
+69	Are you still around?
+70	Hey!!
+70	What's up.
+70	Do you have AOL Chat or something?
+71	In case you don't, hey what's going on?
+71	I haven't talked with you in a long time, so I was wondering what's up with you?
+71	How's DC?
+71	How's PGE?
+71	I'm doing OK.
+71	I went to Europe in June (whole month).
+71	Very nice.
+71	Italy, Switzerland, France, and Netherlands.
+71	Hard to come back.
+71	Then I almost went to Duke, but then came to agreement with Enron.
+71	That was interesting.
+71	Anyway, just wanted to touch base.
+71	Let me know what's going on.
+71	Sean
+72	Hey Kevin, Just wondering what the status of the DART product is.
+73	Dow Jones is interested as well.
+73	I really think a hourly index would be very useful; price discovery, financial positions, etc.
+74	No
+75	good job.
+76	Hey, You sound kind of bummed out there, amiga.
+76	Understandable though.
+76	Tough and very weird times that's for sure.
+76	Very sad.
+76	The funerals must have been brutal.
+76	I know I'm depressed by it because I get these waves of sadness that hit me out of the blue periodically.
+76	Hopefully things will improve.
+76	Our stock has just been munched.
+76	It sucks because we're doing well, but the other "half" of the company appeared to be mostly smoke and mirrors.
+76	Everyone was wondering why Skilling left; I guess we know why now.
+76	Enough of the gloom and doom.
+76	Sounds like you are getting opportunities--that's good.
+76	I knew that you would.
+76	Here's some pros/cons for your options (recalling my vast experience;)) Structuring: Interesting but not alot of dough.
+76	Probably the most easily replaced by those fresh MBAs.
+76	Trading: Like being handcuffed to a schizophrenic on speed.
+76	Can turn you into a frothing mass of neurosis at times.
+76	Good dough if you make it though.
+76	Marketing: Low immediate, constant stress, but still competitive.
+76	You have a great deal of charm and brains, so I think you would do quite well in this area.
+76	In addition, there are a number of firms (Calpine, AEP, Coral) who are opening up an office in Portland pretty much geared towards mid-marketing.
+76	Might be opportunity down the road for you to move closer to home (plus you can buy me beer, which is always a plus for anyone's karma).
+76	As far as your overall attitude towards the industry, I think I disagree.
+76	I think it's a good industry to be in, particularly now, because no matter what, people need electricity.
+76	And it's still changing, especially out West, so there will be challenges and opportunities.
+76	It's great talking with you.
+76	Cheer up.
+76	Call your folks.
+76	Run.
+76	Punch a punching bag.
+76	Do drugs (kidding).
+76	Take care of yourself, and if you need anything, give me a buzz or drop an email.
+76	Sean
+77	Deborah, I think when I "left" Enron I was removed from the mailing list, so I don't get Belden's general emails.
+77	Thanks
+78	Wednesday or Thursday around noon would be OK.
+79	Sounds good.
+80	Alan, There are some problems with your attachment.
+80	When are you sending this?
+81	Hi there, Thanks for the note.
+81	It is very weird for sure.
+81	I never thought it would happen to Enron.
+81	One of the reasons I didn't go to a smaller shop, even though I was offered more money, was because I didn't want to deal with crap like this.
+81	Lo and behold.
+81	Life is strange.
+81	Anyway, at this point it looks like Dynegy is the suitor for the big E. I think it will happen.
+81	The question will become, where are we going to be located?
+81	Fortunately, I only have about 8 months left in my contract, so I won't have to put up with too much crap for too long.
+81	We'll see.
+81	Italy is awesome.
+81	Really really is.
+81	I realize it more and more since I came back.
+81	Tuscany is so cool.
+81	If you go there, go to San Quirico, Montecino and Montepulciano.
+81	Very cool little towns and good wine.
+81	Florence is very cool as well.
+81	I may go back there for a month or so this June if things aren't to wacky.
+81	Have a good time there; I'm envious.
+81	Sounds like you are doing better.
+81	Also sounds like work is fun and challenging.
+81	So do you think you are going to stay there for a while?
+81	Do you miss the West?
+81	I don't think I'll live east of the Rockies, but you never know.
+81	Well, it looks like this year might be as interesting as last.
+81	I keep thinking things will mellow out a little, but things keep getting more and more strange.
+81	It was great to hear from you and take care of yourself!
+81	Sean
+82	Thanks Fran.
+82	Let me know if it bogs down or anything.
+82	I'd like to get it done.
+83	There are a few others: Pacificorp, Puget, BPA
+84	Audrey, Here is a brief personal work history.
+84	I've been in the utility industry pretty much since 1988.
+84	I started trading for Portland General Electric in 1995.
+84	I've been a trader for Enron for the last 4 years.
+84	I run Enron's short-term Northwest book.
+84	I have market-making responsibility for the cash, balance, and prompt months for the Mid-Columbia and COB specifically, although I am responsible for the entire Northwest.
+84	I also trade Palo Verde, SP15, and NP15.
+84	I have recently talked with a couple of other trading outfits out west and generally the structure looks something like this: 3.
+84	Various bonus structures, generally with a minimum guaranteed equal to the base salary.
+84	Quite frankly a move to the east coast is not very appealing.
+84	The compensation package would have to be very attractive for me to seriously consider a move to that area.
+84	If you have any questions, please let me know.
+84	Thanks, Sean Crandall
+85	Fran, We had a problem with the PGE loss return on that day; I thought we fixed it.
+85	Anyway, I put in a crossdesk (deal 875570).
+85	Thanks.
+86	Do I go and drop him off, or go?
+87	yes.
+87	it came to the office.
+87	i sent it to the yesterday.
+88	thanks
+89	So what do you think?
+89	Pretty wild, huh?
+90	Miller!
+90	For the love of JESUS!
+90	How are you.
+90	What's up with the layoffs?
+90	Absolutely amazing.
+90	I have seen it all now.
+91	Fran, Due to the fact Houston killed several transactions (as opposed to zeroing them out in Scheduling), the real-time position manager is out of balance for December 2 and December 3 at the Mid-C and COB.
+91	December 1 looks OK.
+91	This seems like an issue that Houston is going to have to resolve since they know the deals that were killed.
+91	I will put the necessary interdesk swaps in on Saturday, but I'm going to leave Sunday and Monday open at this point.
+91	If you have any questions, let me or Diana know.
+91	Thanks
+92	Received.
+93	Diana Scholtes Sean Crandall Chris Mallorey Tom Alonso Mark Fischer Bill Williams Bob Badeer Matt Motely Mike Driscoll Tim Belden Jeff Richter Mike Swerzbin Thanks
+94	Hey there!
+94	How's it going?
+94	I understand you guys stole one of our marketers.
+94	That's ok, I'll forgive you.
+94	Things are insanely boring here.
+94	Basically we are in a wait mode, probably, I think, until February.
+94	This is the first time in 5 years I haven't had to worry about P&L and I have to say it's pretty weird.
+94	It's nice sleeping in though.
+94	So supposedly we have 14 potential suitors.
+94	You've probably heard of the banks, and I've also heard Reliant is putting together a bid.
+94	THAT would be interesting.
+94	We laid off probably half the people in our office--pretty much all back office support and some conservation/renewable people.
+94	Bad timing.
+94	Plus, when we laid off Enron Broadband folks, they got a six month severance package, and EBB didn't make any money, and in fact lost a substantial amount.
+94	Then Enron lays off people on our floor, which has made a phenomenal amount of money, and gives them basically $4,000 taxed at 48%.
+94	Life is not fair.
+94	It's going to be interesting to see what this does to the industry.
+94	I think the California debacle, then Enron (now Calpine), is going to create an interesting dynamic going forward.
+94	Credit is going to become more and more an issue, especially towards the back of the curve.
+94	It's interesting, I remember 5 years ago the prediction was, when it was all said and done, there would be 6 big energy suppliers in the country.
+94	Looks like it's heading that way.
+94	So are you going to Europe?
+94	Sounds like fun.
+94	If it looks like we're going to be on the sidelines for a while, I might go on vacation for a couple of weeks, maybe Hawaii.
+94	Well, I'm going to go grab a cup of coffee.
+94	I hope everything is well with you.
+94	Take care, Sean
+95	On Dec. 21 CRC called and wanted to resume deliveries at the Mid-C (they are delivering to us).
+95	I'm assuming this is OK.
+95	Let me know otherwise.
+95	Sean
+96	Point Buy/Sale Counterparty On Off Price Deal #
+97	They got it.
+98	Yesterday I talked with Chelan's trader and she informed me they regard the 7 MW we are delivering to them as a "good" contract.
+98	So long as we are able to deliver, they will accept deliveries.
+98	I'm not sure what this means in light of their termination status, but since the price is $34, I'm going to deliver until I hear otherwise.
+98	Sean
+99	Alan asked me to email this to you.
+100	No
+101	That's fine.
+101	Just give me a call when you get in town to remind me.
+101	Everything is fine at the townhome; it's quite comfortable.
+101	Sean
+102	I agreed with the numbers on the spreadsheet.
+102	We delivered 40 MW flat for Dec 1-4; Dec 5 25 MW flat; then 0 for remainder of month.
+103	Too bad I didn't talk with you a little earlier.
+103	This sounds like a great job, and ultimately I would be very interested.
+103	However, I'm basically under a 1-year deal now, so I won't be available until Feb '03.
+104	I'm showing we have two deals in the system under BPA Contract #s 10123 and 10227: If there are additional transactions other than these, I need to know within the next couple of hours.
+104	Sean
+105	We've been keeping this deal in because I've been concerned about congestions at COB.
+105	I'm not concerned going into February, so this contract is out of the money for February (probably in March thru May however).
+105	If there is some reason to keep it whole, we have the length at COB.
+105	Let me know what we want to do.
+106	Thanks
+107	I agree with this.
+108	Here's what changes: COB: We are not going to deliver to Midesto (Deal # 3689.4) MC: BPA deal # 51353 and Busbar BPA deal # 85098 are cancelled.
+109	Steve, Please wire $520,800 to AEP (same info as Tom Alonso's) and wire $567,084 to AVISTA (same info that we've been using).
+109	This will take care of our Northwest book of business for Feb 1 through Feb 9.
+109	I will send you the P&L calculation a little later.
+109	Thanks Sean
+110	Steve, The difference is because I rounded the purchase prices from AEP and Avista in the P&L spreadsheet, rather than taking a weighted average.
+110	The wire request amount is correct.
+111	That would be a "1"
+112	very cool.
+112	thank you sir.
+113	I completed mine on Monday the 4th.
+114	I haven't yet.
+114	I will give him a buzz tonight.
+115	Thanks Steve.
+115	I think we might be interested in pursuing something.
+115	It's kind of hectic right now, so let me give you a call when things settle down a little bit.
+115	Probably next week.
+115	Talk with you later.
+116	I closed out our Balance of February NW position.
+116	The total we pay is $2,111,160.
+116	I'll have more detail to you and Thome in a minute.
+117	The one in Portland, like NE 102nd.
+118	I have done the following trades to wrap up the Enron Northwest position for the balance of February.
+118	1.
+118	Bought 200 MW Onpeak at the Mid-C from AEP for $20 (Expense of $1,024,000).
+118	2.
+118	Bought 118 MW Onpeak at the Mid-C from Avista for $20 (Expense of $604,160) 3.
+118	Bought 132 MW Offpeak at the Mid-C from Avista for $18.75 (Expense of $495,000) 4.
+118	Bought 200 MW Offpeak of the MC/COB spread from AEP for $0.50 (Expense of $20,000) 5.
+118	Sold 125 MW Onpeak of the COB/MC spread to AEP for $1.0 (Revenue of $32,000) So we need to send $1,012,000 to AEP and $1,099,160 to Avista (total of $2,111,160).
+119	Point Buy/Sale Counterparty On Off Price Deal # BP Cont # Montana S ASH GROVE -6 -6 88.25 891894 Might be out.
+119	Montana Total -8 -8 Grand Total 0 0 Price MW Total $

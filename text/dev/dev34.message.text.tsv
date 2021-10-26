@@ -1,0 +1,3323 @@
+0	Pleas approve Tricia's request to become an authorized EOL trader
+1	Please grant Steven Vu execution privileges on EOL John Arnold
+2	Hey : Just wanted to see if you're doing anything tonight...
+2	Any interest in getting dinner?
+2	John
+3	hey: when are you back in town??
+4	i just had the whole it staff up here.
+4	I just got two good tickets to Thursday's Astros/Yankees game
+5	Hello: I just wanted to arrange to meet for the Astros tickets.
+5	I work and live downtown.
+5	My cell phone number is 713-557-3330.
+5	Thanks, John
+6	lyle lovett national anthem nolan ryan first pitch dwight gooden first real pitch
+7	7:00 game can you let me know tomorrow??
+8	sec 222 row 2
+9	club seats extra wide extra leg room extra waitresses
+10	My brother was coming back from London to go so I went out and paid a fortune from a scalper for two....
+10	I really do appreciate it though..
+11	sounds good
+12	I am free at 3:30 on Thursday at my desk.
+13	I am changing the way the curve is generated starting in Jan 2004 to better replicate seasonal fundamentals.
+13	There are convincing arguments as to why the summer/winter spreads should tighten over time.
+13	However, in the previous methodology they blew out.
+13	For instance summer/winter in Cal 3 was .232 while Cal 10 was .256.
+13	I have added a seasonality dampening function that both contracts the summer/winter spread and applies a premium to the electric load demand months of July and August over time.
+13	The formula for the curve remains the same except for a premium lookup for the month as well as for the year.
+13	These premiums are as follows: Jan -.008 Feb -.004 Mar -.001 Apr .002 May .003 Jun .004 Jul .004 Aug .004 Oct .002 Nov -.003 Dec -.006 These premiums start in Jan 2004 On Wednesday Jan 2003 settled 2.959, the 3/4 spread was marked at .0375, the 4/5 spread was marked at .0475.
+13	In the old methodology In the new methodology The only change in the formula is from: Month x = Month (x- 1 year) + lookup on year on year table to Month x = Month (x- 1 year) + lookup on year on year table + lookup on month premium table The seasonality premiums will change over time and I will let you know when I change them
+14	call me when you get this
+15	i am free to talk this afternoon if you want
+16	Please approve.
+17	Andy: This past weekend we released a new version of the EOL software that, unfortunately, had a bug.
+17	The effect was to lengthen the time delay between numbers changing and when they would show up on the internet to an unacceptable level that increased the number of failed trades.
+17	We made the decision to take some of the more volatile products temporarily offline until the fix could be made.
+17	I do not anticipate this to be a concern going forward.
+17	Thanks for the feedback.
+17	John Arnold
+18	Please approve Larry May for a trader id on EOL for "pipe options" book for US gas.
+18	Thanks, John
+19	Hello...
+19	Despite my thoughts, you like baseball.
+19	So the question is do you like art (as in musuems) ?
+19	I'm leaning towards yes but don't know for sure.
+20	2 options: Either we leave from work and you watch me get a haircut for 20 minutes or...
+20	I pick you up around 6:30...
+21	are you sure...have you ever been to bon coupe before don't knock it till tou try it
+22	Hey: Any good set of 4 available for Sunday's game
+23	nope...your loss though
+24	call me if you're in town this weeekend
+25	Dutch: The increase in position and subsequent position limit violation was due to two factors.
+25	First, a long position was moved into the long-term exotics book due to the nature of the position.
+25	I am currently using the ltx to hold longer-term strategic positions.
+25	The large increase in position is a reflection of my view of the market.
+25	Second, a large customer transaction originated by Fred Lagrasta's group was transacted at the end of the day Monday and was not able to be hedged until this morning.
+25	Hence a large position increase occurred for yesterday's position and a corresponding decrease occurred today.
+25	John
+26	Thanks for taking me in last night.
+26	Sorry about being drunk and stinky.
+26	My cab, that we called at 6:10, showed up at 7:02.
+26	I was so pissed.
+27	Andy: Just a couple of quick items that need to be addressed.
+27	First, what happens if the delta of the option is greater than the size of the hedge offered on EOL?
+27	Second, what strike are straddles traded at.
+27	Are they set at the nearest 5 cent interval or are they mid-market of the EOL quote?
+28	Andy: The problem if we limit the size on options to being what size is offered on the swap hedge, we will not be able to offer adequate size on the options.
+28	Optimally, I think we want to offer a minimum size of 100 across all strikes.
+28	If the swap is 4/4.5, one a day up, and someone buys half a day, making the market, 4/4.5 one a day by half a day, the size offered on a 10 cent out of the money call might be as low as 30 contracts, a much smaller size than most people want to trade.
+28	If we restrict to strikes with a lower delta, we face the problem of not offering enough strikes and not making a market in options that have open EOL interest that have moved closer to the money.
+28	Maybe the answer is to assume the swap hedge to be a penny wide two way wrapped around the EOL swap mid market.
+28	Thus if the front swap on EOL is 4/4.5 one a day by half a day, the input into the option calculator is 3.75/4.75, 100 up.
+28	In this case I think 100 is necessary because once a strike has open interest, we must continue to support it.
+28	Thus I anticipate having to make markets in deep itm options as the market moves.
+28	In terms of straddle strikes, I think the edge received from buying straddles struck on the EOL offer and vice-versa is not big enough to compensate for what I think the industry will view as a scam and another way Enron is trying to rip people off.
+28	Although striking on the mid-market is probably easier for the trader, I actually think striking in five cent increments makes more sense.
+28	It allows people to trade out of the position on EOL.
+28	Whereas if someone buys the 3085 straddle and the market moves to 3200, they have to call ENE to close the trade.
+28	If the trade is struck at 3100, we will have a market on both the 3100 call and put at all times.
+28	Secondly, I would anticipate non-volatility driven option traders may elect to sell either just the put or call in this scenario depending on their view of market direction.
+29	Jeff: Sorry for my cryptic answer in regards to the LNG deal on Friday; I was a bit confused by the question.
+29	In terms of the gas pricing, this is a deal that should be done.
+29	Market conditions are very conducive to hedging a fair amount of the gas.
+29	Obviously, a deal this size would require Enron to wear a considerable amount of the risk in the short term, but the risk-reward of the position looks very favorable.
+29	I am certainly willing to sign off on this deal around the $3.00 level.
+29	John
+30	Please stop sending emails to jennifer_arnold to the following email address: You have the wrong person
+31	Hey, I just got your email.
+31	Call anytime after 4:00.
+31	Obviously, I don't read my email very often
+32	Doug: To confirm the pricing of the LNG dela:: I can show a $3.01 bid for the Nymex portion of 160,000 mmbtu/day for the time period Jan 2003-Dec 2014.
+32	The bid on Henry Hub basis for same time period is -$.0025 resulting in fix price of $3.0075; the bid on Sonat basis is -$.0175 translating into a bid of $2.9925.
+32	Notional volume = 70,128 contracts.
+32	PV volume = 37,658 contracts.
+32	Exposure per $.01 move = $3,760,000 John
+33	Please take me off your mailing list
+34	Kevin: Come by Tuesday between 5:00-5:30 if you still want to see the new spreadsheet.
+34	However, it may be more valuable to talk to Dutch Quigley, who runs my risk, as he built the system and understands the vertical integration better.
+34	John
+35	Please do not send these emails anymore.
+35	I am not Jennifer Arnold
+36	Stupid taxes
+37	Let's meet at 4:00.
+38	Can we meet at 5:00 today?
+39	Please use this vol curve for a dry run to figure out var for my book, NG price, and Jim's book, Storage, and communicate the results.
+39	Thanks,John
+40	Tanya: On Friday I emailed a new vol curve to use for VAR testing.
+40	I was under the impression that you could apply this vol curve to the price book and storage book and have a new experimental VAR number by Monday.
+40	I have not received any response.
+40	Please reply with status of this project.
+40	John
+41	Tickets requisitioned for England/Germany.
+41	$1500!!!!!!
+42	In preparation for our discussion tomorrow, can you run VAR numbers for some 6.
+42	+1000 July Chicago Basis -1000 July Michcon Basis 7.
+42	+1000 July Henry Hub Index 8.
+42	+1000 July 2003 Chicago Basis Again, these are separate portfolios.
+42	I'm trying to check that the VAR numbers make logical sense.
+42	Thanks, John
+43	yes
+44	Can I add 3 more portfolios: 1.
+44	+1000 July 2003 Chicago Basis - 1000 July 2003 Panhandle Basis 2.
+44	+1000 June Henry Hub Cash 3.
+44	+1000 June Henry Hub Cash - 1000 July Futures Thanks, John
+45	Thank you very,very much.
+45	Love you, John
+46	Hey Liz, Thanks for letting me use the phone.
+46	A real life-saver.
+46	My brother had a Nokia world phone on the trip and it seemed to work better.
+46	It got reception some places where mine did not and is more user-friendly.
+46	On a different topic...Greg talked me into upgrading to first class for a flight in December to Australia.
+46	He talked me into it by agreeing to pay for half.
+46	Cliff found it funny and agreed to pay for the other half.
+46	I haven't expensed it yet so I'm having Barbara send it on.
+46	Thanks, John
+47	euro 2004 in portugal
+48	Steve: Good hearing from you.
+48	Hope all is going well.
+48	I gave your name to Per Sekse in our New York office.
+48	He deals with a couple hedge funds we currently do business with and has addressed some of the obstacles that we face with other counterparties.
+48	He is on vacation this week but will call next week.
+48	If you have any problems or concerns, feel free to call.
+48	John
+49	Andy: Sorry...I was on vacation last week and fell behind my email.
+49	Anytime you want to talk is fine.
+49	I'll be around today if it works for you.
+49	john
+50	How about 4:00 ??
+51	Please top level the following P&L out of my book because the market settled limit down.
+51	End of day position Amount settle was off in my estimation Total amount
+52	Dinner tonite....birthday boy???
+53	world cup 2006 -- Germany BOO!
+54	Per: I've talked to him several times in the past.
+54	I told him that you would call because of your experience with setting up funds.
+54	They have two main problems.
+54	One is setting up their internal systems.
+54	Second, they have credit problems with a BBB+.
+54	Please call and introduce yourself.
+54	Thanks, john
+55	Hey, Can Greg fit me in for about 30 minutes tomorrow afternoon?
+55	--- Your secret admirer
+56	Hello, Bill Perkins of Small Ventures USA is having a party this Saturday at the Mercantile bar downtown.
+56	He has rented out the place, has a band, open bar...
+56	usually pretty fun.
+56	He asked me to give both of you an invite in appreciation of the work you've done for him.
+56	If you have interest, ccmail me with whether you need one or two invites each.
+56	John
+57	I'm free from 4:00-5:00 today
+58	I'll send 2 invites up.
+58	What's your location?
+59	Greg's always on vacation.
+59	You need to teach him some work habits.
+59	Next Tuesday will work.
+59	John
+60	8 pm to 2 am
+61	I spoke to Vlady this afternoon regarding the alternative VAR methodologies.
+61	I think changing to a Riskmetrics historical VAR system is more defendable and objective, will provide more consistent results, and will create more realistic results.
+61	I understand Vince has a similar opinion.
+61	John.
+62	Per: Can you give the Campbell fund read-only access to EOL.
+62	It may speed up the process if they see they can trade pre-market.
+62	John
+63	Good job....I've got 10% of my portfolio in CGP.
+63	Keep up the good work.
+64	Margaret: As you can imagine, most information and procedures on the floor are extremely confidential.
+64	We look at the gas market uniquely and using different tools than anybody else.
+64	It is one of our competitive advantages.
+64	I'm hesistant to approve the use of any documents for external purposes.
+64	If you provide more information about what you're trying to show, who the target audience is, and what format it will be presented, I may be able to help you.
+64	John
+65	Frank: Just following up on two topics.
+65	One: Larry May's book continues to run at a VAR of 2,500,00 despite the fact his P&L is never close to that.
+65	Can you check that his exotics book positions are being picked up in his VAR calcs.
+65	Second: Have you looked into applying a band-aid to the understating longer term Vol problem until we change formulas?
+65	John
+66	Interesting observation...but I'm not sure I agree.
+66	I think consensus opinion is that anything under 2.7 TCF is very dangerous entering the winter.
+66	A month ago, analysts were predicting we would end the injection season with around 2.6 - 2.7 in the ground.
+66	With the most recent AGA, those projections seem to be closer to 2.7.
+66	With supply of gas very inelastic to price in the short and medium term, you must look at the demand side of the equation.
+66	The market is trying to price out the right amount of demand (mostly through lost industrial load and fuel switching) such that supplies will be stored rather than burned.
+66	Each AGA number is another data point as to whether nat gas is high enough to price out enough demand to reach a comfortable level in storage entering the winter.
+66	A low AGA number indicates we haven't priced out enough demand and the market must go up.
+66	Certainly, the 97 throws a curve in the bull argument, but the number may be a function of very mild weather, a four day holiday weekend, and reporting noise rather than indicative of a structural shift in the supply/demand equilibrium.
+66	We'll know a lot more as the next two weeks' numbers come out.
+66	If we get two low injections, watch out.
+66	Enron North America Corp.
+67	Frank: Susan Scott, Larry's risk manager, will compile and send you a spreadsheet of total p&l minus new deal p&l since June 1.
+67	Can you review this data and compare it to the respective VAR numbers for these dates.
+67	I think you will see the VAR numbers way overestimate his p&l volatility.
+67	John Enron North America Corp.
+68	Hello: A recent posting on the Enron bulletin board indicated that you are looking for academic tutors.
+68	I may be available to help at nights in math.
+68	Can you please respond with details about the program, how old the kids are, the commitment required, etc. Thanks, John Arnold
+69	Frank: The $5,000,000 extra VAR disappears in about a week.
+69	There MUST be a band-aid to the term VAR curve before this expires.
+69	Again, the back of the board is realizing 35-60% vol and it's being credited with 15% vol.
+69	Thanks, John
+70	Jim: The following are the authorized floor brokers to accept trades from: Man SDI Carr the old Fimat group (don't know what their name is now) Flatt Futures Thanks, John
+71	Jim: The list I gave you is a list of brokers that can clear through you, NOT brokers that you clear exclusively.
+71	You do not clear any of my brokers exclusively.
+71	All trades that clear through you will be done on discretionary trade-by trade basis.
+71	You MUST have your floor personnel reverse everything they they told my brokers this morning.
+71	I am not happy.
+71	John
+72	Is it per game or point or what?
+73	I think you're cheating trying to get a fixed amount....
+73	I'll give $1 per pin.
+73	Good luck, John
+74	Andy: Is the new version of EOL coming out soon.
+74	I'm waiting to put new products on until it comes...
+74	John
+75	Thanks.
+76	Russell: My risk group frequently uses the New Counterparty label for internal counterparties that do not have a trading book.
+76	This transaction was a hedge for the acquisition of the paper plant we announced recently.
+76	I'm not sure who the internal group is that did the transaction.
+76	Dutch Quigley should be able to help.
+76	John.
+77	Jeff: In regards to the antitrust training, can you please schedule that at least one of the sessions starts at 3:00 or later to ensure participation by all.
+77	Thanks, John
+78	Mary: These agreements are acceptable.
+78	Please sign the give up agreements with Banc One.
+78	John
+79	VP Nat Gas Trading
+80	The plan looks good.
+80	Can you please attach a time schedule to the different steps and send it back.
+80	Thanks, John
+81	Frank: One of the most likely scenarios for a VAR blowout would be a severe cold front hitting the country in the middle to latter part of the winter.
+81	In such a circumstance, cash may separate from prompt futures similar to how Midwest power traded $5000+ on specific days last year while prompt futures were $200.
+81	The correlation between prompt and cash is normally very strong, and is indicated by the small VAR associated with a spread position currently.
+81	But in the winter that may change.
+81	Another thing to keep in mind while developing this scenario is the assymetric risk presented by having a spread position on.
+81	Assuming we enter the winter with normal to below normal storage levels, a position of long cash, short prompt futures has a long tail only on the positive p&l side.
+81	While such a trade in an efficient market has expected payout of 0, the payout probabilities may look like the following: Enron North America Corp.
+82	thanks
+83	Liz: Come by anytime...
+83	Thanks, John
+84	Hey: What's the update on Larry May's VAR issues.
+84	Again, this is a priority as we will lose Lavorato's VAR soon.
+84	Thanks, John
+85	Jan Red Jan trading 28.5 with Sep @ 381
+86	I have not heard back from you.
+86	What is the schedule for changing the VAR process?
+86	Please reply, John
+87	That is fine...Just make sure you ensure the confidentiality of the floor is not compromised.
+87	Do not let him see any EOL entry screens.
+87	Thanks, John
+88	Hey: Do you have JP's email address?
+88	John
+89	Hello: There is one feature that has not been transferred to the new stack manager.
+89	When I sort by both counterparty and product at the bottom of the screen, the position summary does not sort by both product and counterparty, just by product.
+89	It would be very useful if you can replace this.
+89	Thanks, John
+90	The following is a summary of the trades EES did today: # buys # sells Oct 4 / day Total contracts traded = 2045 Thought you should know...
+90	John
+91	Please take me off email list.
+92	I am leaving early on Friday.
+92	If they want I'll try to talk to the kid for 15 minutes around lunch.
+92	John
+93	Although I would prefer to see the counterparty name for failed transactions, it is not of great importance and I certainly understand a third party system not supplying us with that info.
+94	JP: Hope things are going well.
+94	I'm trying to get the email address of your new partner, Tracy.
+94	If you have, can you forward?
+94	John
+95	Yes, I managed it while she was on vacation.
+96	Hey: Do you have any extras for tonight's game?
+96	John PS.
+96	How's you bowl
+97	Hello, Just checking to see if things are progressing as scheduled.
+97	Thanks, John
+98	I will not be able attend but Errol will be there in my place.
+98	Thanks, John
+99	Scott: Congrats on some great tech analysis of late.
+99	You've called it near perfectly over the past month.
+99	John
+100	Congrats on your new job..
+101	Andy: Just checking on the options.
+101	Any idea on rollout date?
+101	John
+102	Thanks...anxiously awaiting
+103	Web server noticeably slow today.
+103	I'm getting a lot of bad failed trades (2-3 seconds behind when I change a price).
+103	Not necessarily slower than yesterday, but definitely slower than a month ago.
+104	If J. Franco wins, you win $2425 If he loses, you lose $75
+105	I had a dream that you were laid off yesterday, the day before your deal.
+105	Just checking on Saturday with third eye blind...
+106	Hey, Can you add Whalley and/or Andy Zipper to Pedrone's interview schedule.
+106	He can come in earlier if necessary.
+106	If you need to talk to him, he is staying at the Omni and his cell number is John
+107	Had Carlos Franco just shot a 49 yesterday instead of a 70, you would have won.
+108	Due to VAR reasons, you and I both need to sell today.
+108	Vol and price are going up, implying Enron can carry fewer contracts today than Friday.
+108	Have your desk net sell 400 today.
+108	John
+109	Is that hugs or kisses?
+110	when are we invited??
+111	does the arnolds' worldwide notoriety surprise you?
+112	Ina: 1.
+112	Vacation is fine.
+112	2.
+112	Please put meeting below on calendar.
+112	3.
+112	I am going to analyst presentation at Vanderbilt.
+112	Find out when it is and put on calendar.
+112	4.
+112	Can you find out who is on the ENA management committee meeting I went to along with their title and responsibilities.
+112	5.
+112	Can you schedule a meeting for Tuesday or Wednesday late afternoon with Phillip, Hunter, and Fletch about EOL Thanks.
+113	Dear fellows, Please remember to fill out your pledge card for United Way (even if you don't plan on contributing) if you haven't done so thus far.
+113	Thanks, John
+114	And I'm expecting the same from you.
+115	Jennifer: I'll be here, 3221F, tomorrow from 7:00 - 8:00 and 8:30-9:00 am.
+115	Thanks John
+116	Sarah: Can you create a spreadsheet summarizing Enron's open futures interest broken down by commodity and broker, including maintenance and initial margin for all commodities (including rates, currencies, gas, crude, etc).
+116	Also, can you create a list of all margin financing agreements in place and the rates we pay.
+116	Thanks, John
+117	Fine
+118	Thanks.
+118	This is a project we should have done 5 years ago.
+118	John
+119	Hey: So I was thinking about your NY problem...I might have an answer.
+119	The site lists cheap hotel specials.
+119	The problem is they won't list them until the Wednesday before the weekend.
+119	Check it out though.
+119	They have some reasonable deals.
+119	John
+120	Must be nice to be a Wall Street executive
+121	Thanks, have a good time but no interest..
+121	John
+122	Dave: I was thinking about our conversation yesterday.
+122	If El Paso, absent this power deal, were to give us physical gas for 8 years discounted at their WACC in exchange for an upfront cash payment from ENE, is that transaction a mark-to-market gain for us?
+122	If not, what's the difference in paying them with an asset rather than cash.
+122	If it is a mark-to-market gain, isn't this a way to generate false P&L?
+122	John
+123	Ina: Did you find out the info on the ENA management committee> John
+124	How about Tuesday at either 6:45 am or 2:15 pm my time.
+125	Hey: Can you send me the file that you produced of those names so I can shrink it down a little?
+125	Thanks, John
+126	You didnt realize I was such a fucking bigshot did ya?
+126	Check out the Sep 11 Fortune page 182 for more of the mojo.
+127	Just some feedback on our EOL discussion.
+127	Whalley had similar thoughts about how to address the ICE issue.
+127	His thoughts are that if we are 4/5 on EOL, we post 1/8 on ICE.
+127	If someone betters the bid to 1.5, a logic server automatically bumps up our bid to 1.75.
+127	If someone betters that to 2 bid, we immediately go 2.25 bid.
+127	So we are always the best market on ICE so long as it is not inside our EOL 2-way.
+127	Thus the only way our best market shows on ICE is if without us the market is 3.75/5.25, at which point our 4/5 market gets shown.
+127	If the 3.75 bid pulls out, so does our 4 bid.
+127	Our proposal was that if EOL was 4/5 we would always show ICE 3.75/5.25.
+127	Think about which system you like better.
+127	Whalley loved Fletch's idea of running tally of brokerage saved and that will be implemented shortly.
+127	I am going to call another EOL meeting for everyone on the gas floor managing a product this week.
+127	The purpose will be to communicate about the importance of winning the electronic commerce game through a combination of improving 2-ways and killing the broker markets.
+128	Dave: Just a reminder, can you send me a list of grandchildren to my products.
+128	Also, is it possible to systems-wise deny grandchildren to a specific product to ensure that the rule is enforced?
+128	John
+129	Ted: Lavorato wanted me to check on the $5,000,000 VAR extension.
+129	Is it possible to get this extended indefinitely until the west basis market settles down?
+129	We will have a good percentage of the west position rolling off over the next week as well as indices get published.
+129	Please advise ASAP.
+129	John
+130	Thanks
+131	yes
+132	I have never commented favorably nor unfavorably about Kase's newsletter.
+132	I think publishing independent market evaluations could be beneficial.
+132	The more interesting content that is published, the better.
+133	Just FYI, whether it matters or not, but commissions in gas average $3-4 a contract.
+133	Not sure about power.
+134	And you wonder why America is the most productive country in the world.
+135	Frank: How do Sep basis positions roll off?
+135	John
+136	Fine with me
+137	Please contact John Lavorato.
+137	He will be in charge of these budgetary issues.
+137	Thanks, John
+138	She's out no bitch
+139	Can you handle this please?
+140	Attached are settles tonight for seasons and years for next 10 years.
+140	Dutch is working on getting historical curves.
+140	He should have it by tomorrow morning.
+140	John
+141	Did you get the magazines I sent you?
+142	Glad to see you're having so much fun with this.
+142	I've been here 5.5 years with nothing and then in one week I'm in Fortune and Time.
+142	Pretty funny.
+142	Things are going well here .
+142	The big E just chugging along, bringing the stock price with it.
+142	Wish I could tell you everything new in my life, but I think I just did.
+142	Your long lost buddy, John
+143	I have a membership to the Body Shop downstairs.
+143	Can you cancel that please?
+144	The Fortune article is about grassroots change within a company.
+144	It is written about the lady who started EOL, but I'm in it a little.
+144	Chief of natural gas derivatives...I'm not really sure what that means.
+144	I run the Nymex book now but not the floor..just the derivatives desk of five people.
+144	I'm actually going to Costa Rica tomorrow morn thru Monday.
+144	Never been but heard it's beautiful.
+144	Next time you're in we'll go out.
+145	Please take me off your email list
+146	Cliff: I have 4 tix to the Black Crowes for you, third row center.
+146	Where's your office now?
+146	I'll come up and say hello this afternoon if you have a minute.
+146	John
+147	just checking up on the status of the margin project....
+148	take me off your mailing list
+149	Take me off your mail list
+150	Yea...can you come by around 5:30?
+151	Next Wednesday....
+152	Please take care of
+153	all you big boy...
+154	Please schedule me for 10/10 from 3:00-5:00.
+155	I'm here...
+156	Please take care of this
+157	you're right....they're full
+158	I am not who you think I am.
+158	I have never been in IDRC nor am I in the profession.
+158	John
+159	can yuo set me up for the 4:00 mtg
+160	How about 4:00?
+161	Who's the target audience and how is it being distributed?
+162	i filled in the spreadsheet
+163	Come talk to me sometime after 4:00
+164	I would like to participate in the Enron presentation at Vandy.
+164	John
+165	why would i be???
+166	Hello: I will not be able to attend the meeting but do have interest in being a tutor in any math subjects.
+166	Please advise, John
+167	Agree completely.
+167	In that context, it looks good.
+168	I'm actually trying to go through all my email from the week.
+168	What a pain in the ass.
+168	As soon as I finish one, another appears in my inbox.
+168	So how's life at ucla?
+169	yep...i'm always here
+170	if you have a minute sometime today, please stop by.
+170	john
+171	I spoke to Alfred Pennisi from MG today.
+171	MG clears their own trades and maybe some for other customers.
+171	He indicated that his cost for clearing is $3.05 round turn.
+171	If this is accurate, we need to evaluate whether clearing ourselves and issuing cp every night is less expensive than paying a higher clearing rate and getting access to financing.
+171	This is a question I hope your analysis of the true cost of clearing will answer.
+171	Also, fyi, over the past two days I have done two 6,000 lot EFP's with El Paso under the same structure I explained to you previously whereby long futures are transferred from his account to mine to lower initial margin costs.
+172	Please remove me from your mailing list
+173	Dave: A couple things about the limit orders: 1: When a customer opens up the limit order box, I think the time open should default to 12 hours.
+173	We want the orders open as long as possible.
+173	Now, it is more work to keep the order open for 12 hours than for 1 hour.
+173	Traditionally, limit orders are a day order, good for the entire trading session unless specified otherwise.
+173	2.
+173	Today Pete had 13,000/ day on his bid because he was hit for small size.
+173	When I tried to place a limit order, the quantity had to be in 5,000 increments of 13,000 (i.e. 3000, 8000, 18000...).
+173	I could not overwrite the quantity to be 15,000.
+173	3.
+173	Everytime a limit order is placed, an error message occurs on the system saying error trade, price not available.
+173	4.
+173	Is there a way to modify a limit order, such as changing the price, without canceling it and resubmitting a new one?
+173	If not, this would be a valuable feature.
+173	John
+174	Greg: The guy from MG whom I spoke to about clearing was Alfred Pennisi, VP of Operations.
+174	He's out of NY.
+174	He indicated his clearing costs were $3.10 versus the $4.50-5.00 I'm paying now.
+175	I'm in all day mtgs on Thursday and Friday.
+175	I'm free Wednesday afternoon
+176	Jeff: Man is looking for money again to hold them over for yearend.
+176	Who do I need to talk to?
+176	john
+177	Thx for the spreadsheet.
+177	2 questions : What time frame does this entail and does the correlation between the trader and AGG GAS include that trader's contribution to the floor's P&L.
+177	In other words, is my P&L correlated with the floor or is it correlated to the rest of the floor absent me?
+177	Enron North America Corp.
+178	You're not done yet big boy.
+179	Do either of you have an objection to using Cantor as an OTC broker?
+180	see you there Enron North America Corp.
+181	Steve: Sorry for the delay.
+181	I was actually out of the office Thursday and Friday...some Enron management training seminar bs.
+181	Count me as a probably for dinner on Friday.
+181	I know JP well.
+181	Darcy Carrol's number is 713-646-4930.
+181	See you this wknd John
+182	Eric: I passed the customer on to Jennifer Fraser and Fred Lagrasta.
+182	Please coordinate with them.
+182	Thanks, John
+183	What'd you do to my Cowboys?
+184	can you please add this
+185	Hi: The big money making floor?
+185	I don't think I like that.
+185	Too much pressure...what happens if we screw up?
+185	I went to the website and clicked on the link but all I got was a mess of characteres and symbols.
+185	Any ideas how I fix it?
+185	John
+186	I'm sorry but I have plans for Thursday already.
+186	Maybe next time.
+186	John
+187	Mark: You've called it right thus far.
+187	Let's plan to get a drink after work on the 19th.
+187	Thanks, John
+188	Ben: Jeff Shankman gave me your name.
+188	I have assumed Jeff's old responsibilities as head of the natural gas derivatives trading group.
+188	Our broker, EDF MAN, supplies us with $50 million of margin financing every night.
+188	They are trying to clean up their books for end of quarter and/or year on Sep 30.
+188	They have asked if we can post the $50 million overnight on the 30th.
+188	We did this last year as well.
+188	Please advise, John
+189	Thanks.
+189	This is exactly what I wanted.
+189	John Enron North America Corp.
+190	It's getting harder and harder to root, root, root for the home team.
+191	Hey freak: So we finally had LA type weather here for the past two days.
+191	Highs in the mid-70's.
+191	Beautiful.
+191	Life's just cruising along.
+191	Nothing new.
+191	I put a bid in for a condo in a new mid-rise building going up in West U that they accepted.
+191	If all goes as expected I'll move in next X-Mas.
+191	So are you adjusting to the big city.
+191	Got yourself a big Hollywood actor boyfriend yet?
+191	John
+192	I'm not sure what is happening on my position.
+192	It may have to do with how you shaped the forward vol and price curves at each level.
+192	My VAR is so dependent on spread levels and vols that a small change in the Jan vols could produce that effect.
+192	The results certainly provide evidence of a need for higher VAR going into the winter.
+192	John Enron North America Corp.
+193	Joe: I just wanted to run this past you...
+193	John
+194	I really liked the commercials about specifics (i.e. weather, EOL, bandwidth).
+194	The metal man was definitely at a different philosophical level than where my brain operates.
+194	Still not quite sure what was going on there.
+194	Ode was a bit too idealistic.
+194	The campaign in general was very different than previous.
+194	But I guess you know that and that's the point.
+194	Again, I think the commercials that showed why we are the most innovative were very impressive.
+194	Just telling people we are innovative made less of an impact.
+194	Sorry I ruined your run.
+194	At least you weren't molested by the River Oaks car thief.
+195	Hello: I am John Arnold.
+195	I believe you're looking for Jeff Arnold.
+196	Hi: Can you get me subscriptions to the following magazines: The Economist Energy Risk Management Havard Business Review Thanks, John
+197	Jim: I apologize for the comment after your order.
+197	I knew you didn't like the market last night so I was surprised when you were an buyer this morning.
+197	It's not your style to change views quickly as you tend to trade with a longer term view.
+197	I was out of line with the comment and it won't happen again.
+197	John
+198	this is home.enron.com.
+199	Thank you for sending this.
+199	If only you sent it a couple hours earlier.
+199	Just kidding.
+199	T Boone must have heard this because he sold everything today.
+199	9000 contracts.
+199	John
+200	Looks good.
+200	I'm a little confused as to how many users can be on.
+200	The system needs to be able to handle 50+ users at one time, each being able to post messages any time.
+201	As far as lunch, it's a done deal.
+201	I need names of people who should be allowed.
+201	It is not for the whole floor, but rather for people who need to stay at their desk during the day.
+201	Please advise, John Enron North America Corp.
+202	What design are you talking about?
+202	Do I have pink elephants on all my emails or something?
+202	I'm very enthused that I have the skillset to be an advertising critic when I grow up.
+202	It's something I've always wanted to do.
+202	PS.
+202	I'm a little sarcastic as well.
+203	Boys: I'm sorry you were not able to attend last night.
+203	I do appreciate your efforts to make this book as successful as it has been.
+203	It's not quite the same as being in my company, but take your respective wives, or swap, I don't care, out this weekend on me.
+203	Try to keep it under $300 per couple.
+203	Keep up the good work, John
+204	Jeff: Anything ever happen with Pedron?
+204	John
+205	Just an update: Today I set up a front month fixed price gas daily product priced at parity to NYMEX.
+205	I thought the response was tremendous.
+205	It really shows that we might have an angle to put out more of the curve and become the predominant benchmark for the industry rather than the exchange.
+205	One problem I had was linking 2 syncopated basis products.
+205	I set up a new product for the prompt that was Nov GD/D Henry Hub that was a syncopated basis of 0/0 to the Nov Nymex.
+205	However, since Dec Nymex is a syncopated basis to Nov Nymex, I could not set up a syncopated basis link around the Dec Nymex.
+205	Any ideas?
+206	Can you swap me with Fletch.
+206	Try to make all of my interviews as late as possible.
+206	John
+207	Russell: I think I should give you a little background on small ventures.
+207	Bill Perkins and I have a strong personal and professional relationship.
+207	He is an extremely creative individual.
+207	Whalley actually commented on him today as someone "who thinks outside the box".
+207	Bill actually sat in a bar four years and said the next tradeable market would be bandwidth.
+207	He has been successful in the gas business when he has had someone to filter his ideas.
+207	As such he provides an informal consulting role to Enron.
+207	He throws out ideas and, every once in a while, he comes up with a great one.
+207	He pointed out an anomalous pricing occurence in the options market, a market I normally don't follow closely, that I translated into a multimillion dollar trade for Enron.
+207	In return, I have agreed to have Enron intermediate his trades within reason.
+207	I want to emphasize that continuing this relationship should be considered a high priority.
+207	I am willing to accept some of the credit risk exposure as a cost of doing business.
+207	Bill understands his role as an independent in the market and performs the right risk/reward trades for someone with finite capital.
+207	I place very high confidence in Bill not conducting high risk trades.
+207	Having said that, we certainly need to monitor his credit exposure and continue to require LC's.
+207	Just understand that he is at a different level of sophistication that any other non-investment grade counterparty.
+207	I understand there was some concern in regards to the Transco Z6 spread option he traded.
+207	He was absolutely right about the valuation and we, on the trading desk, knew it as well.
+207	There are a couple isolated products that Enron does not do a good job of valuing because of systems limtations.
+207	This was one product.
+207	Our spread options are booked in Excel using option pricing models created by the research group.
+207	The problem with these models is that they are strictly theoretical and don't take into account gas fundamental price limitations.
+207	For instance, it is less probable, though not impossible, for a transport spread from a production area to a market area to go within variable cost than the models predict.
+207	Thus it is necessary to apply a correlation skew curve on top of the overlying correlation used.
+207	Obviously, we have this function in our pricing models.
+207	I was not aware this methodology had not been transferred to the valuation models.
+207	This has since been changed.
+207	Fortunately these incidents tend to be extremely rare as very few non-investment grade companies trade these types of products.
+207	Finally, on Friday Bill wanted to do a trade that reduced his exposure to Enron.
+207	I gave Mike Maggi the go ahead to do the trade without consulting credit.
+207	I do not believe that I acted out of line in approving this trade considering the circumstances.
+207	If you believe differently, please advise.
+207	Thanks, John
+208	John: I have asked Mike and Larry to spend half an hour each talking to you about opportunities on the gas floor.
+208	Please advise if the following schedule is unacceptable.
+208	I will be leaving today at 2:15.
+208	Larry 4:00-4:30 Mike 4:30-5:00 Thanks, John
+209	Mark: Let's keep the present system for the short-term.
+209	I would like to continue looking at your work for another couple weeks.
+209	We'll talk later, John
+210	Credit lines are like bandwidth.
+210	Create the capacity and we'll find a way to use it.
+211	Received
+212	Hey: I just want to confirm the trades I have in your book.
+212	Net result: I have 4000 F in your book @ 4902.
+212	Thanks, John
+213	Premonition?
+213	From: Jennifer Fraser 10/04/2000 03:01 PM
+214	Mark: We are still on for drinks on the 19th.
+214	You have called the market very well since you started sending me updates.
+214	Unfortunately for both of us, a couple of good calls does not a soothsayer make.
+214	Thus, keep sending me your updates so I can at least get a little broader judgment of your abilities.
+214	In terms of my trading style, I take positions to make $.25-$1, not $.05.
+214	Too much noise in this market to trade differently for me.
+215	Can you handle this.
+215	Please forward all names on the daily P&L sheet.
+215	I get a copy every day if you need.
+216	Something to take a look at
+217	Thanks
+218	Sorry for not responding.
+218	I don't look at my email constantly through the day.
+218	Don't have much to do in Q/U still it widens back out.
+218	Thanks, John
+219	Yea ...
+219	the later the better.
+220	Oops, I hadn't gotten to this one yet.
+220	Can we do it any later?
+221	Dave: We spend a tremendous amount of resources and money collecting information.
+221	Further, the flow we see gives us an advantage in the market.
+221	We have little interest in distributing this info outside of the building.
+221	I hope you understand.
+221	Good luck to your brother.
+222	yes
+223	Adam: Good question.
+223	The exchange, NYMEX, and I, Enron Online, offer a nearly identical product.
+223	The fight is over which execution model is superior.
+223	I would argue that technology will make open outcry exchanges extinct.
+223	It's happened in Europe already.
+223	The largest commodity exchange in Europe, the LIFFE, went with a parallel electronic system to open outcry.
+223	Within weeks, the floor was deserted and virtually all trading occurred electronically.
+223	I still trade on the exchange because we have credit issues with individuals and certain hedge funds that limit the trading we can do with them direct.
+223	The exchange still provides a credit intermediation function that is useful.
+223	It is certainly an issue that we are trying to address.
+223	John
+224	Please call me at 713 557 3330
+225	I can do it either way but would much rather just make it the simple average of prices, 5 per week.
+226	I was long 4000 X @ 4902, then I switched it from X to F at the same price.
+226	I switched it at 5000, but it puts me into the F at a price basis of 4902.
+226	Sorry for the confusion.
+226	Enron North America Corp.
+227	Yea, I'm picking up 2 tix today....hopefully.
+227	John
+228	John: Please call Lavorato's secretary, Kim, and schedule a time to talk with John ASAP.
+228	Thanks, John
+229	how about 4:45?
+230	Absolutely.
+230	Come by around 3:30??
+231	how's 3:00?
+232	No 0-jun 1 indicative offer is 4.85
+233	I've got your tix.
+233	Just two though.
+233	I left them in my car.
+233	Can you walk down with me around 11:45-12:00?
+234	Hey: I hope you know we were just kidding with you yesterday.
+234	We don't get many strangers on the floor so we have to harass them when we do.
+234	I think I am a couple of the "we are not" attributes in your book.
+234	Is that going to cause me any problems going forward?
+234	John
+235	I will not be able to attend Enron North America Corp.
+236	sounds good
+237	how was the concert?
+238	I do not have high speed service yet.
+239	Sounds as if you went to a better show than I did.
+239	The game was very sloppy.
+239	They tied 0-0.
+239	Not too exciting.
+240	sure
+241	Yea, problem is I left at noon to catch my flight, but Marc had a later flight because NY is closer to Columbus than here.
+241	Right after I left, the market got very busy and Marc decided to stay at work and not go.
+241	So that sucked.
+242	Gary: Just checking to see if the Trader's Roundtable includes us gas boys.
+242	I would certainly be interested in attending.
+242	John
+243	Jerk
+244	Lady, c'mon...you're just one of the guys!
+244	Wanna go to Treasures tonight?
+245	of course...
+245	just kidding.
+245	Aldo's next week.
+245	you're done.
+245	Open up your checkbook baby.
+246	pira's certainly got the whole market wound up.
+246	I've seen a wave of producer selling for the first time in two months over the past two days.
+246	Most selling Cal 1 off the back of Pira.
+246	Pira certainly commands a lot of respect these days.
+246	Too much, probably.
+246	The problem with all these bull spreads (ie F-H) is the thought process in natty is that if Jan is strong, just think what happens when you get to March and run out of gas.
+246	The spread game is very different than playing crude.
+246	These spreads haven't moved for the past 1000 point runup.
+246	You know there were guys bullish this market trying to play it with spreads and haven't made a penny.
+246	Just to clarify, Pira said 3 bcf y on y for Z1?
+246	That seems hard to believe.
+247	Oh yea, I always get those two places confused.
+248	A couple of issues: 1.
+248	I'm having trouble setting a syncopated basis child of a syncopated basis child (grandchild).
+248	Is this not currently allowed by the system?
+248	2.
+248	I have a lot of counterparties whom click on hub gas daily when they meant to trade nymex.
+248	Although I would like the nymex filter to bring gas dailies, is there anyway to separate them a little more clearly.
+248	Eventually I would like to run all my products in parallel with gas daily, but I'm restricted right now by issue #1.
+248	Please advise, John
+249	I can't get into this....any ideas?
+250	how about 4:00?
+251	yea, how about 3:30?
+252	anything new in the world of marketing?
+253	I've got a "strategy" mtg from 3:00 - 5:00.
+253	It's very important.
+253	I've got to strategize about things.
+253	Not sure about exactly what.
+253	Just things.
+254	how about 6:00 for drinks
+255	sure, stop by and we'll arrange a place to meet.
+255	If you come by during trading hours though, I can only say hi for a couple seconds.
+256	So, what is it?
+256	And by the way, don't start with the excuses.
+256	You're expected to be a full, gourmet cook.
+256	Kisses, not music, makes cooking a more enjoyable experience.
+257	We both thank you
+258	Please call her and schedule
+259	It's funny the spreads in gas.
+259	First, in gas, you can play the seasonality game.
+259	Does anybody want to buy M/N at 1 back.
+259	No, of course not.
+259	But in crude, m/n at .10 back is normal.
+259	definitely a game as you try to keep month on month spreads somewhat within reason while preserving year on year spreads and creating equilibrium for where cal 2 on back hedging and spec demand is.
+259	that's why cal 2 is as high as it is.
+259	when was the last time the most bullish part of the nat gas curve was prompt month.
+259	i can't remember w/o looking at charts.
+259	it's always the mentality of: if it's tight now what about July or what about winter.
+259	i think that's why the winter spreads are a piece.
+259	the z/f/g fly is interesting.
+259	i think z/f can and will settle backw.
+259	just a high prob it goes cantango first.
+259	Still seeing sellside interest in term.
+259	definitely a result of pira.
+259	will probably get absorbed in the next two weeks as everybody forgets about them and watches the front of the curve.
+259	previous to that conference, the producers just didnt want to sell anything.
+259	tired of writing us a big check every month.
+259	so not only am i in on weekends, but they just put a computer in my house so i can work at home at night.
+259	it's really my only time to sit and think without the phones and eol going crazy.
+259	they better pay me for the decline in my lifestyle .
+260	can you find out if the tech group has scheduled installation of a dsl line in my apartment?
+261	The following are my bids for the asian option:
+262	think you're pretty clever, don't you?
+263	if only i didn't have a position today I'd be ok
+264	6 months severence minus any errors
+265	Hello: I received this by mistake.
+266	Adam: Hope your interview goes well.
+266	Things are going crazy in the gas market so, unfotunately, I'm stuck at my desk and can't go up for interviews.
+266	As far as the interview goes, my advise would be the same as any interview.
+266	Be confident.
+266	Answer the question asked.
+266	Don't be afraid to say you don't know but don't make excuses.
+266	Express interest in why you find Enron appealing compared to the other 100 companies interviewing.
+266	The trading training program is still in the works.
+266	Few people outside the trading area are even aware of its existence at this point so I wouldn't ask any questions about it in the interviews.
+266	If you receive an offer, it would probably be for a normal analyst position with the opportunity to enter the training program when you arrive.
+266	Not sure about that last statement though.
+266	The training program is geared towards our two most mature and pure trading business areas: gas and power.
+266	There are still a large number of other trading spots in our developing commodities side that would not fall under the program.
+266	That's a function of the program being developed by the head of these two businesses.
+266	Not ready to take it corporate-wide yet.
+266	Write me about how your interviews went.
+266	Good luck: John
+267	Andy: I tried to open EOL at 4 on Sunday, but we had systems problems that delayed the opening until 6:05.
+267	This is the third time in four or five sessions when EOL had problems on Sunday.
+267	Anything you can do to improve reliability would be appreciated.
+267	John
+268	i heard he's interviewing to be Shankman's right hand man
+269	still have not received credit for funds wired 11/16.
+269	Please advise.
+270	hey: what was the first cd we listened to on Wednesday at my place?
+270	john
+271	No, i thought you would have known.
+271	don't tell shank i told you.
+272	you just might never get it back
+273	pretty much all traders
+274	Do you know my hr rep's name?
+275	Brian Hoskins is an analyst who rotated off the gas floor.
+275	Pete Keavey now reports to Scott Neal My aa is Ina Rangel Enron North America Corp.
+276	Thanks...It just seems like all the time.
+277	don't forget you owe me dinner...
+278	not me
+279	Certainly encourage CSFP to transact all volumes with us.
+279	If they shop the deal, everyone will front-run the volumes and they won't get a good price on the deal.
+279	Financial deals settle 5 days after the index has been published.
+279	Physical deals settle much later.
+279	My understanding is this is a financial deal.
+280	Deathly afraid doesn't even come close to describing it.
+280	Busy tonight.
+280	How bout tomorrow?
+281	lumber
+282	The el orbits, eh?
+282	i've heard of them but don't remember who they are.
+282	there is a chance i've seen them at satellite i guess.
+282	my, you are nosey.
+282	i have a little date tonight.
+282	wanna come along?
+283	yea, i'll talk to them.
+283	who should i call?
+284	Don't even think you're getting out of this with the "for a while" crap.
+284	Just for that you can add a star to the place we're going.
+285	careful...i'm having another bad day
+286	i didn't say you couldnt come down.
+286	just not to expect much
+287	where's the site that i can sell my vote?
+288	my polling location is the knights of columbus hall.
+288	what exactly is a knight of columbus?
+289	very interesting....
+289	i've been looking for new activities.
+289	maybe i was born to be a knight
+290	it just wasn't the same without you.
+290	how was el doritos?
+291	thanks
+292	Dave: Can you do the same printout today of children for product #33076 Thanks John
+293	that's fine
+294	Can we do the meeting today at 4:00?
+295	hey podner: where are you buying me dinner tonight?
+296	use 380
+297	you think that's a valid excuse?
+297	whatever....
+298	no actually i was here until 700 ...
+298	filming a movie
+299	yea they were doing spoofs on the rules of business.
+299	i'll tell you about it later.
+299	kind of funny.
+299	however, it took 2 hours for 30 seconds of film
+300	what time did you get in?
+301	Errol: I did not write up these access trades from Friday.
+301	Please make sure they are in. John
+302	Is it possible to reschedule the commercial meeting from Wednesday.
+302	Wednesday is the busiest day of the week for the gas floor.
+302	Please advise, John
+303	yep
+304	welcome to the world of electronic market making.
+304	..
+304	it's fun ,huh?
+305	Stephanie: Please set up Mike Maggi for trding on Intercontinental Exch.
+305	Thanks, John
+306	Hello: I am not able to pull up the link for the short term outlook for natural gas.
+306	Can you please make sure the link is updates.
+306	Thanks, John
+307	I almost forget about your debt, but then your BMW 315ia reminded me of it.
+308	Alan: I received your email.
+308	I'll make sure it goes through the proper channels.
+308	It may help if you give specific positions that interest you most as Enron is such a big place, it will help focus the resume to the right people.
+308	John
+309	get lost
+310	best GUESS P&L tonight is +7
+311	isn't market making on electronic systems fun???
+312	I'm always here so just coordinate with my assistant, Ina Rangle.
+312	Thanks, John
+313	Hello: It is the Blue Men Group.
+313	Two friends highly recommend it.
+313	It's in the Astor Theatre on Lafayette in the Village.
+313	43rd should be good.
+313	I think you woul dhave had more flavor in Harlem though
+314	Hey: Haven't had the best of months.
+314	Like you had some good positions but others wiped out everything.
+314	Unbelievable how the whole curve moves as one for 6 months and then separates completely.
+314	The z/f/g and f/g/h flies are amazing.
+314	Something definitely out of whack.
+314	Hard to believe cash in Z will be cantango to F and front spread, F/G, will be 40.
+314	Spreads definitely implying we will see some $10+ prints on daily cash at the hub this winter.
+314	Hell, already seeing it in the West.
+314	The system is just broken there.
+314	interesting to see if it is a sign of what can come in the east later.
+314	definitely more flexibility in the east so the blowouts won't occur until latter part of the winter.
+314	the inelasticity of demand continues to be unbelievable.
+314	who would have thunk it.
+314	Gas can be 3 times what it was one year ago and not a significant loss of demand.
+314	market definitely trained to buy the dips at this point.
+314	continues to be a very trending market.
+314	most days finish on the intraday high or low.
+314	Pira told the boys to hedge jv and cal 2 and the impact has been significant.
+314	i quote bids on term strips 5 times a day.
+314	understand they are changing their view somewhat tomorrow.
+314	wait and see if it relieves some back pressure.
+314	very surprised at lack of spec long interest in jv at 4.5 considering the scenario that's being painted.
+315	i assume means carrying equity positions, which of course the line would not be used for.
+315	john
+316	eat shit
+317	Hey: Hope you're enjoying the Holidays.
+317	I don't have your cell phone #, so call me if you get bored this week.
+317	Sorry I didn't return your call Monday.
+317	I'll be in the Big D. You can reach me on my cell or, better yet, at 972 934 3440.
+317	Adios amigos: John
+318	Bet voided
+319	who were you trying to bet on??
+320	The agreement is fine.
+320	I'll mail it out.
+321	good seats sill available
+322	Please tell me he's not analyzing bollinger bands.
+323	Z/F !!!!
+323	wow.
+323	Who would have thunk it.
+323	Prompt gas at $6+ and Z/F as wide as last year.
+323	Hard to think of a better scenario for it to flip.
+323	Rather, hard to think of any scenario for any z/f to be contango.
+323	if it couldn't do it this year....
+323	A lot of boys max withdrawing out of storage because that's what the curve told them to do last bid week.
+323	Obviously, more gas trying to come out than is being burned, so you have to incentivize an economic player, like an Enron, to inject.
+323	Problem is if we stick it in the ground now, we're pulling it out in G. When you had z/g at 35 back and cash getting priced off g, cash/z looks awfully weak, thus putting a lot of pressure on z/f.
+323	Storage economics will always dictate this market except maybe latter half of winter.
+323	Buyers of h/j at 70 certainly hope so anyways.
+323	Agree with you that back half of the winter should be strong.
+323	storage boys are withdrawing today and buying that.
+323	bottom fishing in f/g yet or is it going to zero?
+324	CONGRATULATIONS
+325	appears as though the time to get in was last wednesday and everybody already missed their chance to get out
+326	no thanks.
+327	plan drinks for any day early in the week
+328	i'll let you know if they invite me this year.
+329	someone had a foul odor for sure
+330	Jim: Your words of encouragement are greatly appreciated.
+330	I've certainly had some troubles this quarter.
+330	I do appreciate your offer but I don't want to take away from the amazing year you've had so far.
+330	Maybe you should come trade this...
+330	John
+331	don't know.
+331	think a little bit of everyone as the storage guys own it all.
+332	seems crazy.
+332	if you're willing to ride it for a few cents against you it's a great trade.
+332	who knows where they're going in th eshort term though
+333	i think it is something we need to do.
+333	please set it up
+334	A funny story: Because Access was up 75 cents last night, Nymex made a trading limit of unchanged to +150.
+334	After 20 minutes of trading, we were at unchanged and the exchange stopped trading for an hour.
+334	Rappaport, the exchange president, was standing by to make sure everything was orderly.
+334	Obviously, the locals weren't too happy about the exchange closing.
+334	One yelled at Rappaport...
+334	"Why don't you take your million dollar bonus and go buy Enron stock"
+335	why does everybody in this company know my p&l?????
+336	cant handle the pressure of big money??
+337	amazing how with cash futures at $1 and the back such a piece that f/g under such pressure.
+337	month 2 has been the strongest part of the board all year.
+337	will be interesting to see what happens when h/j is prompt.
+337	could j actually be strong?
+337	seems like of the spreads on the board the best risk reward is in f/g.
+337	a little worried about having the z/f effect again.
+337	that is, all spec length trying to roll and funds trying to roll at the same time leading to some ridiculous level at expiry.
+337	any thoughts?
+338	a couple more thoughts.
+338	certainly losing lots of indutrial demand both to switching and slowdown in economy.
+338	Big 3 automakers all temporarily closing plants for instance.
+338	switching is significant and has led to cash in the gulf expiring weak everyday.
+338	gas daily spread to prompt trading at $1....need some very cold weather to justify that.
+338	this seems to be the test of the next 3-5 days.
+338	Will the switching/loss of demand/storage management keep cash futures spread at reasonable levels or will it blow to $5+.
+338	Not too many years ago we had a $50 print on the Hub.
+338	unless we get some crazy prints, you have to question the steep backwardation in the market.
+338	funny watching the flies in the front.
+338	Bot large chunk of g/h/j at $.50 friday morning.
+338	probably worth 1.30 now.
+338	crazy.
+338	people have seen each front spread be weak since forever and are already starting to eye up g/h.
+338	what's the thoughts on distillates...
+338	is it tight enough such that gas switching is the marginal mmbtu of demand and pulls it up or is the market too oversupplied to care?
+339	Catherine: Sorry it's been so long since I could respond.
+339	With the craziness here I am way behind on everything.
+339	#2.
+339	volume way down on exchange recently with recent volatility.
+339	volume probably averaging 25000 these days.
+339	EOL volume averaging around 14000.
+339	Very high percent of market.
+339	Current market conditions shows why our transactional model of being one side of every trade is superior.
+339	#3.
+339	good liquidity first 3 years.
+339	okay liquidity years 4-6.
+339	#4.
+339	calendar 2004-2008 maybe 1 trade a day.
+339	70% chance Enron is one side.
+339	calendar 2009-2013 very rare that it trades.
+340	absolutely agree.
+340	the thought is always, even if cash is piece of shit today...wait until the future.
+340	here's my question: what is the environment whereby f/g is worth $.50.
+340	is there a market scenario where this happens?
+341	yep
+342	come by whenever
+343	remember when you said there is a reason they call them bear spreads?
+343	bring up a chart of f/g or g/h.
+343	f/g is tighter now than anytime since march 99 when ff1 was worth 2.50 amazing
+344	and they say it was purely coincidental the announcement came today.
+344	6 is fine.
+345	saw a lot of the bulls sell summer against length in front to mitigate margins/absolute position limits/var.
+345	as these guys are taking off the front, they are also buying back summer.
+345	el paso large buyer of next winter today taking off spreads.
+345	certainly a reason why the spreads were so strong on the way up and such a piece now.
+345	really the only one left with any risk premium built in is h/j now.
+345	it was trading equivalent of 180 on access, down 40+ from this morning.
+345	certainly if we are entering a period of bearish to neutral trade, h/j will get whacked.
+345	certainly understand the arguments for h/j.
+345	if h settles $20, that spread is probably worth $10.
+345	H 20 call was trading for 55 on monday.
+345	today it was 10/17.
+345	the market's view of probability of h going crazy has certainly changed in past 48 hours and that has to be reflected in h/j.
+346	hey: any interest in seeing cirque du soleil saturday?
+347	just called they're on vacation for two weeks.......that sucks
+348	please remind me
+349	Andy: I just spoke to a guy named Neil Hanover.
+349	He is a fund trader for a company in London.
+349	He asked the head EOL marketer to give him a call about setting him up on the system.
+349	Can you help?
+349	john
+350	can you program my steno in the offices like the ones on my desk?
+351	Any idea what amount of switching in gas equivalents does the implied demand of resid equate to?
+352	i know
+353	the market had to get to a price whereby these guys shut down.
+353	there is just not enough gas to allow everybody who wants to to burn it.
+353	the elasticity of demand is in the industrial sector.
+353	million dollar question is have we gotten to a high enough price whereby we end the year with gas in the ground and deliverability to meet a late cold snap.
+353	shutdown of processing, distillate and resid switching, loss of industrial load...maybe we have.
+353	good holidays, john
+354	asshole
+355	asshole
+356	sorry didnt respond to your message.
+356	don't know how to do that instant messenger thing anymore.
+356	volume very, very light.
+356	most of stated volume in spreads and TAS.
+356	No one seems to want to be in the office this week.
+356	Everyone wants to get this year over with.
+356	Keep pumping in the fundamental info.
+356	very good stuff and i'm not getting it anywhere else.
+357	Here is the name of an available options trader: Jeremy Sorkin VP, Deutsche Bank Would fit Enron culture, but have had little contact with him professionally.
+357	Might be worth bringing him in. Tell me if you want me to call him.
+358	Please approve Dutch for ICE Enron North America Corp.
+359	The positions went over limits due to the sale of HPL and subsequent unwind of hedges associated with the transaction.
+359	Attempts are being made to unwind those positions currently
+360	wish you guys were going a week earlier.
+360	i'm going next weekend.
+360	too much vegas is bad for the soul....and the wallet.
+361	what is this???
+362	very useful...thx.
+362	keep me posted
+363	thx and have fun on vaca
+364	fill me in. how can i eavesdrop??
+365	please set me up to trade crude.
+365	John
+366	Torrey: Can you also approve Mike Maggi to trade crude as well.
+366	Thanks for your help.
+366	John
+367	that info is correct.
+368	i would have paid you in full Tueday morning and resigned my bookie services...
+369	if we were open today, where would you open it?
+370	i was thinking about 25.
+370	i'll sell everything on access down 15
+371	you must bet sugar and orange bowls
+372	take me off your mailing list
+373	i'm paying you in stock options
+374	take me off your mailing list
+375	He joined the group 2 weeks ago.
+375	Put him in my cost center.
+376	Ed: I am starting options on EOL in about two weeks.
+376	As we discussed earlier, I don't have the appropriate manpower to run this in certain circumstances, such as when I'm out of the office.
+376	As such, I'd like to bring in John Griffith for anohter round of interviews for an options trading role with your permission.
+376	John
+377	are you free for a drink/dinner Wednesday night?
+378	glad you enjoyed yourself even though you didnt get to go to ny.
+378	maybe next year.
+378	Had a great time in new orleans but it was freezing.
+378	nice to get away.
+378	going to vegas this weekend to watch the football games.
+378	love you, john
+379	what is the (correct) formula you devised for profitability on last trade is mid?
+380	I want John to interview with the various desk heads (Scott, Hunter, Phillip, Tom).
+380	I think I'm going to tell John not to mention the past.
+380	It's an issue that doesn't need to be made public and as long as Lavo and myself are okay with it, I don't see the need to get individual approval from everyone.
+380	Thanks for your help, John
+381	John: I would like for you to come talk to a couple more people on the gas floor about a possible position down the road.
+381	My assistant Ina Rangle is going to schedule a couple interviews.
+381	Please coordinate with her.
+381	John
+382	what's this about?
+383	please schedule a round of interviews with john griffith with scott, hunter, phillip, and tom asap (today if possible).
+384	You are hereby invited to the tenth annual Spectron/Enron Celebrity Tony's dinner featuring Brian Tracy, John Arnold, and Mike Maggi.
+384	Regrets only, John
+385	sorry i've taken so long...just been trying to fend off the chicks.
+385	life is sooooo hard sometimes.
+385	MONKEY !!!!!!!!!!!!!!!!!
+386	next Thursday at 7:00 pm
+387	Can you put a notice on EOL that due to MLK day, we will be closed Sunday and be offering Nymex products only from 4-7 on Monday.
+387	Thanks, John
+388	Glad to hear progress is being made.
+388	I went to Vandy but a little later...
+388	1992-5.
+389	a couple of observations from here: cash/futures getting whacked.
+389	whereas last weekend cash traded $1 over G, this weekend will probably trade $.15 over.
+389	the lack of weather giving the market time to regroup.
+389	good thing because another week of cold and the system was going to break.
+389	certainly still has that chance in feb.
+389	saw utilities recently staying on a verystrict withdrawal schedule and meeting any extra demand through spot market.
+389	in effect, they said we're not withdrawing anymore so we'll buy marketers storage.
+389	they had to encourage marketers to sell it to them, so cash was extremely strong in periods of even normal demand and should continue to be if/when any weather comes again.
+389	this week demand so low that utilities can meet demand without buying much in mkt.
+389	g/h getting whacked in sympathy.
+389	probably priced 25 term deals through broker market and own originators in past two days.
+389	24 were from the buy side.
+389	it's as if pira came in and told everyone term was cheap.
+389	however, they've got the opposite view.
+389	customers just seeing gas at $4 anytime as being okay now.
+389	don't see any let up in back support for a while.
+389	front spreads the hardest call right now.
+389	g/h h/j j/k ???
+389	can't decide what to do with them and from the volatility in them, appears neither can anybody else.
+389	almost think best play is taking feb gas daily against march, hoping for a cold spell that breaks the system and get a couple $20+ prints in cash.
+389	probably as likely to happen in g as h and g/h has much less downside.
+389	doing well here.
+389	actually having the best month ever 11 days in. played front short against term length.
+389	got out of front shorts today.
+389	probably early but gas has a history of getting off the canvas when least expected.
+389	will keep term length meanwhile.
+389	i've hated summer backwardation forever.
+389	agree about u/h.
+389	a little less crazy about the trade now because i think the easy money was made over the past two days.
+389	unbelievable spec demand for next winter over past week kept summer winter spread constant on rally up and crushed on move down.
+389	jv/xh went from 22 to 3.5 in 5 days while front virtually unchanged.
+389	don't know what to think of this summer longer term.
+389	certainly not as easy as it was last summer when it was obvious $3 was not equilibrium for gas.
+389	now $6 for this summer, i don't know.
+389	we're gonna have to inject the hell out of gas and keep some demand priced out for a long time.
+389	but we will feel production increase hit the market.
+389	just buy vol.
+390	i said i'm a vp and run natural gas derivatives trading and she asked if she could eliminate derivatives because then she'd have to write two more sentences about what that was.
+391	i don't ask...i think he think he'll jinx it if he talks about it.
+392	speed on eol message for monday how to move to algorithms dave or tom moran
+393	telerate on my computer at home is not working.
+393	can you get fixed?
+393	john
+394	I'll be there
+395	of course.
+395	i think you have a few favors in the bank with me.
+395	do you need 4 or 8?
+396	we'll do it next time you're in town.
+396	thanks, john
+397	no thx i'll send them soon
+398	try jshankm@enron.com john
+399	checking to see if you're still on for dinner.
+399	wine room at aldo's at 7:00.
+399	drinks at your place before?
+399	john
+400	Tom: My assistant spoke to Judy Smith about myself and my partner grabbing an extra seat on the jet to Tampa.
+400	My partner and I were invited to the game by a couple of gentlemen from New York that I do business with.
+400	Unfortunately, since I run the nat gas derivatives desk and February expiration is next Monday, the only way we could go is if the jet were coming back Sunday night.
+400	No commercial flights would get us back in time.
+400	Judy indicated it was fine if we caught a ride on the way back, so my contacts in NY booked the trip, including buying game tickets.
+400	I am now hearing that you may be leaving early Sunday night.
+400	I was just wondering if your plans had firmed up.
+400	Obviously, it would be tremendously helpful to me if the plane were leaving after the game.
+400	Please advise, John
+401	fine
+402	Hey: Sorry I've taken a few days to respond.
+402	Just the more I think about it, the worse of an idea it seems for both of us.
+402	There is nothing good that can come of it either professionally or personally.
+402	I still regard you as a good friend.
+402	Nothing has changed that nor do I think we need to act weird around each other going forward.
+402	Something I think we both wanted to try and we did.
+402	Maybe best left there though.
+402	John
+403	Gentlemen: The following champagne is available at 70% of approximate retail price.
+403	Also have interest in trading for red wine.
+403	Retail prices derived from Spec's website or Winesearcer.com.
+403	Wine has been stored at temperature controlled private wine storage facility.
+403	Quan Vintage Wine Retail 3 1990 Perrier Jouet Brut Fleur de Champagne 110 Any interest??
+404	Hey: Any interest in King Biscuit after work??
+405	huh?
+406	Greg: Somehow I talked Lavo into it.
+406	Can you reserve your jet for this Sunday around midnight?
+406	Thanks, John
+407	Guys: We are going to run EOL on Sunday from 2-4 pm due to the big game.
+407	Can you post a message on EOL to that respect.
+407	John
+408	Andy: I just briefed Lavorato on the credit issues.
+408	His comment was that Bradford is going through defcom 3 over California right now and to give him a week when things start to get sorted out there.
+408	John
+409	Please respond to Jennifer
+410	you're done
+411	check with mike and dutch.
+411	can they come any earlier?
+412	thank you four you're note.
+412	i am only twelv years old so i wont bid anymore.
+412	i am sorry.
+413	Contact Andy Rowe at 713 966 2107.
+413	They are a medium term fundamental energy player.
+413	They have never indicated any interest in anything besides nymex or hub gas daily, but that may change.
+413	They have interest in trading on EOL but have not gotten approval yet.
+414	i will try to get tomorrow.
+414	if not, is another day okay?
+415	i got 2 for tomorrow.
+416	we have 4 do you want them?
+417	agree guys are short h/j.
+417	hard to see a big move with cash/futures trading flat.
+417	agree that it has some squeeze potential though.
+417	Started moving today as, simultaneously, march started running up and j aron won a big customer deal.
+417	customer, maybe a hedge fund, bot 1000+ jv 450 puts.
+417	weather frustrating me too.
+417	a little long but it's in the backs so I haven't been hurt.
+417	Sure would be nice to get some more weather and have this thing start going crazy again.
+417	Seen liquids processing come back on at these levels.
+417	Would guess more than 50% has from peak.
+417	Industrial demand different story.
+417	industrial economy just so weak that many petchems and others are burning less because of their markets, not fuel costs.
+417	Chrystler is a prime example.
+417	Any switching back to gas from industrial or switching back to domestic production from overseas muted by weak economy.
+418	quit pressuring them i want to sell some too.
+418	actually sold a few at 9 on the close
+419	i actually started writing this on thursday.
+419	got distracted and left late morning to go to Vail.
+419	Apparently I missed a little craziness.
+419	My point on v/x is that forward spreads, months 3/4 and back, don't necessarily trade on value, they trade on drawing a forward curve that makes equilibrium between hedging and spec demand.
+419	Look at k/m...
+419	do you think k cash will average 3 cents above m.
+419	i don't really see that scenario.
+419	yet that's what it is worth because the market says jv is worth $x and to get there k/m=3.
+419	The same argument applies to v/x.
+419	i think this summer will be exceptionally strong as we try to inject 2 bcf/d more gas than last year.
+419	But cal 2 will lag the move.
+419	It's the main thing customers are selling right now because every equity analyst and even Pira are telling their customers that cal 2 will average 3.50.
+419	so either the v/x and x/z spreads come in or f/g g/h h/j blow out.
+419	After this winter, who in there right mind wants to buy f/g or g/h again.
+419	my thought is that the primary juice will be h/j but v/x and x/z will be under some pressure.
+419	i'm a seller at 9 and buyer at 5-6.
+419	Not much in it either way though.
+420	no...
+420	i went with matt thurell from koch.
+420	they've got some corporate townhouse out there.
+420	very nice.
+420	good to see the old days of waste aren't completely gone yet.
+421	Neal: Referencing Apr-Oct 5315/35 and Nov-Mar 534/536, on the following volumes I am 533/536.
+421	Feel free to call to transact.
+421	713-853-3230
+422	Mr Sturm: Due to the California power crisis, Enron Gas Trading is unable to extend sell authorization on options to Enron Power Trading.
+422	Please call if you should desire to sell any options and credit will be extended on a trade-by-trade basis.
+422	We apologize for any inconvience.
+422	Sincerely: John Arnold Vice President, Gas Trading Enron North America
+423	probably not.
+423	it would have to have a lot of upside.
+423	never hurts to listen though
+424	will do
+425	he sends me his stuff...
+425	i like him because he's willing to take a stand.
+425	so many technicians bullshit their way "support at 5400-5600 but if it breaks that look for 5250".
+425	if every technician put specific trades on a sheet with entry and exit points and published them every day, a lot of people would be unemployed.
+426	don't care about the front.
+426	i think its vulnerable to a good short squeeze like we saw on thruday and friday.
+426	trade is getting short in here with cash such a piece.
+426	if weather ever changes, which the weather boys are saying it might in 2 weeks, the cash players are going to be big buyers.
+426	don't really want to carry length on the way down waiting for that to happen though.
+426	Backs are crazy stong.
+426	cal 3 traded as high as +10.
+426	everybody a buyer as california trying to buy any fixed price energy they can find
+427	remove from email list
+428	i think you're absolutely right about q/u.
+428	again just a question of when to put it on.
+428	Seems as if I'm always on the offer of that spread.
+428	yesterday i had a 4.5 offer all day and i think i got 50 or so.
+428	i can almost leg it better by buying winter and selling summer and the j/q spread.
+428	i would like to see it widen another penny before stepping in and i think with the weakness in the winter and relative weakness of cal 2, on any rally that could happen.
+428	was that you on the q/u/v fly yesterday?
+429	but what's a pig?
+430	you will have 4 tix.
+430	make your plans
+431	just sold 500 q/u at .05 that was the pop i'm looking for
+432	this is the move i was talking about.
+432	v/x implicitly trading 5.5 right now because cal 2 is weak.
+432	some sell side deal got done there but jv is strong
+433	you fucker that's my trade.
+433	i was trying to buy nines the last 20 minutes.
+433	all i got was scraps.
+433	50-100.
+433	i think it's a great trade.
+434	split connect
+435	we need one more good shot of cool air to ensure complete and utter chaos for the next 10 months.
+435	hopefully this is it.
+435	you gotta love heffner...'if we take out the jan 31 low there is NO WAY anything bullish can happen'
+436	cute girlfriends....
+436	I'm in
+437	cute girlfriends....
+437	I'm in
+438	i think we would rally if march were the only thing traded.
+438	Problem is summer and on out so weak.
+438	trade scale up seller of jv as it gets close to 600.
+438	some customer selling in cal 2.
+438	so h/j and j/k need to blow out because no other spread is moving.
+438	i'm a seller of j/k so h/j needs to blow.
+438	all other trade is scale up seller of that so it can move but slowly.
+438	it's a struggle each penny at this point.
+438	at least one spread needs to break if we're going to run and i don't see that happening.
+439	i think taking a cab is more convenient assuming we can find one on the way back.
+440	hey hon: had a great time last night.
+440	you're one ok chick.
+440	john
+441	can you change deal 27 (paribas) today to NYMEX from gas daily
+442	can you change #23 and #375 to Nymex
+443	yea
+444	imagine you have a gas well in the middle of west texas and you only have one pipeline running to your well.
+444	the guy who owns the pipeline can fuck you because you have no choice but to flow your gas that way.
+444	split connect means you have at least 2 options to flow your gas so the price the producer receives is more competitive and if anything happens to one pipeline you don't have to shut your gas in because you move it to another pipe.
+444	i'm going out with my brother and sime guys from work tonight.
+444	are you free saturday day and night?
+445	can you send it through lavo.
+445	he's suppose to pay for it.
+445	thanks, john
+446	Ina: Can you change my meeting with Sheriff's boys to Tueday after 3:00 from Monday.
+446	Also, stick me on thedistribution for the Enron press pack that has all the articles in which Enron is mentioned.
+446	Thanks
+447	Cast John Arnold Bill Perkins Dean Theriot (trainer) Dean: What's your favorite restaurant?
+447	John: Why, are you trying to make Valentine's Day plans?
+447	Dean : No. I'm ready.
+447	I've already bought a Valentine's card.
+447	Bill : John's ready too.
+447	He already has his Valentine's hickey.
+448	Liz: I have 4 tickets for Destiny's child for you.
+448	They're pretty good seats.
+448	I'll put these on hold while I still try to get a box...
+448	John
+449	the end of the season is typically the best month to hold.
+449	Even if the first part of the summer is weak, people will be hesistant to sell the back half.
+449	Same with the winter.
+449	That's why I'm long H2.
+449	It has good correlation with the front on up moves and tends to hold value on the down move.
+450	i am free for drinks after work but have dinner plans
+451	it's one of those theoretically great trades, but those don't always work.
+451	Still, I'll put it on and win 7 times out of 10.
+451	just so hard for the market to rally the backwardation is so weak.
+451	can easily see h going under if no weather appears.
+452	Yesterday, Aquilla sold March at 5.77 and 5.76 for HeHub.
+452	Please change it to Nymex
+453	i'll check
+454	Will change
+455	Please change as indicated
+456	Ina: Can you get a small drink refrigerator for the office stocked with: Water (lots) Diet Coke Coke Dr. Pepper Diet Pepsi Various Fruit Drinks Thanks, John
+457	I would do that.
+457	I tried calling but got your voicemail.
+457	Try me at 713 853
+458	Andy: Can you remove ICE from mine and Mike Maggi's computer.
+458	Also, do we have a list of who has it installed.
+458	I hate supporting our competition.
+458	John
+459	both.
+459	i have it on dutch's machine just in case something ever pops up but it rarely does
+460	We will open EOL 4-7 on Monday for everyone's trading pleasure.
+461	We've started breaking out separate P&L's.
+461	It's been a very difficult process so far for a number of reasons.
+461	The last processes will be separating out the P&L on the executive reports and on VAR.
+461	That will happen this week.
+461	Meanwhile, the P&L will be retroactive to the start of the year and we are going through all the positions such that the total skew is zero or an adjustment will be made to get it there.
+461	At the end of the year there will be a number next to Maggi's name that he will not dispute.
+461	His contribution to the fixed side when I'm on vacations or in meetings will continue to be a subjective process.
+462	Looks good except for settlement period.
+462	Industry standard and for ease to Enron, a spread trade is treated as two separate trades.
+462	Therefore, there will be two settlement periods for the respective legs of the transaction.
+462	The file below states settlement period is 5 days after both legs have been set.
+462	Please change to 2 settlement periods, 5 days after each respective leg has been set.
+462	John Enron North America Corp.
+463	Michael: Appreciate the idea.
+463	However, with my natural long, I'm not looking to really trade around the position.
+463	I believe ENE will continue to be range bound, but in case it is not, I don't want to forgo 50% of my option premium.
+463	I have price targets of where I would like to lighten up exposure to ENE and will use calls to implement the stategy.
+463	To that regards, I noticed I was not approved to sell naked calls.
+463	I would like that ability in order to hedge some exposure I have of unexercised vested options.
+463	Please look into that for me.
+463	John.
+464	Thank you.
+465	Andy: Enjoyed meeting with you.
+465	One more thing I did not address.
+465	My ultimate goal is to move all volume to EOL.
+465	However, in addition to the NYMEX, we have about 6 other viable electronic trading systems.
+465	We make it a point to never support these if possible.
+465	We will only trade if the other system's offer is at or greater than our bid.
+465	For instance, if we are 6/8 but have a strong inclination to buy and another system is at 7, I will simultaneously lift their 7's and move my market to 7/9.
+465	The lesson the counterparty gets is he will only get the trade if I'm bidding 7 and he will only get executed when it is a bad trade to him.
+465	People have learned fairly quickly not to leave numbers on the other systems because they will just get picked off.
+465	If they don't post numbers on the other systems, the systems get no liquidity and die.
+465	I mention this because I have heard that Enron is a fairly large trader on Spectron's system.
+465	I don't know whether it is in regards to gas, power, or metals.
+465	Just something to think about and maybe talk about with the other traders.
+465	John
+466	I think so in a month or so.
+466	Problem now is that there is so much customer buying on any pullbacks and selling on rallies that the market, with such a flat curve, is going nowhere.
+466	That will change, but it's going to take a while.
+466	I like it eventually.
+467	that's not nice
+468	Are you free for drinks either Monday or Wednesday?
+469	Monday it is
+470	i'll call
+471	Kim: 2 tix for Rent this Sat night will be waiting for you at will call at the theatre.
+471	Bring ID.
+471	If you have any problems call the ticket agency at 212 302 1643 or me at 713 Have fun, John
+472	Michael: Thanks for putting the paperwork together.
+472	I would have interest in meeting if you can present unique investment opportunities that I don't have access to now.
+472	Most of my contact with financial advisors in the past has consisted of them suggesting a mutual fund, telling me to invest in Home Depot, Sun, and Coke, or trying to pass off their banks' biased research reports as something valuable.
+472	The above services provide no value to me personally.
+472	If you can present opportunities such as access to private equity or hedge funds, or other ideas with strong growth potential and low correlation to the S@P, I'd listen.
+472	John
+473	Appreciate the opportunity to listen in. I was unable to view the slide show though.
+473	Can you either email or mail it to me.
+473	Thanks, John
+474	yes i did
+475	Just a reminder about drinks Monday night..
+476	not really...
+476	already have plans on thursday .
+476	are you going to the NYMEX candidate cocktail hour Tuesday?
+477	He just rescheduled to Wednesday.
+477	How about dinner on Wednesday after that ?
+478	Who cares??????
+479	How about drinks at 5:30 on Thursday.
+479	I try not to interrupt work with personal business.
+480	i'm free all week right now.
+480	prefer early in the week
+481	true
+482	Would prefer a stand alone button as sometimes the problem is I can't operate stack manager.
+482	I need the ability to force everybody out of the website so people don't try to click numbers that are old.
+482	On a similar topic, what's the status of the out of credit message?
+482	Still a very frustrating problem for both counterparties and me.
+482	Do I need to follow up with Bradford about lowering sigma?
+482	Grab me Thursday afternoon to talk.
+483	Good to hear from you.
+483	After a great F, had an okay G. Held a lot of term length on the risk/reward play.
+483	Figured if we got no weather, all the customer and generator buying would be my stop.
+483	It was.
+483	Amazing that for the drop in price in H, the strips have really gone nowhere.
+483	just a big chop fest.
+483	i here your arguments, but think they are way exagerated.
+483	Agree with 1.5-2 bcf/d more supply.
+483	Call it 2 with LNG.
+483	Imports from Canada should be negligible.
+483	Now let's assume price for the summer is $4.
+483	No switching, full liquids extraction, methanol and fertilizer running.
+483	Electric generation demand, considering problems in west and very low hydro, around 1.5 bcf/d greater this year with normal weather.
+483	Means you have to price 2 bcf/d out of market.
+483	Don't think $4 does that.
+483	What level did we start really losing demand last year?
+483	It was higher than 4.
+483	concerned about recession in industrial sector thats occuring right now.
+483	Think gas is fairly valued here.
+483	Dont think we're going to 7.
+483	But I think fear of market considering what happened this past year will keep forward curve very well supported through spring.
+483	we're already into storage economics so the front goes where the forward curve wants to go.
+484	Forgot, I'm leaving town tomorrow afternoon.
+484	Will be back Thursday morn.
+484	We'll do it some other time.
+485	but that's my point.
+485	the demand destruction roared its ugly head beginning of Jan. The price level was $9.
+485	Of course there is a lag.
+485	Let's make up a lag time...say one month.
+485	On Dec 1 cash was trading $6.70.
+485	Probably a similar lag on the way down.
+485	Cash is $5.20 today.
+485	How much lost demand will there be in a month if we're still $5.2?
+485	million dollar question if you can answer that.
+486	Ina: Can you get this paid on a rush basis?
+487	industrial demand the scary thing.
+487	no question there are some steel mills and auto factories and plastics plants that were on last november that arent coming up now and its not due to gas prices.
+487	the economy sucks and it will affect ind demand.
+488	freak show.
+488	started at -7.
+488	went to -15 then -7 then finishing out -15
+489	freak show.
+489	cash started -7 then to -15 then -7 ended -15.
+490	maybe cal 2.
+491	i would not describe him as the hardest working man in the energy business.
+492	i think this is the biggest chopfest in nat gas history.
+492	scale up seller, scale down buyer.
+492	reviewing my aga model and assumptions later today.
+492	i'll see if i have any new inspirations.
+493	are you free at 3:00 today to go over the aga model?
+494	I think you need to check your AGA model.
+494	7.2 bcf/d seems awfully high.
+494	That's saying that had gas been at $2.5, the AGA for the week would have been 151.
+494	Look at the AGA history for last week, this week and next week.
+494	Do you really think the # would have been 151 with no demand destruction?
+494	It wasn't even really cold.
+494	That would have been the highest AGA # of the three weeks by 15 bcf.
+494	Our guys are thinking 4.5 bcf/d.
+494	Pira is saying that Feb as a whole averages 3.5-4 bcf/d.
+494	That's just destruction and does not include new production, if any.
+494	Further Pira estimates that March destruction will be about half of Feb. Assuming that gets to equilibrium: 2 bcf/d demand destruction, 2 bcf/d more production, 2 bcf/d more gas generation demand.
+494	Start with a 400 b deficit and 200 injection days gets you to flat against last years storage in current price environment.
+494	I think we are fairly priced fundamentally, but with huge customer imbalance for hedging from buy side, surprises in the market right now are to the upside in my view.
+494	Course hard to imagine $6 for J. Just sell vol.
+495	Are you around next Tuesday?
+496	so according to your analysis, had we been at $2.5 gas and we were not bordering on a recession, we would have had the highest AGA number of recorded history for this week, last week, or next week by 15 bcf?
+496	seems a little far fetched to me.
+496	Our analysis is saying: gas at 2.50 we would have had 4.5 bcf a day more demand.
+496	that includes commercial residential industrial switching processing...
+496	as far as 2 bcf/d power gen demand- that counts the fact that last year was extremely mild versus expectation of normal summer this year, west will be running every gas unit virtually all hours as power demand is growing maybe 5% still and hydro way down.
+496	every molecule that can will flow west from waha this summer versus little last year.
+496	east power prices really havent reached point of priceing out demand and heat rates healthy enough to where gas can go up without raising power prices to cut demand.
+496	some concern of more efficient replacing less but hard to quantify.
+496	we're trying to build the stack now to estimate.
+496	frac margins now positive for all but most inefficient processors.
+496	will continue coming back.
+496	a little concerned about 2 oil prices.
+496	bordering right there now for places like florida and actually saw fl demand rise 100,000 last week as gas got to parity.
+496	let me look into inj capability.
+496	definitely bigger when field is empty from engineering standpoint so any problems really wont arise until fall when gen demand low and inj capacity lower...my initial thoughts.
+496	bo seems as neutral as everyone else in the market right now.
+496	really inactive.
+496	to clarify, not raging bull.
+496	i like everybody want to see what the inj numbers in april look like.
+496	nobody putting a position on until that starts to clarify.
+496	just think that hedging demand is making market a little short right now making next move up more likely.
+496	would be scale up seller though not really sure why cash trades at 10-15 back.
+496	doesnt make any sense.
+496	however as more fields start turning around throughout month, the stg arb to great in my opinion to keep spread there.
+496	must close one way or the other.
+496	notice that spread tightened to 6-8 towards end of trading friday?
+496	in general think that gas is reaching the elasticity stage right here.
+496	50 cents lower and no switching, no processing, and gain back some demand.
+496	market needs to see some big stg numbers first.
+496	i think the best play right now is to start buying longer term put spreads.
+496	Jan 4/3.5 look great to me.
+496	if we get back to 2.8 and don't match last year's early weather, bombs away.
+497	So my point shown a little bit right now..
+497	Weather a little cooler for this week.
+497	Overall normal for 6-10.
+497	JV up 12 cents.
+497	Think just as customers got totally fucked last year selling into the rally, they are going to buy all the way down.
+497	Differnence is last year trade very happy to take in all the length.
+497	This year trade not ready to get really short.
+497	Not until healthy inj in April anyways.
+497	I think money from here will be made being short, just question of what and when.
+497	Think there'll be enough hedging demand to keep curve very strong unless phys market just totally rejects price level.
+497	With amount of inj capacity available, hard to believe phys market is going to dictate prices for next couple months.
+497	I think it will be spec and hedgers dictating.
+497	Spec staying on sidelines right now and hedgers buying.
+497	Leads to more upside potential in short term.
+497	My point in V/X was that jv would be strong and cal2 hedging was from sell side leading to pressure on those spreads.
+497	The california term power sales have totally changed that.
+497	Before, the only thing customers were selling was cal 2.
+497	Now, customer interest much more from buyside in cal 2,3 solely from california.
+497	Now turning neutral v/x and x/z.
+497	You have very valid points.
+497	i like q/v more though.
+497	I think you could have 10 cents of upside in that with little downside.
+497	Thoughts?
+498	dinner or drinks tonight?
+499	probably because jeff's out,, but let's go ahead and have it
+500	yes...please change griffith to trading.
+500	thanks, john
+501	Not impressive
+502	I ordered 3 different things...I thought your "wine inventory listings are updated DAILY" ???
+503	Hard to believe , huh
+504	no real bias today positive numbers sell negative numbers buy...
+504	looking into other stuff
+505	theres only one thing i can think of...
+505	storage field turning around gives cash market completely different feel.
+505	instead of utilities looking to sell gas everday, they look to buy it.
+505	huge difference in feel of mrket.
+505	not so much actual gas but completely different economics of how marginal mmbtu gets priced.
+505	tightening cash market causes cash players to buy futures...
+505	hence the tendency for a spring rally every year.
+505	read heffner today...even he talks about it
+506	What it's trading what I think it's really worth Obviously most bearish the further out you go.
+506	However, the game right now is not sell and hold...although it will be soon.
+506	The game is where will it be tomorrow and next week and next month.
+506	The market is structurally short term gas thanks to our friends from california.
+506	where ca is buying power, williams and calpine and dynegy dont care of the gas costs 450 or 475 or 500 or 525.
+506	irrelevant.
+506	so term is not going down in the short term unless the front comes into the 400's and scares some producers to start hedging or we or el paso can find fixed price lng to the tune of 250,000 a day for 10 years.
+507	i loved them in that i thought they were going to go up...i think they still might 3 weeks ago now short term very bullish neutral medium term neutral neutral longer term neutral bearish
+508	i dont know sounds good to me
+509	any reaction to this?
+510	i think jv strip prices to where we price out enough demand to get to 2.8.
+510	whther that price level is 425 or 725 is arguable.
+510	i think it's close to here.
+510	but when we get to november and we have 2.8 and don;'t repeat the weather of this past winter and we have 2.5 bcf more supply and people realize that we have 2.3 bcf to withdraw before there are any problems...bombs away.
+511	confused...
+511	what are you disagreeing with me in regards to demand destruction?
+512	it was almost worth buying a ticket
+513	just a vicious rumor...
+513	my birthday's not till next year.
+514	how about benjys?
+515	what are you doing tonight
+516	what are you doing tonight?
+517	very funny today...during the free fall, couldn't price jv and xh low enough on eol, just kept getting cracked.
+517	when we stabilized, customers came in to buy and couldnt price it high enough.
+517	winter versus apr went from +23 cents when we were at the bottom to +27 when april rallied at the end even though it should have tightened theoretically.
+517	however, april is being supported just off the strip.
+517	getting word a lot of utilities are going in front of the puc trying to get approval for hedging programs this year.
+518	Sorry, have no idea.
+519	houston would be easy ireland kinda tough
+520	heffner a little bullish, eh?
+521	agree with contango story .
+521	cash to futures pretty bullish but a picture where agressive inj now are bearish later.
+521	so curve should flatten.
+521	also back of curve (cal2,3) under a lot of pressure now.
+521	customers will be buying all the way down and will get fucked just like last year.
+521	contango has been under considerable pressure even with the front falling...any rally should result in those snapping in to 4.
+521	good scalp in my opinion.
+521	definitely seeing your side on the $5 level.
+521	surprised we havent gotten more demand back as we sit at these lower levels.
+521	off to cabo today for a long weekend.
+521	kind of exhausted at work right now so a much needed break.
+522	so argument more switching than outright lost demand?
+522	where are petro prices on a comparable equivalence?
+523	i have a very pretty back of the head cash went out around 2-4 back yesterday.
+523	today it is 3 back right now bo trying to sell j/k at 4.5 on the open
+524	cash goes out trading +1 to +3 j/k a piece
+525	remove me from your email list
+526	On Friday, will there be a private reception or area for us or will our customers get lost in the crowd?
+526	Probably thinking 30 invites for Friday.
+526	Is that ok?
+527	dinner this week?
+527	i'm free mon-wed
+528	just got it today.
+528	thanks
+529	you'll be happy to know i get my car back today
+530	wanna bring me back to work?
+531	heffner how?
+531	was pretty long coming into today just playing the range.
+531	sold everything on the way up.
+531	will be s scale up seller probably through options.
+531	certainly a short squeeze in trade today and i don;t think anything changes tomorrow except maybe trade gets more confident in the short at the higher level andif cash rejects higher prices.
+531	will be buying lots of puts on the way up so i guess for me vol is not toohigh.
+531	i was short vol and covered it all this morn.
+531	think we could be infor some turbulence here
+532	Andy: Good to hear.
+532	There continue to be a proliferation of new systems coming online in the US; two more start in the next two months.
+532	We are pretty close to finalizing a plan to open our system to everyone in terms of accepting limit orders and posting best bid/offer regardless of whose it is.
+532	In this framework, Enron would sleeve credit for free should two third parties be matched on our system.
+532	However, we would hold the book, getting to see what everyone was doing at all times.
+532	The idea is that if we can move the industry's order flow from 30-40% EOL to 60% EOL, we get a huge information advantage in addition to a couple trading advantages, namely we have first priority on all numbers even if we are joining a limit bid posted by a counterparty before us and second, we posess a proprietary stack manager that will allow us to transact on attractive limit orders faster than our competitors.
+532	Still working on technical issues.
+532	The decision to open EOL markets would be done on a product by product basis.
+532	Give me a call if you want to discuss.
+533	Looks good.
+533	certainly an area we need more focus on.
+533	Obviously the most important aspect of lng is how much gas is coming in, what is that relative to last year, and what new capacity is coming longer term.
+533	As an aside, nat gas trades as a funciton of the storage spread to last year and five year averages.
+533	It would be very useful if all fundamental analysis were geared the same way.
+533	The fact that lng shipments are x this week is meaningless.
+533	the fact that they are y delta of last year is extremely useful.
+533	if you noticed in the fundies meeting, i was trying to move discussion that way.
+533	what's switching vis a vis last year.
+533	whats production relative to last year.
+533	it simplifies the fundamental analysis.
+534	Debbie: If you have availability for either session, please sign me up.
+534	I was unsure I would be able to attend until now, hence the late notice.
+534	Thanks, John Enron North America Corp.
+535	seeing no increase in physical demand from industrials.
+535	however, they cantbuy enough paper.
+535	energy customer deal flow has a conspicuous habit of buying high and selling low.
+535	seeing virtually no producer selling.
+535	stripwill continue to be well supported through early spring.
+535	last year customers sold all the way up, transferring their price risk to marketers and specs.
+535	market for most part was very orderly move up during the summer.
+535	volatilitwas in the pukes because everybody was long.
+535	now, customers are all buyingmove down should be orderly as is met with a lot of short covering from trade and volatility should come from short covering moves like today's.
+535	market waiting to see those first two injection numbers.
+535	if we are beatinglast year by 20 bcf, lights out.
+535	move down may also scare producers to dosome term selling, putting pressure on whole curve.
+536	Do you have interest in having a semi formal party at the guggenheim for our ny counterparties?
+536	was thinking it might be a good pr move.
+537	how bout today at 400
+538	sure
+539	yes but getting haircut until 700.
+539	is it too dark then?
+540	Hey: Recounted...Can I get 50-60 invites and would need formal invites for Friday??????
+541	confirm
+542	please add
+543	maybe a drink after work...
+544	We ahave not initiated a 24/7 gas product yet but are creating the capabilities to launch at some point in the near future
+545	just when i'm turning really bearish you're starting to turn bullish on me.
+545	weather to me relatively unimportant.
+545	yes, it will leave us with 30 bcf or so less in storage than if we had mild weather.
+545	i think it is masking a major demand problem.
+545	think what the aga numbers would be with moderate weather.
+545	when we get into injections, i think we'll see a big push down.
+545	spec and trade seem bearish but hesitant to get short.
+545	customer buying still strong.
+545	thus even with the demand picture becoming clearer, we haven't moved down.
+545	however i think when the picture becomes clearer (i.e.-when we start beating last year's injections by 20 bcf a week), trade will get short.
+545	customers very unsophistocated.
+545	the story they keep telling us is we're coming out 400 bcf less than last year, thus the summer has to be strong.
+545	when we start inj, customers will start seeing other side of story.
+545	pira finally came out this week and said stop buying.
+545	to me, the mrkt just a timing issue.
+545	i want to be short before the rest of the idiots get short.
+545	i continue buying m,f puts.
+545	projecting k to settle 450 and m 400.
+546	yea, i think the two dumps in the market are when everybody realizes the loss of demand, which is in the first 4 inj numbers.
+546	customer buying and fear about the summer will keep may at a decent level.
+546	if my theory holds, eventually that wont be enough to hold the market up and m pukes.
+546	second puke is in the winter when 4th quarter production is 4-5% on y/y basis, demand still weak (economic weakness isn't a 3 month problem), industry realizes that not only is it ok to get to 500-700 bcf in march but you should, and early winter weather will not match 2000.
+546	we develop large y/y surplus in x and z.
+546	z futures hold up because some risk premium still exists for rest of winter.
+546	by late december, just trying to find a home for gas.
+546	think decent chance f futures finish with a 2 handle.
+547	Mike: which one of the hedge funds closes today?
+548	yes i dont know.
+548	both have their merits
+549	where are you getting those numbers?
+550	will call you tonight
+551	thanks, i'll check it out
+552	Kim: Can I get 4 tix for the following games: Apr 21 or 22 vs. St Louis Jun 15 vs Texas Jun 17 vs Texas Thanks, John
+553	As long as I own Enron stock, the desks are my colleagues.
+553	Feel free to share the info with Hunter and Chris.
+554	Wow, what a week so far.
+554	Beauty of a short squeeze early on.
+554	Even some of the biggest bears I know were covering to reestablish when the market lost its upward momentum.
+554	Unfortunately, my boat is too big to play that way.
+554	Takes too long to put the size of the position I manage on or off to play that game.
+554	just had to sit back and take my lumps.
+554	couldnt have been a more bearish aga # in my opinion.
+554	got one more decent one and then watch out below.
+554	amazing that we've had more demand destruction recently.
+554	the economy is the 800 pound gorilla that is sitting on nat gas and it aint getting up.
+555	I understand you are out of one of the wines.
+555	Please fill remaining order.
+555	thanks, john
+556	thanks
+557	Ina: Can you set up a 5 minute mtg with me and all of the assistants and runners in regards to what we discussed this week
+558	In regards to gas: what signals do you for in determining your view?
+558	what resources do you use to formulate a price view?
+558	give example of complex transaction you've structured for a customer.
+558	where is storage now relative to history?
+558	what is the highest and lowest level we've been at in past 5 years?
+558	what are your short, medium, and long term views of gas market?
+558	what major basis changes have occured in the market over the past 5 years?
+558	What do you expect in the next 5?
+558	how should a storage operator decide whether or not to inject on any given day?
+558	In regards to derivatives in order of difficulty What are delta/gamma/theta?
+558	if you buy a put spread, is your delta positive, negative, or zero?
+558	Is swap price equal to simple average of futures contracts?
+558	If interest rates go up what happens to option prices all else equal?
+558	what is the value of a european $1 call expiring in 12 months if corresponding futures are trading $5?
+558	what happens to delta of an option if volatility increase?
+559	fyi : bo is a big put buyer and fence seller today.
+559	though he is trying to defend j.
+560	you're right though...it seems like bo and i are always on the opposite side of each other.
+561	i may have some u2 tix for tonight, wanna go?
+562	no not necessarily...
+562	just sick of her at the moment,
+563	i've realized i'm too old to stay up til 1 on a school night
+564	are you in for the game?
+565	Congrats, thought you were headed to aig.
+565	how long til you get to short natty again?
+566	i talked to fred today.
+566	i think he's in so lets assume it's a go.
+566	when is the last day to cancel and get our money back?
+567	unfortunately, mathematical analysis of skew is extremely hard to do.
+567	the question is why does skew exist and does the market do a proper job of correcting for violations of the black scholes model.
+567	in my mind, there are three big reasons for skew.
+567	one is that the assumption of stochastic volatility as a function of price level gets violated.
+567	commodities tend to have long range trading ranges that exist due to the economics of supply and elasticity of the demand curve.
+567	nat gas tends to be relatively stable when we are in that historical pricing environment.
+567	however, moving to a different pricing regime tends to bring volatility.
+567	an options trader wants to be long vol outside the trading range, believing that a breakout of the range leads to volatility while trying to find new equilibrium.
+567	supports a vol smile theory.
+567	in addition, in some commodities realized vol is a function of price level.
+567	nat gas historically is more volatile at $5 than at $4 and more volatile at $4 than $3.
+567	thus there has been a tendency for all calls to have positive skew and all puts except weenies to have negative skew.
+567	the market certainly trades this way as vol has a tendency to come off in a declining market and increase in a rising market.
+567	to test, regress 15 day realized vol versus price level and see if there is any correlation.
+567	second reason is heptocurtosis, fatter tails than lognormal distribution predicts.
+567	supports vol smile theory.
+567	easy to test how your market compares by plotting historical one day lognormal returns versus expected distribution.
+567	third, is just supply and demand.
+567	in a market where spec players are bearish, put skew tends to get bid as vol players require more insurance premium to add incremetal risk to the book.
+567	if you have a neutral view towards market, or believe that market will come off but in an orderly fashion, enron can take advantage of our risk limits by selling more expensive insurance.
+567	crude market tends to have strong put skew and weak call skew as customer business in options is nearly all one way: producer fences.
+567	if you believe vol is stochastic in the region of prices where the fence strikes are, can be profitable to take other side of trade.
+567	if you want to discuss further give me a call 4-6 pm houston time.
+567	hope this helps, john
+568	maybe.
+568	hydro situation dire in west.
+568	think water levels are at recent historical lows.
+568	problem is from gas standpoint, west is an island right now.
+568	every molecle that can go there is.
+568	so will provide limited support to prices in east.
+568	hydro in east is actually very healthy.
+568	would assume your markets are targeting eastern u.s.
+568	so i dont know if hydro problem in west is that relevant.
+569	please add
+570	good to hear.
+570	met john galperin today.
+570	give me a call soon to dicuss how to most effectively use the line.
+571	planning on going.
+571	which night are you inviting guys for?
+571	also, heard there were some issues about contract negotiations.
+571	don't know specifics but if you want to discuss give me a call.
+571	might be able to mediate this a little bit if you want.
+572	Mike: Two questions regarding fees: 1.
+572	What will you charge for placement fee on a 750,000-1,000,000 type investment into the hedge funds?
+572	2.
+572	I understand your cost structure is a little higher than Fidelity.
+572	However, I was charged over $1,000 on my option trade for a transaction that Fidelity charges $147.50.
+572	Is there any justification?
+572	Please understand that my basis for developing an account with Paine Webber is dependent upon an agressive fee structure.
+572	I don't want to see my above-market returns compromised by high fees.
+572	Thanks, John
+573	i read this as though 1.5 bcf/d of more switching takes place in the summer versus today.
+573	is that because of the forward curves are backwardated for 2 and contango for natty?
+574	do you still have the magazine and if so can you send it to me?
+575	arrive some time friday night.
+575	leave some time sunday.
+576	are the diamonds still available for tonight's game?
+577	assuming we're driving the car to dallas tomorrow after work...
+578	assume we're driving the 328 up to mom this friday after work
+579	got tix for tonight
+580	good to me.
+580	get prices for the different types of rooms
+581	agree
+582	what's your view of crude from here over next 1-4 weeks?
+583	Took the wrong checkbook to work Friday.
+583	Will call your courier on Monday hopefully.
+583	John
+584	hey: just wondering if you're still up for sailing lessons and if you've found out anything???
+585	fuck you
+586	yes
+587	australia definitely sounds cool.
+587	might be a little tough though.
+587	i'd be in for keemah if you want to do that
+588	i went to get the tix this morn and couldnt get them.
+588	i'll probably go to dinner.
+588	sorry
+589	looks good to me.
+589	have you sent for materials yet?
+590	may = 495 the rest is the same
+591	2.75 ...
+591	but yea
+592	what kind of odds.
+592	the market is saying it's 8:1 chance.
+592	I'm saying there is a much better chance than that.
+592	i think it's 2:1
+593	the only change that's happened to my long term outlook has been that the weather in the short term has been more bullish and we'll have 30 or so bcf less storage than i was anticpating in two weeks.
+593	so yea, my curve is a touch higher, but it doesnt change my longer term view.
+593	most of the move this week was a short sqeeze of spec shorts combined with a strong heat market.
+593	a little concerned about heat, but also saw products very strong going into the season this past winter only to stage a huge failure.
+593	not convinced this rally in products is different.
+594	Dave: I need a favor.
+594	I'm trying to create an internal only Cal 2002 product for our power guys.
+594	Product controls is saying it will take a week from monday to get it created.
+594	any way to speed it up?
+595	Average volume is 35,000-40,000 on nymex of which about half is spreads.
+595	So around 20,000 outrights trade.
+595	We trade more than that on EOL.
+595	Today's conditions 1000 lot market would be 3-4 cents wide.
+595	have executed trades as large as 10,000 across a longer term and 1000 lot clips in the front frequently.
+596	the implied market on that from put spreads is 5.3:1.
+596	I'll take 4:1.
+596	that's all the juice i'll pay.
+597	i dont remember if we fixed these yet.
+598	fuck you
+599	fuck you
+600	fuck you
+601	eat my shorts
+602	schedule 30 min to sit down with me either mon or tues after 430.
+602	if you want to get info, sending out an email survey is not the right way.
+602	much easier to respond to a question in voice rather than typing it out.
+603	fuck you
+604	fuck you
+605	fuck you
+606	eat my shorts
+607	i'll take 10:1 this morning
+608	fuck you
+609	the 14 mm loss was due to a booking mistake that could not be corrected before the books were posted and is being corrected tonight
+610	i'll take 10:1 this morning
+611	fuck you
+612	mike: just want to confirm you received my money and forms.
+612	also, checking to see if i am set up to sell naked calls on ENE.
+612	may be looking to do something this week.
+612	probably 100-200 contracts.
+612	john
+613	That's what I'm talking ABOUT !!!!
+614	That's what I'm talking ABOUT !!!!
+615	i really need the docs on both phantom stock and options.
+615	please please please john
+616	Please send it to me.
+616	john
+617	Mike: Please resend the forms needed although I may have sent the necessary docs with the courier that delivered the check.
+617	Do not believe we've seen the worst yet.
+617	Will not be looking to put more money to work on the long only side for a while.
+617	Even with the rally today I do not believe we've seen the worst yet.
+618	Please send it to me.
+618	john
+619	you think i'm going to put this in ellectronic form?
+619	no way.
+620	you think i'm going to put this in ellectronic form?
+620	no way.
+621	do you mind if i go out with the boys from work tonight?
+622	Hello, I noticed you carried several of the 98 Zoom Zins.
+622	Any chance you have the 33 year old vines version?
+622	Please advise, John
+623	do you mind if i go out with the boys from work tonight?
+624	fuck you
+625	fuck you
+626	yes
+627	yes
+628	awfully close......
+629	thanks a lot
+630	can you send jean a list of her seat numbers
+631	my numbers from mar 15.
+631	would raise jun-augy by 10 cents because of the supportive weather we had from mar 15-apr 15
+632	awfully close......
+633	thanks a lot
+634	can you send jean a list of her seat numbers
+635	1.
+635	don't know.
+635	some industrial shutdown is not gas price dependent.
+635	some will not come back at the same prices it went off.
+635	residential conservation i think is underestimated and has a severe lag effect that will not come back as prices fall.
+635	as far as switching i dont think #2 is the floor some people think it is.
+635	maybe #6 is the floor.
+635	2.
+635	you know my outlook for xh, with slightly above normal weather jan goes out at 2.75 and that is not constrained by a #6 floor.
+635	next jv, too far away to really run the numbers but think natty reestablishes itself as a $2.50-3.50 commodity.
+635	3.
+635	the obvious 4.
+635	yes.
+635	believe if we end at 2.6 in the ground, the current nymex forward curve may be fairly priced.
+635	my belief is that at the current prices we will end up with much more than 2.6 and that $5 is not value if we have 2.8 in the ground and gaining y on y.
+635	circular argument that leads to my belief that prices must fall.
+635	5.
+635	not necessarily.
+635	will loss of demand with normal weather cancel the fact that there will be much less demand destruction.
+635	probably.
+636	are we first?
+636	if not, when does the road show start and/or when does the basic theme get distributed around the industry?
+637	sure, how about thursday at 3:30?
+637	would like to get update on ENE's lng projects as well.
+638	may be looking to sell some naked calls soon.
+638	can you check that i would be approved to sell 200 of either 65 or 70's expiring somewhere between jul-jan.
+638	also, if i sell naked calls with a tenor of more than one year that expire worthless, do the gains get counted as LT cap gains?
+639	sure
+640	any interest in accompanying me to maggi's bd party sat nite?
+641	sure
+642	any interest in accompanying me to maggi's bd party sat nite?
+643	check this out:
+644	check this out:
+645	can you get me the number of our contact at the Delano.
+645	I have a personal favor to ask them.
+645	john
+646	would like to meet to review to make sure i understand.
+646	may only take a couple minutes.
+646	are you free at 330 on tuesday?
+647	Jean: I think the location i talked about before is actually better for you.
+647	The area towards the edge of the building borders the northeast gas group, long-term originators, and mid-market orig group.
+647	not exactly who you need to be around.
+647	the location in the center is much closer to the east gulf group, specifically sandra, and the same distance to the central and texas trading groups.
+647	most importantly, it provides room for both your group and the trading group to expand.
+647	call me if you want to talk further....
+647	thanks for the article.
+647	john
+648	can you take care of this...
+649	my email as far as i know is jarnold@enron.com.
+649	not on msn though.
+649	i made space for your 8 people as well as ferries, roberts, and the other person (??) you requested.
+649	Come down tomorrow and i'll show you the layout again.
+649	john
+650	remind jim how the h/j/k spread acted this year.
+650	granted it won't behave that way again until close to expiry, but i like the j/k outright much moreso than the condor.
+651	can you take care of this...
+652	Stranger: Any interest in getting a drink or dinner Tuesday?
+652	havent seen you in forever.
+653	no
+654	almost forgot about you....
+654	will take care of .
+654	we'll keep you guys together close to the traders.
+655	no
+656	Jeff: To explain the P&L of -349,000 : We executed the trade when you gave the order (the delta anyway), first thing in the morning.
+656	The market rallied 8 cents from the morning, with the back rallying about 2.5 cents.
+656	On 904 PV contracts, curve shift was -226,000.
+656	The balance, $123,000, is almost exactly $.01 bid/mid, which I think is pretty fair considering the tenor of the deal and that it included price and vol.
+656	Cal 3 straddles, for instance, are $1.39 / $1.45.
+656	Looking out for you bubbeh: John
+657	do you know what my user id and password are?
+658	yes i will
+659	this is my idea of vacation...
+660	will see you there (most probably)
+661	only if you promise to post regular updates on the trucking market.
+661	call chris gaskill to get the password.
+662	absolutely...though i'm not sure how you do it.
+662	call chris gaskill and he should be abl to help.
+663	do you know what my user id and password are?
+664	i like that feeling...as long as someone doesnt punch you in the gut.
+664	i'm going to san antonio at lunch today to play soccer so i just took the day off.
+664	catching up on 2 weeks of email.
+664	i know how to relax don't i
+665	yes i will
+666	this is my idea of vacation...
+667	Hey Adam: sorry for the delay.
+667	just been very busy.
+667	congrats on joining enron.
+667	think you made the right chioce.
+667	i would recommend structuring.
+667	it's a good way to understand how enron works, how we look at and manage risk, and you get close to the trading component.
+667	a friend of mine, ed mcmichael runs the gas structuring group.
+667	try emiling him probably at emcmich@enron.com.
+667	keep in touch, john
+668	will see you there (most probably)
+669	your guys are probably seeing this as well, but, 50 cents higher our customer biz was 95/5 from buy side.
+669	now it's 50/50.
+669	can almost smell blood among the producers.
+669	only problem is trade is sooooo short they cant see straight.
+669	were the market still not so fundamentally overvalued right now i'd be looking for a 25 cent move up.
+669	just can't see that happening at this level though.
+670	none
+671	that night i had so much brain damage i couldnt function.
+671	as opposed to ????
+672	Jennifer: I don't think we have much interest in doing this interview since it primarily pertains to our views of the market.
+672	I would speak in such generalities that it probably wouldn't be a good interview.
+672	John
+673	none
+674	i guess i have to keep my 395 price target.
+674	just nothing bullish in the near term except crude.
+674	and that's not enough now.
+674	need to get to a new price regime to pick up more demand quickly.
+675	wanna get sauced after work?
+676	is that with or without two snoozes?
+677	how about we celebrate the near completion of your deal and have tickleless pay for it.
+678	maybe we need a closer in that seat
+679	drinks on tickleknees if you do
+680	you i guess.
+681	i'm just kidding.
+681	i'm getting a haircut from 530-600.
+681	i'll call you when i get out.
+682	is there a password or just knowing the address
+683	wanna get sauced after work?
+684	is that with or without two snoozes?
+685	maybe we need a closer in that seat
+686	drinks on tickleknees if you do
+687	you i guess.
+688	is there a password or just knowing the address
+689	it's an aquired taste
+690	maybe they're for more sophisticated palates
+691	Hot like wasabi when I bust rhymes Big like Leann Rimes Because I'm all about value
+692	i think the velocity of the down move will be much less severe from here.
+692	still dont think this is equilibrium.
+692	need to see aga coming in lower than expectations for a couple weeks signaling that we've moved down the demand curve.
+692	think a lot of spec shorts are looking to take profits as we get close to the psychological 400 target.
+692	market needs producer selling to get us through there.
+692	have seen some as williams is starting to hedge barrett : hence the weakness in the back of the curve recently.
+692	still going lower but it will be a tougher move from here.
+693	i couldnt do it.
+693	it took 13 minutes for my alarm to wake me up.
+694	it's an aquired taste
+695	maybe they're for more sophisticated palates
+696	Russell: Just fyi, they're willing to take us for 20 years.
+697	shipping and billing address : John Arnold 909 Texas Ave #1812
+698	Russell: Just fyi, they're willing to take us for 20 years.
+699	shipping and billing address : John Arnold 909 Texas Ave #1812
+700	i'll pay a grand total of 0
+701	yes
+702	you in town this weekend?
+703	you dont like my ideas
+704	i'll pay a grand total of 0
+705	yes
+706	you in town this weekend?
+707	you dont like my ideas
+708	For extra credit....
+708	If the company is worth 150% more under management A rather than 50% more, does your answer change?
+709	Appreciate the offer but I won't be able to get out of work,
+710	David: Do you have a simulation set up that will allow me to simulate trades by pushing a buy or sell button and will move the two way so i can try simulating actual market cicumstances?
+711	i need significant lead time to prepare for boots day.
+711	please advise earlier next time.
+712	no crap, what's your bid?
+713	rules to a game: You flip a coin.
+713	If you get tails you win 0.
+713	if you get heads, i give you $1.
+713	Keep flipping until you get a tails, at which point you walk away with the money.
+713	however, each heads you get after the first you double your money.
+713	So if you flip heads 3 times and then tails, you get $4.
+713	What's you bid/offer on playing this game?
+713	(would you pay $.5 to play? $1? $2? what you charge me play against you?)
+714	and your offer?
+715	me thinks you missed a 9
+716	have you taken any finance courses yet?
+716	what's good?
+717	fill in
+718	are you prepared to defend your answer?
+719	yes
+720	no
+721	i think its a jv with the trading side mostly staffed by goldman folks
+722	i think it's 100
+723	= infinity
+724	probability * payout |
+725	don't make me type the math on the computer pooks
+726	huh?
+727	yea
+728	Appreciate the offer but I won't be able to get out of work,
+729	Kim: I will not be at the may 18 management mtg as I will be in NY on business.
+730	no crap, what's your bid?
+731	and your offer?
+732	me thinks you missed a 9
+733	have you taken any finance courses yet?
+733	what's good?
+734	fill in
+735	are you prepared to defend your answer?
+736	yes
+737	no
+738	i think its a jv with the trading side mostly staffed by goldman folks
+739	i think it's 100
+740	= infinity
+741	probability * payout |
+742	don't make me type the math on the computer pooks
+743	most bullish thing at this point is moving closer to everyone's psychological $4 price target and that everybody and their dog is still short.
+743	next sellers need to be from producer community.
+743	saw a little this week with williams hedging the barrett transaction but wouldnt say thats indicative of the rest of the e&p community.
+743	short covering rallies will get more common here.
+743	velocity of move down has slowed significantly for good (except maybe in bid week).
+743	my concern is if we go to $4 and people want to cover some shorts, who's selling it to them?
+743	might feel a lot like it did when we were trying to break $5.
+744	huh?
+745	yea
+746	mark: what are your thoughts on crude and gasoline?
+747	mark: what are your thoughts on crude and gasoline?
+748	maine impossible to get to...next option?
+749	maine impossible to get to ..
+749	next idea?
+750	maine impossible to get to...next option?
+751	maine impossible to get to ..
+751	next idea?
+752	puh lease
+753	I am available tomorrow after 3, preferably between 3-4.
+754	that's fine
+755	felt much better after i puked 4 times this morning.
+755	you doing anything tonight?
+756	too bad about pavel.
+756	everybody liked him..
+756	.who's next in line?
+757	i felt fine.
+757	i ate a breakfast bar before i went.
+757	normally dont do that.
+757	wont be doing that again.
+757	wanna do something tonight?
+757	what time do you get out of here?
+758	yea, we'll get them for you
+759	when are you getting out?
+760	we've got reservations in the chathambarsinn.com
+761	cancel
+762	poolie: what's the value of the company to you????
+763	that's what it gets for being a cat
+764	For what it's worth, I liked your answer to the California attorney general comment in the journal.
+764	what a freak that guy is.
+765	i snoozed from 5:00 to 6:20....it was great
+766	how about 5:00?
+767	are you on msn messenger.
+767	i think i'm set up with it.
+768	i think i've got yahoo somewhere on my computer.
+768	i'll try to find it.
+768	expecting 110 today.
+768	still think we're not at fundamental equilibrium but scared that, as much as i hate technicals, the wave 3 is over and we can do some serious chop here.
+768	if we didnt have expiry in 4 days i'd be worried about a short covering rally.
+768	however, i think the market is going to have a hard time placing the baseload gas this month.
+768	the storage guys are all above their targets right now and expect them to back off relative to last month.
+769	seeing very little buying from end users.
+769	some longer term selling from producers.
+769	have had one guy who sold about 300 month cal 2,3,4.
+769	just gets soaked up in the market though.
+769	some buying is from more generation guys.
+769	duke bot 10,000+ lots of cal 7-13 last week.
+769	also think some guys buying cal 3 so they can sell more in the front.
+769	el paso sold delta equivalent of probably 12-15 a day yesterday.
+769	got soaked right up.
+769	mar/apr way overvalued but so hard to bring in. just a function of cal 2.
+769	cal 2 been weak as seen a lot of m/m q/q v/v spreads recently, guys trying to buy the front.
+769	hard to believe m/m is flat.
+769	just goes to show how overpriced cal 2 is in my mind...
+770	sure
+771	Can you get her tickets to one of the games
+772	me thinks you both are a little imbalanced
+773	of course.
+773	info here goes nowhere.
+773	we've had trouble discerning where the switching takes place because the economics get very blurry: credits, ldc costs, transport, taxes, restrictions on # hours plants can burn resis are hard to account for and are different for everybody.
+773	also some noneconomic factors...
+773	convenience, inertia, multi-month fuel purchases, hedges, accounting procedures, resid in storage already...
+773	It's a big blur in my mind.
+773	I look at general levels and for anecdotal evidence.
+773	have seen zero anecdotal evidence so far.
+773	will also watch aga's for the indication, but so will everybody else.
+774	putting on your shirt to go to the bathroom in the dark???????????
+775	what's tomorrow?
+776	I'll get it changed
+777	yes.
+777	i'm leaving at 1:00 today/
+778	from saturday-monday....did 194 trades, exactly half internal.
+778	how'd george do?
+779	biggest question in my mind is we assume resid is a fixed target or if resid needs to keep market share and as natty drops so does resid to maintain its market.
+780	relaxed?
+780	how was it?
+781	maybe, i don't even remember anymore...
+781	the numbers are running together.
+781	best of all, reduced my risk 50% today.
+782	i think i had better weather in massachusetts than you had in mexico.
+782	very relaxing though.
+782	if i lived in the northeast and had 2.1 kids and 1.3 dogs i would definitely get a summer house around there
+783	I called and you were off the desk...
+783	Jan 2005-Dec 2009 settled a little high at 4.136.
+783	Referencing a bid of 4.12 on the strip, we are 46.5/48 on the $5 call
+784	$10,000.....
+784	they're not shy
+785	Misti: I assume you are responsible for publishing the management reports.
+785	I cannot access these reports past May 11.
+785	Have they been published since then and if so, any idea why I can't get them?
+786	crazy day....this day took a week off my life.
+786	plans tonight?
+787	yea...for now at least.
+787	We'll run it until a hurricane emerges overnight and I get run over for 30 cents
+788	Liz: Are any of the diamonds available for Jun 15-17?
+789	no idea
+790	thanks, i'll be there today
+791	Hey babe: Any chance there are copies of the Nightline and/or Frontline shows lying around??
+792	definitely did.
+792	you have to be a pretty boring person to not have fun in south beach
+793	Looks fine to me.
+793	--John
+794	Agree.
+794	Still not at supply/demand equilibrium.
+794	Unfortunately, market lacks a catalyst for sharp move down from here until bid week.
+794	i think continue to see slow erosion.
+794	think we are slowly running out of places to put gas.
+794	discretionary storage guys have their belly full.
+794	can see cash/futures just keep widening from here.
+794	q/v spread, even though it widens every day, still has a long way to go.
+794	think you get to V and there is nowhere to put the gas.
+794	could see v/x going to 30+.
+794	i buy every cantango spread i can.
+794	when market moves up the winter goes 1 for 1, when the market goes down you make money.
+794	strongest product in the gas market are nymex futures.
+794	everything else is a bloodbath.
+794	socal basis has gone from $10 to $4 in the past month.
+794	canadian storage balances are ridiculous.
+794	imports are going to blow away last year.
+794	new lng coming in late novy.
+794	rig count is like open interest, a straight line up.
+794	gas is behaving very price inelastic, just like it did on the move from $3 to $5 last year.
+794	see little hope.
+794	h/j is the craziest spread on the board.
+794	it is not a fundamentally priced spread though.
+794	for several reasons, the industry uses that spread primarily to link the front of the board to the back.
+794	think the front will keep drifting lower and the back will find some customer buy support as we get cal 2 down to 3.75 ish.
+794	thus, h/j has to come in...i think.
+794	plus i have the fundamentals on my side.
+795	come on up this afternoon around 3.
+796	send
+797	tomorrow's fine
+798	did you call?
+799	are you going to tell me or do i have to guess
+800	second, third, and fourth that
+801	Please delete previous message.
+801	It was meant for David Oxley
+802	Liz: Wondering if you've had any luck in securing tix for this Saturday's game.
+802	Also, are the diamonds available for Jun 23?
+802	Thanks, John
+803	not after today
+804	late night yesterday?
+805	I told you we should have sold cal 5-14 yesterday
+806	yea, i interviewed him.
+806	i gave him a thumbs up.
+806	why do you ask?
+807	my plan worked
+808	Kim: At the start of the year, I requested tix for this Friday's and Sunday's games.
+808	Just checking to see if they have my name on them.
+809	no, but i didnt even know you guys were going.
+810	any thoughts about next weekend?
+810	i still want to go somewhere.
+810	this is killing me.
+810	how about south america or is it too far?
+811	take me off your list
+812	heard of it but not sure exactly what it is.
+813	here she is...
+814	The deal got booked to Oil-NG-Hedge-Spec.
+814	It should have been booked to IN-Upstream-St***.
+814	That resulted in an error in my position as well.
+815	where did you get this info from?
+815	have not seen the generators who hedged before selling out.
+815	mostly just seen calpine selling.
+816	pooks if you get this call me
+817	the way i read it was the 30 something contract signed are good but ones under negotiation from there are either being renegotiated or talks terminated.
+818	i cant commit ...i'm 50/50 so say no.
+818	will send bat on next continental flight.
+819	it was fine this morn.
+819	starting back up today
+820	funner than provincetown???
+821	lots of producer selling cal 2 and front strong so h/j still blowing out
+822	no, they were just good sellers in the cals.
+822	irregardless of the rally in the front this morn, cal 4 didnt move
+823	i thought i was joining you
+824	Because I am so kind: Greg Trentham Glen Rock, NJ 07452 Jack Cogen 60 East End Ave #25A NY, NY 10028 Brian Tracey Wilton, CT 06897 Brian Manolis 81 Forest Ave
+825	thanks
+826	Pooks, here's your chance to really turn some heads
+827	sun -9% in 6 days.
+827	kid how????????
+828	interested in a night of pizza, wine, US soccer, and belize planning tonight?
+829	screw the english jersey.
+829	just wear red
+830	cost about 200,000-300,000 our internal estimates were in the 102-106 range, so no.
+830	i think pira overestimating the gas gen burn for the week.
+830	problem is there is no real good burn for at least two weeks going forward.
+830	we've dropped $1.5 in a couple months and havent picked up an mmbtu of demand.
+830	that's a big problem
+831	at some point it has to or we're going to shut-in economics.
+831	that may be the answer.
+832	economy starts looking better when energy costs fall 30-50%
+833	Prompt month vol is moving from 60% to 40% cob today...should increase capacity for front month by 50% for anybody who wants them.
+834	wanna get toasted tonight?
+835	i guarantee it.
+835	you're not still pulling that leg thing, are you.
+835	we don't work out again until wednesday.
+836	i'm going to run to needless markup real fast.
+836	that have a big sale starting today.
+836	if you don''t want to go, i'll pick you up after...
+837	3 minutes
+838	let me think about it for a day
+839	can you give access to the fundies site to margaret allen 3-9056 thanks, john
+840	what????
+840	where is that?
+841	i have no interest.
+842	quickly running out of places to put gas.
+842	at least appetite to put gas in storage at same rate.
+842	need some supply/demand dynamics to change else price $3 is no resistance
+843	how is subscription rate going for EOL versus our expectations?
+844	sure, send it over.
+844	as the investing contrarian i am, if everybody else is getting out of late-stage vc, i'll take a look.
+845	i don't have a problem with that.
+845	The 3 factors I ask in releasing info are: 1.
+845	Do customers even know the info is available or useful?
+845	2.
+845	Is the info publicly available?
+845	3.
+845	Is the info easily obtainable?
+845	In this case, the answer is yes to all three, so I don't care.
+845	If the answer is no to one or more of the above, a judgment call has to be made.
+846	Hey: Haven't spoken to you in a while.
+846	Let's get a drink sometime soon.
+846	I'm taking a week and a half off starting July 4 but after that, maybe we can go a Astros game.
+846	Congrats on Connor.
+846	Hope everything is well.
+846	909 Texas Ave #1812
+847	Dave: Would like to sit down sometime and look at most current work on auto trader.
+847	Any time today?
+847	I'm not trading today so I'm free anytime.
+848	talk to john griffith right now.
+848	in the future (month or so) it'll be andy zipper.
+849	what's you're new phone # ?
+850	Kim: Are John's tix available for the following games: July 16 or 17 Cleveland Sep 11,12 or 13 San Francisco Thanks, John
+851	Kim: Can I get Mark's on the Jul 17 and John's on Sep 13 and 23?
+851	Thanks, John
+852	just calling to see if you have anything ingenious to say about this market.
+852	i've covered most of the shorts starting 3.40 all the way down.
+852	agree market probably not at equilibrium just dont really want to press it right now.
+852	the easy money's been made.
+852	want to have a few bullets just in case hot weather or storm takes this thing up to $3.50.
+852	selling some upside calls just in case that never happens i'll still make money.
+852	been an incredible run so far.
+852	have half a mind to pack things up and go on vacation for the rest of year.
+852	however, i'm just doing it for a week and a half starting tomorrow.
+852	will talk to you when i get back and we'll figure out what to do then.
+853	he's going to start trading a cross commodity vol book.
+853	concentrate mainly on gas and power.
+853	maybe some weather and products.
+853	identifying any high risk/reward longer term vol trades we should be doing.
+854	he'll be sitting with and reporting to me
+855	director
+856	it's going to take complete rejection of phys molecules to get solidly under $3.
+856	i expect some really good chop for 2 weeks.
+856	have enough people waiting for sub $3 to buy back all their shorts...don't think it's that easy from here,.
+857	puts i assume.
+857	for what months?
+858	take-out, wine, and movie?
+859	yes
+860	how bout i bring it?
+861	how about you get the food
+862	i'll get the movie and wine.
+862	my suggestion is something from central market but i'm easy
+863	John: Here is my analysis of my guys: Mike Maggi (2) : P@L for first half a bit misleading.
+863	Up till today, he has run and taken the P&L for 7 days.
+863	3 days were in the first half of the year and 4 in July so far.
+863	Running EOL is a law of averages...some days you get killed some you do well.
+863	The second day he got massacred: T boone sold 3000 contracts as well as the floor selling on an illiquid day followed by gap down the next day.
+863	P&L for that day was -$7.
+863	the four days in july have been really good, probably +$6-7.
+863	So I look at his P&L for the first half of the year as Jan 1-Jul 6.
+863	That P&L of $15 is around my expectations.
+863	runs low var.
+863	pretty good at running EOL when I'm not there.
+863	A little too reactionary but hopefully more experience will help.
+863	makes most money in market making, probably slighlty negative in greeks and negative in curve shift.
+863	Would like for him to turn both of those positive.
+863	A bit hadicapped because present format doesnt allow him to fully get physical info.
+863	Required to spend all time in front of computer.
+863	needs to develop John Griffith to allow him to get off the desk more.
+863	good contrarian trader.
+863	often has opposite position of floor.
+863	willing to stop out and is nimble.
+863	needs to take more of a macro view of vol rather than ending up with everybody' elses positions.
+863	Vital for me to have him as a bbackup right now.
+863	Cannot function without one of us on the desk.
+863	Computer causing problems.
+863	will email with other guys later.
+864	any chance you can go to the game tonight?
+864	i've got the good ones..
+865	interest in diamonds tonight?
+866	anybody want four good tix to tonight's baseball game
+867	[Arnold, John] jarnold@enron.com Panel height: 65" Panel fabric: Blue patterns Panel trim: Ligh Blue Surface Lam: Light Gray Speckle Pedestals: Light Blue Componentry: Corner surface surfaces, BBF pedestals, overhead bins, lighting Power: yes down Spline Quantity avail: 16 + stations Price: $995.00 per station Plus delivery & Installation Panel height: 44" Panel fabric: Gray/Beige mix (Very Nice!) Panel trim: Beige Surface Lam: Beige Pedestals: Beige Station size: 5' telemarketing stations Componentry: 60" X 30" surface with BBF pedestal Power: NON Quantity avail: 10 + stations Price: $495.00 per station Plus delivery & Installation Photos: ********* ACME WORKSTATIONS ************* SPECIAL OFFER!!!!!!
+867	Panel fabric: Mauve Panel trim: Light Gray Surface Lam: Medium Gray Pedestals: Light Gray Componentry: "L" shaped surfaces, BBF pedestals, shelves, task lighting Power: yes down Spline Quantity avail: 40+ stations Price: $770.00 per station Plus delivery & Installation Photos: Panel height: 62" Panel fabric: Gray/Beige mix (very Nice!) Panel trim: Black Surface Lam: Maple Pedestals: Black Componentry: Corner surface, BBF pedestals, Shelf Power: yes down Spline Quantity avail: (8) stations Price: $650.00 per station Plus delivery & Installation Photos: +++++++++ LATERAL FILES ++++++++++++ Colors: light gray Putty This week's price is at $195.00 - $395.00 per unit Plus delivery Manufacturer: Sit-On-it Fabric color: Black Arms: Lopped (non adjustable) Pneumatic lift: Yes Back Adjustment: Yes Condition: Very good Quantity available: 65+ Price each: $65.00 + delivery Photos: Totally remanufactured Herman Miller Pneumatic lift, adjustable arms available In the Fabric of you choice Pricing depends on quantity ++++++++++ CONFERENCE TABLES ++++++++++++++++ 28' X 5' beautiful conference table 4 sections, 3 drum bases Price: $8,500.00 + delivery & set up Photos: Also Available (1) 14' X 4' racetrack laminate mahogany @$550.00 (with matching 6' credenza) ALL OFFERINGS SUBJECT TO PRIOR SALE Call us for your workstation, filing and seating needs. We provide as-is and refurbished workstations by Steelcase, Herman Miller, Haworth, Knoll and more. WE PURCHASE WORKSTATIONS, FILING, SEATING & DESKS ************TRADE SHOW REMINDER************* Managing the Real estate Game Vancouver, BC Canada 28th Annual NACORE Exposition Nashville, TN IFMA`s World Workplace Kansas City, MO NeoCon New York New York City, NY NeoCon West Los Angles, CA ********** USEFUL SITES ********** Today's Facility Manager Association Higher Education Facilities Officers Business Facilities Facilities Design Intl Facility Mgmt Assoc Facilities Resource Mgmt FM Datacom Facilities Exchange Facilities Pro Resource Facilities Engineering International Society of Facilities Executives Facilities Source International Development Council Aron Groner - a division of - Office Assets Management, Inc. New York, NY 10018 Under Bill s.1618 TITLE III passed by the 105th U.S. Congress this letter cannot be considered spam as long as we include: Contact information and offer a way to be removed from future mailings. To be removed from these monthly specials e-mailers please send a e-mail to removeme@cubicles.com with your name, address, company name and the exact e-mail address this message was sent to. If you desire removal allow us to extend our sincere apologies for any inconvenience your receiving this message may have caused.
+868	1.
+868	Did API's indicate that there may have been switching from resid back to gas?
+868	2.
+868	Did the 2 crude traders that left quit or get fired?
+869	Under new rules instituted this year by Commissioner Bud Selig, an umpire can automatically eject a pitcher if he believes he's throwing at a batter.
+869	He does not have to issue a warning before an ejection.
+869	Fletcher did not warn Mann for hitting Gonzalez or Cordova.
+869	"The umpire said Bartolo threw the ball at his head and that's an automatic ejection," said Manuel.
+869	"But the ball missed his head by three feet. It tipped off his bat."
+869	Colon said he wasn't trying to hit Servais.
+869	"I will protect my teammates," said Colon, speaking through bullpen coach/interpreter Luis Isaac.
+869	"I can hit anyone I want at any time. That's why I feel bad. I wasn't trying to hit him. The ball slipped."
+869	Fryman defended his pitcher.
+869	"At no point, do I approve of throwing at someone's head," said Fryman.
+869	"But that pitch did not surprise anyone in the ballpark. Bartolo should not have been ejected. There should have been an immediate warning to each bench.
+870	i took a week and a half off during the same time that Bo Collins of EL Paso left so naturally I am going to El paso.
+870	I'm not going anywhere unfortunately.
+870	I'm in for July 31 if you've got them
+871	I have no good thoughts about the market.
+871	everybody wants it to go down to 2.80 so I covered my short at 310-5.
+871	cash very strong at these lower levels with some gen load.
+871	should act to flatten curve as good producer selling in back.
+871	playing range and selling vol.
+871	think aga may surprise lower than expectations.
+872	had phone problems ...lost my charger.
+872	It was good.
+872	I may be the most influential in the world of finance in the past 50 years
+873	those certainly were the good ole days.
+874	i really have no idea.
+874	probably lower just becasue of the trend and overwhelming bearish view of the market.
+875	what happened to you last night?
+875	couldnt get ahold of you on your cell.
+876	flat.
+876	i had my lowest var in over a year this morning
+877	that's fine.
+877	the later the better but definitely after 2:30
+878	I'm big seller of interventions.
+878	they tend not to work.
+878	if the gas market wants to go lower, enron coming out and buying 10,000 contracts is not going to stop the market from going down.
+878	maybe in the short term, but that's it.
+878	same with currencies.
+878	ECB can come out and transfer some of its foreign reserves from dollars to Euros, but they are limited by their currency reserves unless they want to act in the futures market at which point they have to exit that position at some point.
+878	i think it is more psychological than anything.
+878	i think overall market interventions have been extremely ineffective.
+879	remind me of that bet again
+880	me thinks the currency market has seen enough failed interventions that it shrugs off any intervention and may view it as a sign of weakness.
+880	me also thinks that until foreigners quit plowing all their money into the US the dollar should remain fairly strong.
+880	however, if all the hedge funds are short which i assume they would be, the turnaround will be very quick.
+881	how about your local bank??
+882	selective memory maybe
+883	if you're around stop by around 500-515 today to talk about all this stuff
+884	big plans tonight?
+885	with?
+886	yea...talk to john griffith about getting this info.
+886	if you want to get a sense of my position, stop by monday afternoon.
+887	i didnt mean to get so run over
+888	yet his price forecast from last week is 2.60ish for next summer...is that the struggle between bullish next summer but coming out of the winter with a lot of gas in the ground?
+889	what's your longer term 3-12 month view of heat?
+889	thinking about buying against short natty for next summer.
+890	think trade reluctant to sell here until they see aga on wednesday and knowing that tropical activity will develop at some point.
+890	however, think the failure from 335 last thursday will weigh on people.
+890	think that nobody wants to own above 325, only as very short term trade to sell to someone else 5-10 cents higher unless aga is very bullish.
+891	if the number last week was right, then that looks possible.
+891	however, 2 weeks ago the # came out higher than everybody thought so all the models were jacked up.
+891	aga is certainly much better than the api but still cant put too much into one number
+892	not really.
+892	i actually don't think the market's going to move too much even though the range of expectations is huge.
+892	there are enough people on the sidelines to mute a move either way
+893	me thinks below but won't really move until closer to expiry
+894	i'm just here to do my job and not worry about prestige, or something
+895	i probably would have told you within the first 2 months
+896	Hey, Surprised to hear from you.
+896	jeff is in charge of nat gas operations and reports to sally beck who is in charge of all back office ops.
+896	as of this morn, he is still here.
+896	i've heard some wacky enron rumors before but this one is pretty good.
+896	where'd you hear this?
+897	1.
+897	i would guess notional value $2-3 bil per day including financial derivatives.
+897	2.
+897	probably doubled market share in gas since eol 3.
+897	probably 25% of our trades are intl
+898	Can I assume we are ready to test the limit orders?
+899	i would still like to conduct the test.
+899	we may have 10-20 internal orders at a short interval after aga
+900	thanks.
+901	thanks for doing that interview for me.
+901	can you reply to this?
+902	exaggerations...word travels everywhere doesnt it?
+902	how'd you hear?
+902	me thinks everybody short and everybody wants the market to go down.
+902	I'm relatively flat and would love to squeeze all the fuckers out so I can sell them 20 cents higher.
+903	i think there are so many shorts that some of the weak guys are squeezable here.
+903	not all and not massive short covering.
+903	just think the boys will be buying in front of next week's number.
+903	best trade is to be long now and sell right before number
+904	you're right about the email address.
+904	thanks.
+904	as i said, if your product allows enron to reach more customers, we would have interest in participating in the structure.
+904	John
+905	someone's got too much time
+906	i just cant get too enthused about the short side.
+906	why did cash go out trading +5 for a weekend when there was zero power gen demand.
+906	the easy answer is that pipes were short and everybody playing catchup from this week.
+906	fine.
+906	what's it going to trade next week.
+906	the gas daily swap implies flat, but it's lagged the actual spread all month.
+906	i think cash surprises by trading positive next week with no power gen.
+906	this market is not trading like we run out of injection space.
+906	so either the market is wrong (maybe but a dangerous assumption to make) or I don't see why sep is so overvalued relative to the rest of the curve.
+906	you can certainly argue that the winter and cal 2 are too high, but those certainly don't seem to be going down very fast.
+906	march is off 8 cents since jun 29.
+906	so if the market wants to say that march is worth 354, then why is sep too high at 298?
+907	yea, i'd be willing to take a look at any of these ideas.
+908	hey: thanks, we already have the front 2 spreads out (u/v,v/x).
+908	do you think there would be interest in the strip spreads?
+909	yea
+910	will every programmer involved on this project be in this building working this weekend?
+911	i found this searching for gas stuff if you care..
+912	wanna chew on my toenails?
+913	yes
+914	how can i help for the video?
+915	wrong email address
+916	i have a meeting with Heath Schiesser (VP of Xcelerator) today.
+916	can I join the trucking fundies group instead?
+917	if you want...
+918	do you know if i have astros tix from upstairs anytime soon?
+919	no real opinion except short vol
+920	hungry?
+921	at my desk
+922	what's pdx?
+923	what's toronto
+924	are they fun or boring work folk?
+925	we'll do it another time...i dont really want to talk about work all night.
+925	thanks though
+926	your welcome and thanks
+927	sure
+928	option mtg today at 4:15 topics include long term vol
+929	hey stupid: do you know if jason ever signed an evergreen?
+929	if not, can you print one up?
+930	agree
+931	agree
+932	agree
+933	are you going to blow me off for dinner again tonight?
+934	cause you played hooky this morn?
+935	what do they mean when they have a cold summer scenario results in a $1.50 price?
+935	these guys are freaks.
+936	With the daily chaos that ensues on this floor, sometimes communication is sacrificed.
+936	Fortunately, we have the message board to facilitate real time sharing of information.
+936	I think all of us, including myself, underutilize this tool.
+936	I want to encourage everybody to keep the board open on their computers all day long.
+936	In addition, I want everybody to post at least one message every day.
+936	This can be an interesting trade that just happened, what counterparties are trying to do, new information you uncovered, etc. Information we learn can be very valuable to other desks and it is only fair that if we're taking info from the board, we should be contributing as well.
+937	With skilling gone I move up one spot...from 147th to 146th.
+937	This market sucks!!
+937	Right back where we were before the # last week.
+937	I have so little interest right now.
+937	just glad i held onto the short straddle position.
+937	wish i had something intelligent to say but i don't.
+938	in regards to the stock, tell me about it.
+938	flat price me thinks we go nowhere for a while.
+938	think the next push down doesnt come again until late october.
+938	im buying z 300/250 put spread for 11.
+938	still looking for 3.1 by end of season.
+938	probably 2.95-3.0 for nov 31.
+938	who wants baseload gas for dec in that scenario?
+938	aga's...
+938	think high 70's is neutral the market.
+938	if it comes out 70-85 you can shit on vol.
+938	that'd be good for me.
+939	hard to say odds on a revision.
+939	don't think aga would make a revision, but an individual stg field could.
+939	another option is that a stg field that realizes they fucked up just fades the number over the next several weeks such that each number going forward is bigger than expected.
+940	wrong addressee
+941	we're going to have a mandatory eol trading simulation session today at 4:00.
+941	Can you email all traders on the floor and make sure the desk heads know.
+941	Also, postpone my 4:00-5:00 mtgs until after 5 or tomorrow.
+941	thanks
+942	got this one
+943	Greg: I just realized I'm out of town thursday and friday of next week.
+943	any chance we can meet with bo wednesday afternoon?
+944	i'm planning on it
+945	how bout we split the moolah
+946	for what?
+947	wrong wrong wrong you're talk no action
+948	want to get a fancy dinner tongiht?
+949	let's say thursday.
+949	were you counting in ac?
+950	any interest in catching the us soccer game tonight?
+950	me thinks it starts at 9
+951	how about those dutch, or dutchesses
+952	i just mean to flip/flop the traders and orig so they are still sitting together but the trading is next to financial and texas rather than the orig
+953	yes.
+953	we've made budget this year.
+953	what do we need more income for?
+954	1.
+954	on family vacation how bout sep30-1 2.
+954	already bot a second bed, but thanks for the offer
+955	i'm blaming my p&l on you today
+956	Tammy: can you send me another copy of the 6th floor seating chart Thanks, John
+957	boo
+958	can you pay this
+959	on a scale of 1-10 how good is this guy?
+960	on a scale of 1-10 how bad is the name Gad Casby?
+961	when do i have baseball tix for?
+962	can you have Kathy Gribstald (?) send me an electronic copy of the picture that appeared in the Enside mag??
+963	Scott: Condolences to the Carr family.
+963	If you need to reach me for any reason, I can be reached at 713-853-3293
+964	my old carrier went out of biz this week, convenient huh?
+964	so i do not have service as of 2 days ago.
+965	thank you
+966	you make me so jealous
+967	Bob: Work with me on this.
+967	I'm looking at the doc now and will have comments later today.
+967	John
+968	Jeff: The trade did go in yesterday to book "oil-price-spec".
+968	If this is not the right book, email or call.
+968	john
+969	We have the whole curve out.
+969	The nymex is just another trading platform that is inconsequential to markets we make except for arb opportunities and for the fact that our swaps settle against the nymex settlement.
+969	our volume is pretty normal at this point.
+970	i've been selling.
+970	was long 500 and selling out.
+970	everybody will be expecting the crude draws.
+970	they dont matter.
+970	think this is tremendously bearish all energy demand.
+970	supply shocks are the only question, but I dont think US will end up fighting a war against the middle east.
+970	Who cares if we nuke afghanistan?
+971	all I hear is that all the funds are going to get squeezed as soon as the nymex opens.
+971	fuck, i don't know, but I'm not going get long crude hoping to squeeze the funds.
+971	lost that game too many times.
+972	huh?
+973	the nymex is so technologically incompetent that they have no idea.
+973	after working on it for 18 months they're trying to buy are technology now
+974	if cash/futures is 10-15 then oct will have a very weak settle.
+974	they are trying to use the regular access system on the internet which was supposed to come out two weeks ago but they delayed because the firewalls and security issues hadnt been solved
+975	Scary how we have the same sense of humor.
+975	Havent told anybody yet.
+975	So I have a favor to ask: whether we never talk again, just become good friends, or grow old together with 6 kids, please never,ever refer to me as the energy guy.
+975	You can refer to him as that, just not me.
+975	Officially tired of watching the news.
+975	Actually there is very little new about it.
+975	Channel 12: the local viewpoint.
+975	CNN: the national viewpoint.
+975	CNBC: the business viewpoint.
+975	ESPN: the sports viewpoint.
+975	Pat Robertson Channel: God's viewpoint.
+975	The politicians all hold news conferences and talk for 15 minutes and say nothing.
+975	"We interrupt the State Dept's news conference to bring you the Justice Dept's news conference where we expect there going to say 'no comment at this time' frequently."
+975	I have a tv on my desk at work that is on constantly just in case something happens, but meanwhile it's driving me nuts.
+975	Just found out another girl I knew is missing.
+975	I was supposed to go out with this girl a couple years ago on a blind date but it never went through.
+975	I met her after that.
+975	So let's talk about something better.
+975	We'll start shallow.
+975	What kind of music do you like?
+975	John
+976	I don't remember him but it is my understanding nobody has been heard from that worked in the Carr office in the wtc.
+977	Please call me in the morning so I can 3-way with an EOL technical rep to find out happened.
+977	One looked at it this afternoon, and according to his preliminary analysis, the order was placed at 10:57 and never canceled.
+977	Obviously that is counter to your knowledge of the transaction.
+977	Let's straighten this out first thing in the morning.
+977	John
+978	Hey, by the way, did you ever find your cell phone???
+978	Network traffic very heavy right now so you might not get this until tonight.
+978	John
+979	Sorry for the extremely late response.
+979	Despite the fact that Eva referred you, we would have interest in meeting with you about emplyment opps.
+979	I was planning on going to NY in a couple weeks but at this point, I don't know.
+979	I would highly recommend that you follow the formal recruitment program in addition to any talks we have.
+979	Although I can recommend to make you an offer, it is much easier if it is done in parallel with the associate recruitment program.
+979	After the current events calm down, we can talk via phone about my experience here and why I think there are some good opportunities here.
+980	done
+981	bid it up on low volume....
+981	thanks
+982	This is a summary of my position and trading goals today.
+982	Advise if you dont agree.
+983	yea, what are you doing after?
+984	Post Midtown Square
+985	seems to me trade guys are getting royally fucked in crude
+986	Happy B-Day by the way.
+986	Hope everything's going well.
+986	We're having network problems again so I hope you get this soon.
+987	i had to cover some.
+987	too much risk.
+987	rode most of it back down.
+987	i think this whole event is bearish energy....
+988	nobody important
+989	good point
+990	your welcome
+991	I'm going home.
+991	Have fun tonight.
+991	Talk to you tomorrow.
+992	I see I've made quite an impression on you msled.
+993	I created 2 new deals that reversed the deals mentioned.
+994	So, well....I was thinking, um, you know.
+994	Uh, never mind.
+994	But actually, I was wondering (cough,cough) that, well.
+994	Ok, I'm just gonna say it.
+994	Are you you ready.
+994	Ok, here it goes...
+994	Would you like to get a drink some time?
+994	p.s.--Whew, I was never good at asking girls out but I think that went pretty smoothly.
+995	Agree with the first paragraph.
+995	Bets get tougher from here.
+995	Not so obvious and require much larger size to get same juice.
+995	Generally not a good position considering the current world order, or disorder.
+995	Not much juice in gas basis either.
+995	This is where we see whether we are good traders or just great fundamentalists.
+996	Hey: 1.
+996	Theoretically we could agree upon a trade and cross it on ICE after hours when the risk that someone else gets inside is remote.
+996	This is a prearranged trade and is illegal on Nymex, but it is my understanding it will be legal on ICE assuming ICE uses the IPE clearing platform, where prearranged trading is legal.
+996	Agree about liquidity.
+996	I dont think this really helps ICE's volumes, nor liquidity.
+996	Funds want liquidity so they will not flock to ICE in the current state.
+996	2.
+996	My guess is not intercommodity, but maybe intracommodity.
+996	For instance, a gas daily swap against front month futures may have lower margin than the 2 trades additive.
+996	Important Note: ICE is our competition and I am very,very wary to support their system, unless absolutely necessary.
+997	P.S.
+997	- Can you bring me some free samples of the bladder control medicine.
+997	It'll save me some money.
+998	Please change my address of record to John Arnold Houston 77002 Thanks, John
+999	you working out today?
+1000	I'm running out the door to go drinking with the boys at front porch, right next to my apartment.
+1000	I don't think your dad would like me so much.
+1000	Will explain later.
+1000	Sorry about your day.
+1000	Maybe you can find some happiness in the book of prayers.
+1000	Maybe you can find more happiness in the money.
+1000	Talk to you later.
+1001	wow...how did our guys do?
+1002	yea, that was for oct a couple hours before expiry.
+1002	dont have a whole lot of interest being fundamentally long crude.
+1002	maybe for a scalp buy if we get overdone which we might be this morn.
+1002	T Boone how?
+1003	are you going to the game 2 nite?
+1004	it wouldnt be fun if I were fair.
+1005	Lucky sob
+1006	Yesterday was just a little crazy.
+1006	Crude had it's biggest fall in 10 years so that translated into a very busy day.
+1006	Plus my best employee was just offered a job across the street for a big chunk of money.
+1006	At least I made money.
+1006	I should be getting my phone line at home today (of course they've been saying that for 5 days now) at which point they can install dsl.
+1006	Thatll make it much easier.
+1006	Went to the bb game again last night.
+1006	Love them stros.
+1006	How'd you're presentation go last night?
+1006	Did the doc talk good about your drug?
+1006	Have a good one,
+1007	cold 11-15.
+1007	oct expires tomorrow.
+1008	is it real?
+1009	nobody from the first tower made it down, right?
+1010	whats the name of the "priceline" type site that gives you an hour to buy the ticket.
+1011	40 yard line 20th row in my hands
+1012	just got them.
+1012	thanks a lot
+1013	I have 4 tix sec 124 row 34 for tonight if you or anyone in your group wants them
+1014	thx for the update.
+1014	funny how the banks will deal with us and ospraie won't.
+1014	oh well, nothing we can do.
+1015	god i hope so
+1016	stop sending me these
+1017	do you and brad have a minute to sit down today?
+1018	see you there
+1019	Seems a little out of whack but as we seen time and time again, fundamental relationships don't have to hold in the short term.
+1020	BBB+ credits dont go bankrupt overnight.
+1020	we can get downgraded overnight, though.
+1020	put a clause in the contract that if we get downgraded below inv grade there is some sort of orderly liquidation of the swaps.
+1020	talk to credit about how we handle this with others.
+1021	How about next wednesday??
+1022	I actually went to go talk to him yesterday but he was already gone and he's on vacation today.
+1022	I'll talk to him next week.
+1022	Probably better for him to hear the benfits from my mouth.
+1022	We do need to talk to him before we get too far.
+1022	EOL working very well as of late.
+1023	there are few scenarios whereby that spread comes in except if you take it to settlement.
+1023	if dec is strong, jan is strong too.
+1023	if dec is weak, jan retains some risk premium.
+1024	me thinks so
+1025	yep, what are you doing later?
+1026	no thx
+1027	i think they worked this out.
+1027	John
+1028	why is george down?
+1029	thank god i got out on friday.
+1029	had a much better month trading crude than gas.
+1030	yea
+1031	you coulda sent me this 8 months ago....
+1032	not necessarily looking for predictive power.
+1032	that's a 3 year project.
+1032	just for market making skillset.
+1032	The work that Dave Forster did was just for front month.
+1032	That creates month 1.
+1032	Then, similar logic has to create a month 1/month 2 spread to create a month 2 outright market.
+1032	Same for month 2/ month 3 to create month 3.
+1032	There might be 24-36 individual markets to create a forward curve.
+1032	Sometimes month 1 has correlation to the month 1/ month 2 spread.
+1032	Sometimes it does not.
+1032	Must create a system that is mechanical but very easy for a human to add bias.
+1033	Funny that they say mixed response to new ceo's
+1034	Someone in my group or myself will attend.
+1035	got your running shoes on?
+1036	mike maggi resigned this morning to take a job at a competitor.
+1036	He is under contract.
+1036	Lavo has been advised.
+1036	What do I need to do?
+1037	not really and no
+1038	ended up getting in late last night.
+1038	monday night football turned into tuesday morning football.
+1039	sucks to be mediocre, huh?
+1040	elpaso, same thing Want to trade options?
+1041	outright long....a long time from now.
+1041	looks like with cold weather curve is going to reshape.
+1041	front up, back nothing
+1042	hey buddy: heard you're in town.
+1042	any interest in going to the bb game tonight?
+1042	have some right field homerun catching seats
+1043	Hello: Wondering if we can meet to pick up the tix.
+1043	I work and live in downtown.
+1043	Please advise or call me at 713-557-3330.
+1044	just got some tix in right field for tonight's game.
+1044	any interest?
+1045	why is anybody giving you scoop?
+1046	i think cash gets much stronger over the coming weeks relative to nov.
+1046	first inclination when cash comes up is that futures go up.
+1046	however, there is an 80 cent spread between cash and december.
+1046	cash can easily go up without dec moving.
+1047	just bot them.
+1047	I'll save one for you.
+1047	just let me know asap.
+1048	any interest in going to bb game tonight.
+1048	crude reunion.
+1048	jt, racecar, and me.
+1048	tix in HR #70 catching territory.
+1049	Sounds good.
+1049	I have cash.
+1049	I work at the old Enron building.
+1049	Just give me a call when you're close and I'll meet you on the street right in front of the building.
+1050	maybe we just hold all the gas until next winter.
+1050	we'll worry about that problem next september.
+1050	novy expiry can go anywhere.
+1050	Too early to say.
+1050	Probably around $2 though as I cant imagine who is a baseload buyer of gas in november when the US is a net injector the first 1-2 weeks barring cold spell and the pipelines are trying to start withdrawing.
+1051	Can you meet this guy if I'm off the desk?
+1052	For anybody that doesnt know, Maggi resigned today to go to El Paso.
+1052	I will be sending out an email with a broader distribution this afternoon.
+1052	Please keep this quiet until then.
+1052	Plan to meet at 4:30 today to discuss the ongoing structure of the desk.
+1053	I'm going to put out an email this afternoon
+1054	you suck.
+1054	how pissed will you be if the guy next to me catches 71.
+1054	call me before you leave tomorrow.
+1055	can you find out the scoop on ravi thuraisingham as far as reviews, rankings, etc. thinking about hiring him.
+1056	me thinks people are trading the headline and not the story
+1057	ene: the india story.
+1057	I lok at it and say we sold india.
+1057	then realize we the gas, not the assets.
+1058	no.
+1058	waiting for a rally to sell.
+1058	if dont get one will stay out.
+1059	no.
+1059	Have had 2 late nights in a row and it doesnt get much better rest of the week.
+1059	had to get an extra hour of beauty sleep.
+1059	can you tell?
+1060	I went to the Front Porch after the crappy game and then went back to my front porch with billy white.
+1060	he wouldnt leave.
+1060	stayed until 1:15.
+1060	get the feeling he doesnt get out much.
+1061	actually a terrible game.
+1061	bonds didnt get a ball out of the infield in the air.
+1061	granted we werent exactly pitching strikes to him.
+1062	not enough
+1063	come on up tomorrow afternoon.
+1064	yea
+1065	I would pay $300 for the tix tonight.
+1065	I feel ripped off for the crappy game I had to sit through tuesday.
+1066	yea, can you meet me at enron again?
+1067	Pull this up and click on hit chart Your tix are sec 154, row 12, seats 1-4, on the aisle of sec 155
+1068	at least I made $100 for my services
+1069	can you email lavorato maggi's address
+1070	nope
+1071	going to the game.
+1071	I'll be at the front porch tomorrow...
+1072	depends on the legal outcome.
+1072	thhere is still a possibility we get all of our money back, although a roe of 0% for 10 years.
+1072	Still, a better roe than broadband investments
+1073	can we meet at 4:00 instead?
+1074	because we're $10 off the lows or because you think we're overvalued?
+1075	what do you think now?
+1076	you doing anything tonight?
+1077	no need.
+1077	the drinks will be warm by the time I get back up to the 6th floor.
+1078	yes, he'll be at work on monday.
+1078	can you have docs ready sometime during the day?
+1078	by the way, these are crappy pics.
+1078	The prediction company says you go 4-7.
+1079	YOU'RE A HACK
+1080	Eddie Gaetchens (?), Marty, and Kevin from Man are coming down Wednesday if anybody is up for dinner or drinks
+1081	want to play hookie and go to the bb game tomorrow at noon?
+1082	no way.
+1082	we're still paying $5000 for new employee referrals
+1083	they're giving away a porsche boxster or a cardboard boxcutter?
+1084	my little junior league girl.
+1084	so sweet.
+1084	let's leave around 1130ish
+1085	she starts at 12:12
+1086	sure.
+1086	just call me when you get out
+1087	jeans
+1088	I'm wearing a shirt too
+1089	maybe after the game.
+1090	I never knew your fantasies...
+1091	Do you want to drink beer?
+1091	I'll work on sneaking a bottle of Opus in otherwise.
+1092	Not so impressed with David goldman.
+1092	For a guy who has worked in derivatives for 10 years, couldnt answer some simple questions.
+1092	Very poor financial derivatives knowledge even though he worked at CRT for a long time and a Lyonnais for a while.
+1092	The only value I see in him is that he worked at BP for a while and might have some knowledge as to how they work.
+1093	that was pretty funny.
+1093	Do not still have the double date thing.
+1093	I need a favor in return for interviewing your boys.
+1093	Remember Mark Findsen.
+1093	He's looking to get back into the business, possibly from the trading side.
+1093	I actually think he might make a better orig guy.
+1093	He has been in the crude and products markets for 10+ years.
+1093	Has no experiece in trading energy but has been day trading equities for past year.
+1093	He asked if he could get a round of interviews at Enron.
+1093	Could you set up a round for him?
+1094	maybe, some specialization is beneficial though.
+1095	sounds like it's clean from your side.
+1095	I HATE SWAPTIONS!!
+1096	If these problems are not being addressed as they should be, call me and I'll get on it.
+1096	This is unacceptable.
+1097	Sorry,sorry, sorry.
+1097	Havent had internet access at home for past 5 weeks.
+1097	Much easier to write these at home as when I'm done trading I don't want to look at my computer.
+1097	For november, very neutral.
+1097	Cash is impressive.
+1097	Agree shutins, switching, and some weather are making market look more like equilibrium.
+1097	Think with cash/futures at 20 cents, x/z looks crazy.
+1097	As soon as z becomes prompt, the fear factor/risk premium of it will decrease and the whole winter will come off.
+1097	Like your h/j trade.
+1097	Hard to see it really being worth 9 cents at settlement.
+1097	Been buying a lot of y/y cantango as I think next summer will be a piece but longer term gas story still very real and customers know it.
+1097	Wouldnt be surprised to see 2/3 go to 50+.
+1097	I think x has some room to go up, but not a lot.
+1097	Dont want to play the market from the long side as been burned before trying to get long a market that is still in a downtrend.
+1097	Seems like the curve will just keep rolling down with each expiry.
+1097	All the winter months might settle 2.25.
+1097	As such, the best thing to be short is jan.
+1098	LOSER
+1099	what's brian's last name?
+1100	Johnny: I'll get Mark Findsen to call you.
+1100	Can you have at least 1 trader interview him as well.
+1100	Thanks, John
+1101	Any chance we can introduce limit orders to spreads?
+1102	Sushi on Thursday at the new place in the Village?
+1103	going to the game?
+1104	cancel above.
+1104	we'll do it next week
+1105	got whalley's for today at noon.
+1105	can you go?
+1106	are you there?
+1107	I've 2 extra tix if you anybody we like.
+1108	yea
+1109	I just found a taker.
+1109	Sorry.
+1110	I'm in.
+1111	can you make a reservation for 8 at vallones at 6:30 today.
+1112	sorry, just got your msg.
+1112	cant go today.
+1112	by the way, you're a lousy friend.
+1113	don't worry about it
+1114	I'm sure he'll come down whenever we ask.
+1114	Should I tell him to get his butt down here and show us the love?
+1115	your welcome.
+1115	It was really good to see you again.
+1115	Maybe we can so something again before 2 months
+1116	All good
+1117	He should call you today or tomorrow morning.
+1117	I do not have a list of interviewers in mind.
+1117	I would like Bill White to talk to him though.
+1117	Thanks.
+1118	Hey: That's one hell of a bd celebration.
+1118	Don't think I can hang in you guys.
+1118	Was definitely a little sleepy yesterday.
+1118	Went to the bb game and then had a biz dinner last night.
+1118	I was almost asleep driving home at 8:30.
+1118	At least I was sane enough to yell buy and sell at random points during the day.
+1119	I assume you're going to let people select news categories such as us energy news and avoid articles about paskistani oil fields.
+1120	Any time tomorrow afternoon around 3 or 4:45 to discuss?
+1121	Just following up to see if the recruiting season has started and to make sure everything is going okay.
+1121	If you need anything, just say the word.
+1122	I've got a mtg from 4-4:30ish so either before or after
+1123	If you have blackberry, keep me informed about pira
+1124	ng lows in place but q1 forecast $2.2 ???
+1124	don't understand.
+1124	also, what's longer term forecast i.e. past mar 03
+1125	you goofball go to www.snopes2.com , click on rumors of war, and then go to the first entry about halloween.
+1126	yes
+1127	what is our flight schedule for monday?
+1128	any substance to their argument or just their beliefs.
+1129	The y/y spreads have come in decently over the past week and a half.
+1129	The 2/10 spread has moved from 104 to 94.
+1129	It may be a good time to move the 3-10 to a cal 2 trade.
+1129	Pira just gave their seasonal conference in NY and they are very bullish long term gas.
+1129	forecast Nymex Regardless of what you think of Pira and long term price forecasts, the rest of the market does listen.
+1129	They have a tremendous amount of respect in the industry and affect how customers and producers hedge.
+1129	The flow, which has been buyers over for the way backs, I think will get more pronounced, especially if the front goes down.
+1129	In the past week, I've sold Duke 40,000/d Cal 6-10 and 25,000/d Cal 7-10.
+1129	I've sold PGE maybe 30,000 day Cal 4-5.
+1129	The only seller has been El Paso whom I believe is hedging production.
+1129	He is trying to pressure the y/y spreads as a spec trade that I think was/is being done to front run the corp hedges.
+1129	I've used it as an opportunity to put a lot of spreads away for inventory down the road.
+1129	If you want to buy this strip back in the next 6 months, I think it's going to be much easier/cheaper to roll it closer.
+1130	which way?
+1131	[Arnold, John] We're working out today at 4:30
+1132	I hated it
+1133	1.
+1133	I'm going to see T Boone Tuesday 2.
+1133	Fine me for Var for Friday.
+1133	I promise I'll buy on Monday.
+1134	How about 7:00
+1135	Joey: Can you round the price of following EOL deals from 10/9 with Cargill to four decimals while keeping the spread price the same: John
+1136	no clue.
+1136	not a movie buff.
+1137	What money?
+1137	I don't know what you're talking about
+1138	I'll get it at lunch.
+1139	damn, thought you forgot
+1140	exactly
+1141	you got robbed...
+1142	it's the one thing that could really hit the market.
+1142	There are a lot of gas hedges on against those trades.
+1142	If they are torn up, a lot of gas in the back gets sold off hard.
+1142	Plus, The dynegys of the world lose $1 on their hedges.
+1143	me, me, me....you girls are all the same
+1144	do you have any time today around 5?
+1145	Darren: I think Dutch Quigley spoke to you about an individual who is trying to get set up with EOL for his personal account.
+1145	The person is Tony Annunziata from the Smith Barney AAA fund.
+1145	He meets the suitability tests as far as net worth and knowledgable investor.
+1145	He is also willing to post via LC or wire.
+1145	I gave him your number.
+1145	I would appreciate if you could expedite his credit application.
+1145	Thanks, John
+1146	stg adjusted means factoring in cost of carry and taxes stg curve looks more realistic in market areas when you add basis on.
+1147	Tell him I'm free to meet Oct 19, 2085 at 2:00 AM.
+1147	See if that's ok with him.
+1148	I referred him to Lavorato
+1149	Liz: Just wanted to thank you for the astros playoff tix.
+1149	Thanks for thinking of me.
+1149	Maybe you'll invite me up to see your new digs before the move....
+1149	John
+1150	This guy is working on an EOL project for me right now.
+1150	Can you send him a file with our EOL trades for today or yesterday with product, price, buy/sell, and timestamp but counterparty names deleted
+1151	3:00 up here
+1152	I want to have a group mtg from 4:00-5:00 today to discuss some of the enron issues and then vol if we have a chance.
+1153	so how'd it go in NY?
+1154	Just wanted to thank you for the gift basket.
+1154	I usually don't like them because they have crappy wine, but that was actually a really good bottle.
+1154	Sat out on my patio last night drinkning wine and eating cheese and fruit.
+1154	Thanks.
+1155	Louise has no problem as long as approved by legal and credit
+1156	Since I have no idea what you're talking about, I guess I was a little drunk.
+1157	can you buy 10,000,000 more please
+1158	do you want to go to learn what happened or do you want to go yell at those guys/see those guys get yelled at?
+1159	Daniel: Can you include me in the nymex nat gas advisory panel meeting today?
+1159	John Arnold Enron
+1160	I had yes to Zaun and no to the others
+1161	schweiger's been preparing for that mtg since wednesday.
+1161	how do you think lay/whalley did?
+1162	spinnaker, one of fred's customer's , unwound a hedge today because they dont want exposure to us.
+1163	not mad at you
+1164	I''ll be drinking either at front porch or little woodrows
+1165	Veronica: Deutsche Bank asked me to ask you to call their maintenance margin person, John Jones, at 212 469 6773.
+1165	I think they are trying to margin us.
+1165	John
+1166	can you arrange a mtg between the desk heads as soon after 1:30 as possible.
+1167	I am sorry you lost the trade but this is not a matter that should be worked in the broker market nor should anybody be looking to profit off the situation.
+1167	It is being handled directly to ensure the integity and liquidity in the market that is beneficial to all.
+1168	that kid is hilarious.
+1168	Do you know what his last name is?
+1169	There will be a desk head mtg tomorrow, Sunday, at 3:00 on the 33rd floor per Lavorato to discuss positions and strategy.
+1169	Please confirm via email.
+1169	My cell # is 713 557 3330 if there are any problems.
+1170	cancel?
+1171	I'm going to need an additional report daily for the next couple weeks: for the top 50 counterparties a summary of total EOL volumes and phys gas volumes for average of rolling 30 days, average of rolling 5 days, and previous day with volume differentials in percent relative to 30 day average.
+1171	For instance : TOTAL VOLUMES Previous day 5 day 30 day US GAS PHYS FWD FIRM <= 1 MONTH BUY SELL Previous day 5 day 30 day Previous day 5 day 30 day Please advise how quickly you can put this together.
+1172	who wrote the market commentary are at the bottom of this and who wrote the rest?
+1173	Although tennessee was a very good time not long ago, it sure seems like a long time ago.
+1174	How are you with the following counterparties for this transaction: Coral, Duke, Dynegy, Reliant?
+1175	not much from customers lately.
+1175	Customers waiting for market to stabilize before doing any hedging
+1176	BMO wants to do this sleave trade.
+1176	Duke, Dynegy, Coral, and Reliant have offsetting positions.
+1176	Who's best for us to do this with?
+1176	Also, what's our current balance with BMO?
+1176	Should I demand for the trade to be offmarket?
+1177	can you have the back run a new position report as of yesterday and include j aron
+1178	he was contacted directly.
+1178	Why, are you trying to find a good one?
+1179	expect some producer selling if/when mrkt stabilizes.
+1179	what production data are you looking at?
+1180	Understand.
+1180	Are you good with Bank of Montreal out that far?
+1181	how about j aron?
+1182	Tell them to calm down.
+1182	I'm going to start clearing amro, tfs, and carr trades through them as well.
+1182	I will do a new xpit to offset some of the new positions that will lower the margin in the short term.
+1183	Are we proposing to pay refco for order flow, like a tick per trade, or are we going to give them our prices and then they widen them to add their juice?
+1184	Talk to Geoff Storey.
+1184	He is handling a transaction that will reduce the majority of exposure to us Wednesday morning.
+1185	Jeff: If you talk to Greg Trentham, will you ask him to call me?
+1185	I have not had a chance to talk to him yet.
+1185	Thanks, John
+1186	Does my boy Marc Findsen have a chance?
+1187	Can you get me an itinary of events?
+1188	banc one
+1189	how about monday after work?
+1189	or monday lunch if we're all fired by then...
+1190	sign me up
+1191	I'll have an answer by 9:30
+1192	Please stick him on
+1193	Understand.
+1193	Enron has been Man's biggest account for years and during that time we have paid them a lot in commissions.
+1193	They approached us on Wednesday to try to increase the margin required, even though we were below the credit threshold that had been established in the contracts written 5+ years ago.
+1193	I refused to agree to change the margin calculations.
+1193	It became clear that Man was uncomfortable with the exposure to such a big account given that Man is a relatively small shop.
+1193	I agreed to xpit some positions such that they would get more comfortable with the outstanding risk in the account.
+1193	At the same time I told them I was transacting business as usual and if they couldnt handle/didnt want the clearing business I would clear somebody else but that was a permanent decision for them to make.
+1193	Clear our business always, or clear it never.
+1193	Paribas has stuck with us throughout and I intend to clear the majority of future biz with Paribas.
+1193	I agreed during hours of phone calls wednesday that we would xpit specific futures positions on thursday, which we did, but the rest of the position would stay there.
+1193	They agreed.
+1193	We specifically stated the rest of the positions and the options would stay and we would work out those positions over time.
+1193	&!@$ them if they are trying to go back on that.
+1194	Will you wire the money immediately when this is done?
+1195	yes, I replied and asked mike if he'd wire the money today if I agreeed.
+1195	waiting on his response.
+1196	we have already done the aug 03, how many may 02 do you want us to do?
+1197	being done as I write this
+1198	We just finished doing the xpit that they asked for.
+1198	They have agreed to send the money immediately after that was done.
+1198	We should be getting the money very soon.
+1198	Hold off on the letter right now.
+1199	Please notify me as soon as the wire has been sent.
+1199	I assume you are working on this right now.
+1200	can you confirm when we get it?
+1201	I thought I had pulled one over you...
+1201	I don't envy your job.
+1201	The trade guys do a good job of ganging up on you.
+1202	ready any time you are
+1203	according to whom?
+1204	we have until thursday i believe
+1205	if they demand this on thursday, i'm going to put their nat gas operation out of business.
+1206	i was just thinking i should invite you to come over tonight.
+1206	wanna come?
+1207	how about 4:00?
+1208	sure
+1209	fyi : Having more and more counterparties that will only deal on one side of my market.
+1210	call me if you need me
+1211	I've got them.
+1211	What's your fax #
+1212	cancel tonight's festivities
+1213	let's push until monday
+1214	can you approve this
+1215	pull up www.dynegy.com and look at the picture and the headline
+1216	for at least another couple days
+1217	mirant and koch arent selling physical
+1218	I talked to Man and they agreed to back off.
+1218	They will not call for more margin nor will they require us to move positions, as of this minute anyway.
+1218	If you hear any differently, please call me.
+1218	John
+1219	wanna get a smoothie with me by the playground with me after school?
+1220	aep goes out and celebrates every night.
+1221	Sorry, but don't know the names offhand.
+1221	Haven't seriously looked externally for 5 years.
+1222	what article in the chronicle?
+1223	how bout 3:15?
+1224	yea, call me when you're walking out
+1225	...since I waited half an hour for you last time
+1226	okay skilling
+1227	Tell them that margin will be posted as normal, no excess nor any intraday calls.
+1227	Since ENE is flush with liquidity, he should be very comfortable that we can pay our bills.
+1227	The positions will roll off through time until the position gets very small and then we will x-pit everything out of Man and close the account.
+1227	Anything different and all dealings between Man and Enron in energy will be terminated in both OTC and futures.
+1228	yes
+1229	isnt that pasta yummy and nutricious?
+1230	i'm working out w/ perky at tline around 530 today if you're interested.
+1231	do you still look at this?
+1232	You're a jerk
+1233	I think we're sneaking out early to get a beer around 3-4.
+1233	Wanna come?
+1234	yea right.
+1234	on what?
+1234	corporate marketing?
+1234	ha,ha,ha
+1235	yep
+1236	wed after work what's in it for us?
+1237	but really?
+1238	I spose so but we might have to take stupid as well I just found out.
+1239	she's not allowed to go anymore per ENE
+1240	can you get my after 3 eol volumes asap
+1241	I liked my drawing better
+1242	Looking into it
+1243	Kristin: Sorry for the delay.
+1243	Unfotunately I don't have any openings in my group right now.
+1243	If I hear of any positions open I'll give you a shout.
+1243	Can you remind me what title you have now.
+1243	John
+1244	full day today because of aga yea, going home to the Big D
+1245	everybody and their mom is short.
+1245	Plus, a lot of people think the z/f is too wide so either the front needs to go up or the back down.
+1245	nope
+1246	The reason I asked is, this sounds bad, but right now the cheaper you are the easier time I'll have finding you a job.
+1247	Is it okay to leave around 3:00?
+1248	did not, but I went to my wine locker and picked out 12 bottles for the weekend so I think we're okay unless you're taking some to your friends.
+1248	I'll call you when I'm ready and we'll figure it out.
+1249	I went already lazy
+1250	give her my email.
+1250	when are we leaving?
+1251	Bo: I may need to post some EFS after the close today.
+1251	Can you get that process approved?
+1252	i'm gonna try
+1253	Please call me asap
+1254	The Jan is confirmed.
+1254	The Cal 2 is not yet.
+1255	The main number at the exchange is
+1256	Although I love you, that's not appropriate for any 3 way sleeves.
+1256	EFS should be billed normally.
+1257	yea.
+1257	Give me your cell and home numbers.
+1258	try to net woth bank of america the cal 4,5
+1259	find out who they deal with and I'll try to find a counterparty that has the other side
+1260	customers may buy options from us.
+1261	i can probably find an offset
+1262	call me when you want a live quote
+1263	please post this efs with smith barney
+1264	I don't know if I gave this to you yet.
+1265	go ahead
+1266	Things are okay.
+1266	May be much better in a week or two.
+1266	Can you email me an update of how the 3 hedge funds are doing.
+1266	I may have another chunk of money to invest should you have any good opportunities lying around.
+1266	Still mainly interested in alternative investments with you.
+1266	Also, can you confirm my address.
+1266	I have moved recently and dont know if you have the new one.
+1266	2000 Bagby #15403; Houston 77002.
+1267	Come talk to me sometime today before you leave.
+1268	yep
+1269	Mark: I know you must be very busy right now.
+1269	I do have a important favor to ask.
+1269	I am worried about the reaction should the names and numbers of the trading retention pool be made public.
+1269	If you get notice of if and when that is to happen, advanced warning would be very helpful.
+1269	If I cannot be reached at the office, my cell phone number is 713-557-3330.
+1269	Thanks, John
+1270	what are your plans?
+1271	yep.
+1272	what day is jen and paula's party?
+1273	I would like to check availability for period of Dec 29-Jan 1 for 2 people.
+1273	Please advise.
+1273	John
+1274	Only took me 3 weeks to respond.
+1274	That's pretty good for me.
+1274	I think things started collapsing the day I got your original email.
+1274	Obviously not an opportune time to come take the tour right now.
+1274	Not so impressive when the building is 80% empty.
+1274	If/when we get the operation started again, I'll bring you up for a tour.
+1275	Still have new years open, right?
+1276	Mark: I looked into the payment.
+1276	Unfortunately, there is nothing I can do.
+1276	Everything has to get approved by lawyers and they can't pay a vendor arbitrarily.
+1276	I'll keep working on it.
+1276	Sorry.
+1276	What do you think of ng and cl here?
+1277	Sorry for the delay.
+1277	The big guys have been maharris,stuckey and barker.
+1278	Kim Ward thinks you're a big dork

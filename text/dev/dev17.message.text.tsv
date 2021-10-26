@@ -1,0 +1,981 @@
+0	Oops, I forgot you.
+1	All deals have been moved to ENA-IM WEST last night.
+1	Set up your physical post-id's for today and calculate the weapon-X, make sure there are no deals in your books using a forwards detail.
+1	If it is blank, you can run your weapon-X and input into your P&L this morning, you will also need to officialize your physical book one last time.
+1	Financial - you don't need to roll your p&l anymore, (except for Monte, you will have to due to the transport model).
+1	Go into the RAC website and inactivate all of your books other than the physical, you will do that tomorrow.
+1	Now that all tagg deals are in one book, we will be splitting up the alphabet among all groups to help monitor that the correct counterparties are being moved to the Bankuptcy book.
+1	We will get with you all later regarding that.
+1	Let me know if you have any questions.
+1	Thanks
+2	I started calculating the bankruptcy book last night for the credit group.
+2	This needs to be done nightly.
+2	I may be out a few days so if I am can someone else take this over from me please?
+2	We can also use these to check daily for counterparties that have been moved incorrectly.
+2	The file is in O:\erms\1intra\west\Bankruptcy post-ids.xls Thanks
+3	Yes, send them to John Powell and cc Debbie Brackett
+4	Here are today's post-ids.
+5	This what she sent.
+5	Thanks
+6	Francis, Can you call Errol McLaughlin or Jeff Gossett when you are done?
+6	Thanks
+7	Hector, Carole Frank has resigned effective today.
+7	I will collect her badge and any other equipment.
+7	Please let me know if there is anything else that we need to do.
+7	Thanks
+8	please add Stephanie McGinnis to the email.
+8	it should be John Powell Debbie Brackett Stephanie McGinnis
+9	can you take care of this?
+10	Scott, Scott Tackett has taken over Sean's responsibilities.
+10	He can take care of this for you.
+10	Thanks
+11	Done.
+12	Amanda, Can you please look at the last line for Management West?
+12	Those deals are booked to the FT-CAND-EGSC book in Canada.
+12	It wasn't reflected in our P&L's, it also didn't liquidate so it shouldn't be a variance.
+12	Thanks
+13	Scott, Can you check the contract on #500282.
+13	The chicago office needed to add a month to this deal and it wouldn't let it due to the contract #.
+13	I changed it but probably shouldn't have.
+13	It probably needs a new ticket.
+13	Let me know.
+13	Kay in Chicago needed this at 312-541-1235 Thanks
+14	Jeff, Here are the post-id's for you (or whoever) for Friday.
+14	Ignore the CAN tab.
+14	You should have access to these books, if not you can use my computer.
+14	kkeiser & tamu96ddd on the right computer.
+14	I may come in for the afternoon.
+14	Let me know if you will need help for anything else, I'll come in. There hasn't been anything going on except running mini-books for Russell Diamond.
+14	See you later,
+15	Thanks
+16	These are the post-id's for today Price 1450823 Basis 1450824 Index 1450825 GDM-Canadian 1451412 these two books were added to capture the canadian priced deals Thanks
+17	FYI......
+17	We are not bringing in prompt month value tonight.
+17	Texas did, about $25,000.
+17	The other regions don't have what we need for demand charges, etc. and no one has taken any time to research the values yet.
+17	The other groups we need have been gone for hours.
+17	We have some large positions which I don't really think are right.
+17	I'll look closer in the morning.
+17	Hope you feel better soon, at least you have all weekend to recover.
+17	See you Monday,
+18	Ryan, Everyone else is going to be here on Monday so please feel to stay a few extra days.
+18	We will have the normal closing stuff, (liquidations, PMA's, etc.) I've already checked out our PMA's and we don't have anything to liquidate so it should be a piece of cake.
+18	Things may pick up a little bit on Wednesday getting the books closed for the year.
+18	See you then Have a great weekend,
+19	Scott, I did the last four pages of this.
+19	The pages before that look like they have already been done.
+19	I just spot checked most of them but the entire first page was done already.
+19	I didn't want to waste time, Bridgette is out until next year so I couldn't ask her what the problem is.
+19	I'll leave the pages on your desk.
+20	I started looking at the prompt month positions yesterday and noticed that many of the deals moved to the bankruptcy book have not been deleted in sitara.
+20	I don't think that most people checked the bottom of the sitara deal to see that the volumes were zero for future months.
+20	I started comparing the Bankruptcy index book to a prompt month calc.
+20	and fixed as much as I could for the East and West, I just started on Central but we should check this all again on Monday.
+20	Because of this, we have not reported any prompt month physical value.
+20	The rates group hasn't been around to get the demand charges either.
+20	We should have everything clean to report it on Monday.
+20	Going forward I guess we need to show people how to check it correctly.
+20	See you on Monday.
+21	Errol, Here are the bankruptcy post-id's that need to be calculated tonight.
+21	You probably don't have access to the Canadian book so you can get it from Jeremy or use my computer.
+21	The right one has portcalc up, kkeiser & tamu96ddd.
+21	They might need to be on inexact for basis and index.
+21	Once those are done, can you email the id #'s to John Powell, Debbie Brackett and Stephanie McGinnis?
+21	Thanks call me if you have any problems
+22	John, I was just thinking about the December liquidations.
+22	We moved many deals over to a book called Bankruptcy for december forward production months.
+22	We won't be calculating this book but I'm wondering if the deals will still liquidate for Jim's (or whoever) schedule.
+22	If they do, we will have huge OA because we killed the swaps on those physical deals, meaning the desk and customer prices will be the same.
+22	We'll see those variances, and at the same time Financial acct.
+22	should see a variance because the deals liquidated but were not "flashed" in our P&L's.
+22	How can we tell if that book will liquidate this month or not?
+23	Greg, Have you had a chance to look at the new forwards details we talked about?
+24	We need to add the RAC website to our list of programs to be moved over with Netco.
+24	the website is rac.enron.com Let me know when you get this if there is anything we need to do to make sure this happens.
+24	Thanks
+25	Thanks
+26	Ruth, I don't know if you still need this but here are the deal #'s for the canadian netback deals.
+26	That is all I have found so far.
+27	Here are the post-id's for today Price 1452831 Basis 1452832 Index 1452833 GDI 1452835
+28	FYI...
+28	I changed a deal you booked on Friday from IM WC CAL to IM WEST.
+28	That book no longer exists.
+28	Thanks
+29	Has everyone saved all their necessary files to the netco.
+29	directory?
+29	I will be starting this list today.
+29	Thanks
+30	West 103816
+31	Chance, We need to prepare the morning reports for the last day of the year.
+31	Biliana isn't here today, could you please take care of that today for her?
+31	Thanks
+32	do I need to ask him which ones will have physical or did he tell you anything?
+33	Susan, Could I please get a copy of a blank book request from you.
+33	Thanks
+34	If you don't have these already.
+34	Monte, I will help you with these.
+35	Have you started to set up any new books for NetCo.
+35	yet?
+35	Do you guys think we should all use the same book and portfolio codes this time to make mini-books easier?
+35	Also, I think we should have some consistency in book names (make them more descriptive).
+35	any other suggestions?
+36	Sure, I spoke with him today about that already.
+37	Zach, Can you get together Friday morning to go over the basics of what we do?
+37	I will try to find some old class materials for you to review as well.
+37	I will let you know when and where tomorrow.
+37	Thanks,
+38	Here are the post-id's for today
+39	Please take me off your list.
+39	I don't wish to receive any more email from you.
+40	I brought some of my natural gas and options books from home.
+40	Please come by my desk if you want to read one during the day or make copies of some chapters to take home with you.
+41	We have been making lists of the directories that need to be moved over with Netco.
+41	Will these directories be moved so that the estate can't use them, or will copies be made so both groups could use the files?
+41	If not, we will have to make copies and change the list we have put together already.
+41	Thanks
+42	We are making sure this week that we have all the files we use listed to be moved to Netco.
+42	Can you please make a list of all the paths and files used to prepare the morning reports, including the VaR access database?
+42	I will need this before lunch.
+42	Thanks
+43	We have decided to name our books FB-West1 thru 10......for each region We will have a matrix saved for everyone to be able to look at with the book names, trader names, sitara books, P&L file name, global id, and everything else that anyone might want to see.
+43	I think this will make things more consistent than coming up with new stupid names like before.
+43	All books, including the financial books, will have the same portfolio and book codes.
+43	Physical books will be seperate but will all be the same.
+44	I started a spreadsheet for us to keep track of our books, traders, file names, etc. It is saved in O:\erms\erms_adm\Netco\Controls\Trader Matrix.xls Please add any other fields you think we should have.
+44	Jeff mentioned he wants to be able to quickly tell what books belong to what traders, O'neil had this idea.
+44	Is everyone ready to start setting up their books today?
+44	Has Scott Neal gotten back to you yet Phillip?
+45	Zach, Let's try for tomorrow morning around 9:30.
+45	Stop by desk and we'll run through the basics.
+46	Ryan, Can you save a copy of all of the files you did for Grigsby, price and position reports, to O:\erms\erms_adm\Netco\West.
+46	We are taking copies of everything we use now, this is the file that will be moved with us.
+46	Thanks
+47	We are finalizing the list of files to be moved over to Netco today.
+47	Please look in O:\erms\erms_adm\Netco\West and if there is a file you used to run, (price reports, the wood report, broker, desk to desk, consolidated P&L for the website, etc.) that you don't see out there now, please save a copy to this directory this morning.
+47	Thanks
+48	thank you
+49	Mike, We will be setting up both physical and financial books for everyone.
+49	I know not everyone will have physical but to keep it consistent everyone will have both just in case.
+49	I have the 10 names you sent Jeff earlier, please let me know if that changes.
+49	Do you know what the structure going to look like?
+49	ie.
+49	will each trader be assigned specific curves/locations, cash vs. term, how many different people will be setting curves.
+49	We will be starting over with our curve files also.
+49	We want to only start with the true published curves.
+49	We have many derived/internal curves that aren't necessary and if we need to create more curves we will look into it later.
+49	Since the number of curves will be greatly reduced, we will probably start with one file.
+49	Thanks
+50	Will anyone be taking Tori's place or are we down to 9 books?
+51	Darren The counterparty short name you gave me doesn't exist in TAGG.
+51	Is this a new name?
+52	Yes, The first three legs are the purchase for 80,000/d.
+52	Leg 4 is the annuity, and leg 5 is the put.
+52	I don't think I know what you are asking.
+53	there is a book request form in Netco\controls\Book request form.xls.
+53	I put in the west desk books already.
+53	Susan is checking to see if we can use those portfolio and book codes, if not we'll change them.
+54	Thanks, Chris was able to get me a copy of that yesterday.
+55	Let me know if there is anything I help you guys with for the controls reports.
+55	I would like to be involved in this process to understand it better.
+56	Do you have a copy of the detailed procedures that Chuck prepared for the morning reports?
+56	I am looking for a copy in excel if you have them.
+57	Chuck, I know you made some extremely detailed notes for the morning reports but I can't seem to find anyone down here that has them.
+57	Do you still have a copy saved you could send me?
+58	Here is the list you requested.
+59	Phillip, Do you want me to do anything for the new west curve files or are you taking care of it?
+60	Attached is a file listing the names and NT login id's for our group.
+60	Please call me if you need any additional information.
+60	Thanks
+61	Can we postpone this to this afternoon?
+61	I am in the middle of a project.
+61	I will call you soon.
+62	Susan, These are book requests for the Netco books for all regions.
+62	Please let me know if you have any questions.
+62	We put in some book and portfolio codes we would like if they are available.
+62	If not, please call me.
+62	We need all price, basis, index, and gas daily US books to be the same, all Canadian books to be the same and all physical books to have the same codes please.
+62	Thanks
+63	Please use this form instead of the previous west file Thanks
+64	The Keyspan deals have been corrected.
+65	Can they be done by Tuesday next week?
+65	EOL needs these to get this information soon in order to start their set up process.
+66	Russ, Can we get a list of the mappings for all sitara locations.
+66	We are modifying our curve files by getting rid of all "internal" curves.
+66	We need to make sure that we don't have anything mapped to those curves and if so make some changes.
+66	We also need to think about how this change will work with the estate as well.
+66	Will sitara have a separate database for Netco and estate like TAGG will?
+67	I understand we will now the group to set up new books.
+67	Can we get some instructions from someone in your group, Susan I assume.
+67	John Valdes and myself will be the ones to take this over.
+67	Please let me know if Susan is this person and we'll get with her today.
+67	Thanks
+68	John, Are you ready to learn your first control function.
+68	The controls group is going to let us set up the new books we need for Netco today.
+68	When you are ready let me know and we'll go down there, or they will come up here or whatever.
+69	Scott, Yes, my group will be the ones to book the demand charges in sitara.
+69	Can you please contact that regional controller for the charges.
+69	Central-Scott Palmer East-Phillip Love Thanks
+70	Mike, Will there be a Denver region for Netco?
+70	I have assumed that everything will be considered West but want to make sure before we set up the books.
+70	Thanks
+71	The curve lists are saved in O:\erms\erms_adm\netco\central\current central/ontario curves.xls I can help you sort through those if you want help.
+72	The sitara mapping table is saved in the Netco file named CurveMappings.xls Check your regions and if you see any locations mapped to curves we won't be setting anymore, make a list of those and what the new mappings should be.
+72	Once the new database is set up we will get with Russ to have those changed over.
+72	Thanks
+73	Torrey, We have taken over the responsibilities for setting up new books so we will be learning that today.
+73	These books should be ready by Wednesday.
+73	I will know more after we speak with them today.
+73	Once they are ready, we will send you the matrix you forwarded me.
+73	I have a question about that, you have a column for TAGG financial and physical.
+73	What is the difference?
+73	Thanks
+74	I have done all of these except the PGL&C deals.
+74	Scott, should these be terminated?
+75	Mike, Let me know when you are free, I would like to bring Phillip Love up to meet you.
+76	Please cancel my membership.
+76	Thanks
+77	Ok, just tell me what needs to be done in sitara and we'll take care of it.
+78	Bryce, These deals have been corrected.
+78	The triggers and demand charges have been removed.
+78	Deal #1005851 did have gas flow and I believe should still be settled unless someone says otherwise.
+78	Thanks
+79	Phillip, I tried to breakout the curves that Keith and Frank will be setting in the file you have been working in. We probably should run these past them to make sure
+80	I tried to breakout the curves for Keith and Frank in the file you are working on but we should run that by them for approval.
+80	Mike will be setting all gas daily and physical curves.
+80	I think we can combine basis, index and GDI curves into one file per trader leaving only three curve files to load.
+80	Let me know what you think.
+80	Once we get their ok on the curves, we can set them up and let them add any formulas they need, especially Mikes file.
+81	Andrew, The following are the people that will be setting up new books for Netco.
+81	The e-requests have been submitted.
+81	Phillip Love Scott B. Palmer John Valdes Errol McLaughlin Thanks
+82	Attached are the files that need to be copied for the Netco files.
+82	I will get you the list of curves tomorrow and you should talk to Louise for a list of the Netco traders.
+82	Thanks
+83	Cecilia, We need to get some new books set up in ERMS this week for Netco.
+83	We will be taking over this responsibility from the controls group but they are reluctant to grant us access to RisktRAC now due to security reasons.
+83	These books are needed for many downstream groups and therefore must be set up soon.
+83	Can you set these up before they are in risktrac this time due to these limitations?
+83	I can give you the book and portfolio codes and the TAGG short names.
+83	Please let me know today so we can start ASAP.
+83	Thanks
+84	Thank you.
+85	Cheryl, The risk management group will be taking over the duties from the controls group as far as setting up new books.
+85	I have attached five book requests that need to be set up for Netco.
+85	Once these are set up can you please call me so I can tell Cecilia.
+85	I will also need the Global ID # to give to EOL for their needs.
+85	Thanks,
+86	Tiffany This is the value by risk type as of Nov-30th.
+86	Price $(1,252,140,705) Basis $(230,828,141) Index $(6,649,278) Gas Daily $498,824 Gas Daily Index $3,984,475 Canadian Gas Daily $1,265,707 Canadian Gas Daily Index $44,840 Let me know if this is what you needed.
+87	Post id's for today
+88	correction please replace 1457413 with 1457867 Thanks
+89	Correction Please ignore post-id #1457413 It should be #1457867 with a value of $(392,639) Thanks
+90	Cheryl, Thanks for taking care of these so quickly.
+90	I have reattached the central book request with some additional books.
+90	The blue highlighted "Cent" books were on the original request but were labeled as "FB" and should have been PB as the book name.
+90	I assume you did nothing with those books because there was no id next to it.
+90	Is that correct?
+90	I corrected them and also added two new books at the bottom.
+90	Thanks again,
+91	John, At some point I would recommend setting up a mailbox for your new controls group.
+91	That way we won't have to worry about who is doing what, everyone in the group will get it.
+91	The current controls group did that and it was much easier.
+92	Scott, Just so I understand correctly, for the dollars in green, we are to pay Coral this amount as demand charges?
+93	Sorry, I forgot to attach the spreadsheet.
+94	Attached are the original spreadsheets with additional book requests in yellow.
+94	This should be the end, or close to it, for the Netco gas book requests.
+94	As before, could I get the global id's once you are finished?
+94	Thanks,
+95	Zhiyong needs to get a list of all curves we will be loading for Netco.
+95	by tomorrow.
+95	When you all are done identifying those curves could you please get me a list of the curves by risk type?
+95	Thanks
+96	Attached are the book requests for the NetCo.
+96	books.
+96	They have already been set-up in Global Counterparties.
+96	Thanks,
+97	Will you still need the GD curves, GD-HPL/SHPCH and GD-WAHA, or can the GDP be used instead?
+98	Question: Once the new database for ERMS is split for Netco.
+98	we will have to make some changes to the gas daily curve mapping tables.
+98	Is there another way to create these mappings other than adding them one at a time.
+98	We are getting rid of a large percentage of curves and will be making many changes to the current mappings.
+98	Doing it one by one will be very time consuming and I want to see if you are able to load them another way.
+99	Susan, Can you please set up the attached book for the estate.
+99	Thanks
+100	There are a few deals that we have agreed to perform on 100% and Ed McMichael needs to be able to value those deals separately.
+101	Bob Hall will have the mid and back office list and Ed McMichael should have the front office.
+102	Thank you.
+102	Here are the NT id's.
+103	O'neal Winfree currently manages the Texas risk management group for natural gas and is also responsible for the benchmark reporting group.
+103	He works closely with the Desk director and other traders to ensure accurate reporting of the positions and P&L's.
+103	He has eliminated most OA variances on his desk and has helped the other regions as well.
+103	O'neal and his group recently created a new physical P&L reporting tool to assist the risk and trading groups.
+103	Scott Palmer is currently the East desk lead and was the central desk lead prior to that.
+103	He set up and managed the Wellhead region and created new reporting tools for the traders to manage their supply.
+103	He was also responsible for calculating and reporting the Virginia Natural Gas asset management book and worked closely with the structuring group and others at VNG and Sequent to resolve any issues or questions.
+103	James Hungerford has been a book administrator on the East region for the past six months.
+103	He quickly became an important part of the team by managing up to three traders' P&L's and making numerous improvements to our daily routines such as streamlining the Weapon-X database, automating the new deal checkout and implementing a daily VaR estimate process.
+103	Prior to risk management, James was the Operational Analysis coordinator for the east region and worked with risk management and other downstream groups to clean-up all past variances and helped eliminate future problems.
+104	Thank you.
+105	We have a copy of the p&l format we will all be using saved in O:\erms\erms_adm\Netco\blank P&L.xls.
+105	If you are setting up your formulas you can use this format to create all your links for the new NGP&L and then change them to the individual p&l's later, we will be deciding how to break out the traders sometime this week.
+105	Attached is a list of the book names and the traders associated with each book.
+105	Let me know what you guys need to get all of this set up this week.
+105	Thanks
+106	Do you remember at what price do we own Microsoft?
+107	Jan 8th
+108	Russell, I believe that Francis Lim has been trying to help you with the project we have been talking about.
+108	The information below should be able to replace what he may have given you.
+108	You can copy these post-id's and change the dates to whatever you like.
+108	Here are all of the post-id's for the PG, G1 and W9 which are the remaining live books.
+108	price 1458677 basis 1458682 index 1458681 gas daily 1458683 gas daily index 1458681 These are the bankruptcy post-id's (HH and HE) price 1459387 basis 1459389 index 1459391 gas daily 1459392 gas daily index 1459393 Attached are the forwards and options details that you can run to give you all of the values you may need.
+108	Let me know if you have any questions.
+109	Susan, What time can that estate book be ready to go?
+110	Do you guys know which books each of your people will be doing?
+110	There is a column for that in the trader matrix under the controls folder.
+110	Ramesh will be loading our information into risktrac for us once we have all of the information, book admin id is one of the fields he needs.
+110	When you have decided can you please input that into the trader matrix and I'll then forward everything to Ramesh.
+110	Thanks
+111	Andrew, I have one question about this form.
+111	Does the book id mean the name exactly as it appears in tagg or is it the risktrac name (attaching the risk type to the end), ex.
+111	FB-FINANCIAL-PRC Thanks
+112	Here are the files that use ERMS that the estate will be using.
+112	Some of these directories will have files that are saved with a new name daily, you can pick the latest date to change.
+112	O:\erms\Excel Queries\ (Netco will need a copy of these files moved with them) texas gas daily index curves I will send more if I find them.
+112	Thanks
+113	Mike, Do you or anyone else in your group get broker quotes on a daily basis to help set the curves?
+113	If so, is there a spreadsheet kept with them that I can get?
+113	Thanks
+114	US ENOVATE should also be added.
+114	Thanks
+115	Bernice, I added the unique 4 digit Data codes to column T of the attached spreadsheets.
+115	Let me know if there is anything else you need from me.
+116	Susan, Can I please get a copy of the physical Portfolio Request form from you so in the future we get these physical books set up correctly.
+116	Could you also tell me what needs to be done differently from all other books.
+116	We created our own Data Codes and sent them to global counterparties, is there anything else different?
+116	also, can you tell me when the PERFORMANCE book will be ready.
+116	Ed McMicheal needs to value those deals today.
+116	Thanks
+117	Thanks
+118	It is the Import Gas Daily file under Curve Maint in Runm.
+118	We are working on an excel file with the intra-month and gas daily curves and will send it to you when we are done and we can try to load them once the database is split.
+118	Thanks
+119	Jan 9th
+120	Can we also get the books that these used to be mapped to?
+120	That will eliminate about 75% of the work.
+120	Thanks
+121	Ed, This book has been set up and should be ready to go.
+121	Can you let me know what deals you would like moved into that book and we will take care of it.
+121	Thanks
+122	please take me off your mailing list.
+123	Debbie, The credit committee needs to get some information from us that I could use your help with.
+123	Can I get a dump of the non-terminated deals into excel and I will format it from there.
+123	The information they need to see are the counterparty name, cash flows (MTM value) and positions.
+123	As always, they need it by 11:00 this morning so if you could let me know if this is something your group could provide me with I would appreciate it.
+123	Thanks
+124	Thomas is setting up a new NGP&L file and would like us to save a copy of each P&L to Netco\2002\0102\region#0102.
+124	Once you decide how you are going to break them up, one file for each book or combine them together, can you save them out there so he can start linking them.
+124	I think that for the physical regions it may be easier to keep each book separate because people could be moving around a lot.
+125	Hey, It's Vegas time baby!!!!!
+125	March 13-16th.
+125	Feel like winning some $$$$?
+126	Yes.
+127	Can you please grant access to myself (kkeiser) and stephanie hopkins (shopkin2) to this book.
+127	Thanks
+128	This is what Jeff gave them for the terminated deals.
+128	I need the values by month for gas only.
+128	They asked for positions but that will be much harder, if you can get anything like that I can use it.
+128	Thanks see MTM by Month
+129	The file is saved in O:\_dropbox\Bankruptcy\EYreqeust.xls
+130	can you also add Rbhatia and AFay to the access list for this book.
+130	Thanks
+131	This is a list of the curves we will be using in Netco.
+131	We may have some additional curves to add to this list but I wanted to get you something to start with.
+131	Thanks
+132	Demand charges and triggers are done.
+133	Casey, Could you get me a list of names for those people in Netco that should have access to ERV and TRV?
+133	Hal McKinney is trying to clean up this file this week.
+133	Thanks
+134	Do you want to keep any of the old TRV files for Netco for any reason.
+134	We can create new ones once it is set up.
+135	Also, this is a list of current names and files.
+135	If for any reason you would like to have any of these files moved with Netco instead of creating new ones, let me know which files and Hal will move them to the new database.
+135	Thanks
+136	Susan, We are unable to book any sitara deals to this book.
+136	It doesn't look like it is set up as a business unit.
+136	Do you know what we need to do to fix it?
+137	The file is saved in my dropbox called ERV_Stats.
+137	See if you can open that.
+137	Thanks
+138	I have highlighted the files and names that should move over.
+138	I had to add some names to the bottom of the ERV files.
+138	Thanks
+139	Jan 10th
+140	Casey, Here is the file we need to fill out for Ramesh to download into RisktRAC.
+141	Here is the gas file.
+142	forward that file to John Valdes and Ramesh once you are ready
+143	Could you please send all counterparty or contract inquiries to Deal Validation, Scott Tackett?
+143	Thanks
+144	I think I fixed the trailblazer path....the curve description on the curves tab didn't match the contract CB tab.
+144	The ref# should go away once you roll it for today.
+144	Try that this morning and let me know if it works.
+144	Thanks
+145	OK, the fun continues.
+145	We need to assign EOL products to traders.
+145	Torrey sent a file (Netco\controls\Trader-Book template (US Gas)_EOL new books) with all products and the old book assignments.
+145	We need to get with the traders today and get these split out.....many will stay the same as before.
+145	Also, when physical deals are done, will all risk types go to the same desk or will one person be managing the index separately.
+145	ex.
+145	the west desk used to book all index to Grigsby's book.
+145	I have told Dawn that all risk types will go to that trader's book but if index needs to be changed let me know.
+145	Thanks
+146	Errol, Torrey sent us a file with all of the EOL products and the old book assignments.
+146	He need us to tell him the new trader name, book name and global ID today.
+146	The file is saved in Netco\controls\Trader-Book template (US gas)_EOL new books.xls the global ID's are saved in your book request also in the controls file
+147	Hey, Phillip already made reservations and Jeff is waiting to make sure he can go.
+147	Darren and his wife have made their plans, and Dawn and Gary have also, I think.
+147	I will next week, and a couple other girls from risk are going too.
+147	We're leaving on the 13th, returning the 16th.
+147	Staying at the Mirage.
+147	You could win thousands in Vegas to use for your house.
+147	What other vacation can do that.
+147	Well, we think we should hear something today as far as who we work for now.
+147	I'm sure it will be next week though.
+147	We're assuming it will happen and have been setting up all new files and databases.
+147	It should be interesting.
+147	How is your job?
+147	Does Kyle Lilly work for you now?
+147	Later,
+148	Mark, I don't know if your friend is still looking for risk people but here is a resume of someone I would highly recommend.
+148	He used to work for me on the East desk.
+149	FYI....
+149	To keep things consistent all of the traders, except the financial group, will use their physical books to log in for EOL.
+150	Dawn, Please leave all risk types to the same books.
+150	We won't be splitting the index out this time.
+150	Thanks
+151	Mike, Attached are the files required for gas risk management.
+151	Please call me if you have any questions.
+151	Thanks
+152	Susan, I am still unable to book sitara deals to the Performance book.
+152	What needs to be done to fix this?
+153	We will get you the FT-Ontario and Intra-Ontario.
+153	Please call Brian Gillis in Canada for the FT-Canada book.
+153	Do you know what the full name for FT-US-Can is, that name doesn't exist in TAGG.
+153	Thanks
+154	Min, Is this change only for those using EnPower?
+154	My group will no longer be running any power books and won't need EnPower any longer.
+154	If this affects the gas applications in any way let me know, but I think that this won't be necessary for me.
+154	Thanks
+155	Tiffany, All of the TAGG deals identified by structuring have been moved to that book and we have been calculating and reporting it as of last Thursday.
+155	The sitara book is still being worked on and should be ready to go today.
+156	The files for the broker quotes have been moved from the Netco file to O:\erms\1intra\broker quotes.
+156	Those will be used for the estate.
+156	Please let anyone else who used those files know to start saving them to the new files starting today.
+156	Thanks
+157	I don't know who has been saving these daily.
+157	Can you tell whoever on the west desk to use the new file instead.
+157	They are for the estate and need to keep them away from the Netco files.
+158	Thanks, I beleive it is Keith and Frank.
+159	Torrey, For those traders that also do deals in canadian dollars, we had to create additional books for those deals.
+159	These will not have any EOL products associated with them, they will be phone trades.
+159	Thanks
+160	Scott, I put some question marks next to Brad, John, Pete and Sandra's products.
+160	You have them down as managing some physical products.
+160	Will they be managing those physical books?
+160	If not, they should go to the physical trader managing that location as before.
+160	Can you take a look at those?
+161	#992523 is the valid deal.
+161	When the second deal was created, the deand charges should have been deleted.
+161	It has been fixed.
+161	Thanks
+162	price post-id
+163	Torrey, Here are the new mappings for the EOL products, except for the central desk.
+163	Hunter is still working on his but I wanted to get you something.
+163	for physical rest of month deals we attached the physical book id for prompt month physical deals we attached the TAGG book id is that correct?
+163	I will send the finished product when Hunter is done.
+163	Keep in mind it will probably change again.
+164	Columns A-E are the exact names and their risk type.
+164	Column G-H will be the mappings for the gas daily mappings.
+164	If you can wait until the morning, I will have a more complete list for you.
+164	We have made a few changes.
+164	I will send it ASAP.
+164	Thanks
+165	Torrey, I added two columns to the right showing what the curve is now and what it should be.
+165	We made some changes to the curve names to make them consistent.
+165	Let me know if you need anything from me to make these changes.
+165	Thanks
+166	Sorry, these have been fixed.
+166	Thanks
+167	I beleive this is what Zhiyong is looking for.
+167	Let him know if you won't be ready by Friday.
+168	Jan 14th
+169	Tracey, We will have to change the org_region codes for all of our books today.
+169	I will send you the updated book requests today once IT has agreed to the changes.
+169	That should solve your problem.
+169	Thanks
+170	Fixed.
+171	Here are the curves loaded for East, Texas, West and Central on November 30th.
+171	They are also saved in O:\_Dropbox\Kam\Nov 30 Curves if you need to make any changes.
+171	I left a copy of all broker quotes from that day on your desk.
+171	All broker quotes are saved in O:\erms\1intra\broker quotes.
+171	Here are a few samples.
+171	These are the curves for each region....basis, index, gas daily & physical.
+172	Can you please change the org regions for the attached books.
+172	Thanks
+173	Susan, The performance book has been corrected by global counterparties.
+173	Sorry to bother you.
+174	Attached is the updated version of the new product/book assignments that I sent Torrey yesterday.
+174	We are still unsure which books to attach the physical products to.
+174	Let me know if you see any problems.
+174	Thanks
+175	These are the us gas Netco curves we would like to move over.
+175	In columns G&H we have also provided you with the gas daily curve mappings for the new database.
+175	Thanks
+176	Looks like we need some new books set up.
+176	Can you get with Phillip.
+177	Do you know what she is talking about.
+177	Do you have to have a seperate book for futures and options for Crude, unleaded and Heating Oil??
+178	John, There is a new book request in Controls\Book Request Form Central Canadian final.xls Can you attach a code to these and send it off to global and Cecilia?
+178	Thanks
+179	Yes, Thanks
+180	Albert, I spot checked a few of these and they are not all official.
+180	Can you please list only the Nov 30th official post-id's?
+180	I can't tell from your post-id sheets if I'm picking the correct ones.
+180	Thanks
+181	These are the post-id's that we have pulled.
+181	Showna and Debbie Brackett are trying to get the official post-id's from the system.
+181	Once they get that, I will check them against these.
+181	It is very possible that these won't be all of the correct id's but I wanted to get you something to start on.
+181	Thanks
+182	Those have been corrected.
+182	They tagg pieces have been moved but demand charges were not deleted.
+183	Mark, Attached are a few examples of the broker quotes we get daily for each region.
+183	I believe you had requested some curves so I also have the curves that were published for November 30th ready for you.
+183	The files may be too large to send so please let me know if this is something you did request and I will get it to you.
+183	Thanks
+184	Kevin, We have over 400 books that were getting officialized at that time.
+184	I tried to get from everyone which post-id's they used that day from Houston, Chicago and Calgary but with that many books we are bound to get a wrong post-id or miss one.
+184	I need to get the list from credit or RAC to be sure we have the right information.
+184	I have yet to hear from them today.
+184	I also told Z to run with what he had and I'll get with him asap if I find it was wrong.
+184	Thanks
+185	Thank you.
+186	Oh yeah, he's the one.
+187	Debbie, Have you had any luck getting the Nov. 30th post id's?
+187	I did my best job trying to get them for Houston, Chicago and Calgary but with over 400 post-id's I guarantee that we missed some.
+187	Let me know if you still think it's possible, I would like to get back to Zhiyong today.
+187	Thanks again for your help,
+188	This is an updated sheet of post-id's.
+188	We added many and deleted some also.
+188	Hope this works.
+189	Here you go.
+190	Can you please take care of this for the estate curve files?
+190	It will have to be done on your machine, Ashely, for you to be able to load them after today.
+190	Thanks
+191	take me off this list for the last time!!!!!!!!!!!!!!!!!!!!!11
+192	Please see attached.
+192	There is a before and after column for those products that will have index name changes.
+192	Thanks
+193	Ok, thanks for the update.
+194	Kristen, Once Zhiyong gets me the information, how would you like this handled?
+194	Do you want me to fill out the Schedule A, or would you rather have pivot tables similar to Todd Hall's for each scenario?
+195	Do we have to do anything for this???
+196	FYI....
+196	I changed the west and performance books to your name on the rac website.
+197	The attached file summarizes all MTM value by counterparty, in and out-of-the-money trades, physical and financial.
+197	You can filter column A for P or F and or column IV for positive or negative values.
+197	Please call me if you have any questions.
+197	Thanks
+198	This should help you.
+199	Yes, I didn't realize it mattered.
+199	All caps.
+199	Thanks
+200	FYI.....
+200	all org region codes will be in all caps if that makes a difference to you.
+201	Robin, Darren corrected these.
+201	If you have any questions, please call him....he is the master.
+201	: ) Thanks
+202	I sent this to John Valdes.
+202	He will check the book codes and get back with Cecilia to have her set them up today.
+203	I put in a book request for the canada books two days ago.
+203	I will check with John Valdes to see what the hold up is.
+203	As far as the futures and options books, there should be one book for both.
+203	If you have questions about that can you please call Errol McLaughlin directly?
+203	Those are his books and I don't know how they need to be set up.
+203	Thanks
+204	Yu could make some money selling your Enron stuff on Ebay.
+204	The keychain I bought for $15 is now selling for over $200.
+204	It's crazy.
+205	We were able to get close to the DPR values reported with the info you previously sent me.
+205	I won't need anything from you tonight but thanks a lot for being available.
+205	I may need to get with you in the morning to get something else together.
+205	Thanks
+206	Please call if you have questions.
+207	I forwarded Form A to Raj, here is the back-up/reconciliation if you need it.
+208	I have attached my resume.
+208	I look forward to hearing from you.
+208	Thanks
+209	Karen Brown - The Kainan Group (not sure of spelling) Army Gere (not sure of last name)
+210	That is fine.
+210	We will use what is already set up, PBregion1.
+210	Thanks
+211	Jan 18th
+212	Russ, I want everyone in risk to have access to all regions.
+212	Traders should only have access to their own.
+212	Thanks
+213	I'm about to send this.
+213	This counterparty name was inactivated and we had to manually change the name on about 200+ deals.
+214	Carl, The attached spreadsheet will show you the MTM value for all gas deals with TXU Energy Trading Company as of Nov-30.
+214	Please see the PBI tab for Price, Basis and Index and the GD Options tab for options.
+214	Thanks
+215	Kristin, Here is some information requested from E&Y for gas.
+215	Number of books 182 Number of people 55 Average number of transactions per day 1,674 Number of active transactions 126,878 Other than the rolls supporting the DPR which Scott Palmer is working on, this should be it for us.
+215	Please let me know otherwise.
+215	Thanks
+216	Yes, that is the correct set up for now.
+216	Thanks
+217	Yes, unless they find something on my background check....cross my fingers.
+217	How about you?
+218	Kristen correction on the # of people.
+218	It should have been 99.
+218	Sorry,
+219	Carl, Please see attached spreadsheet for the TXU MTM value detail.
+219	the forward value as of Nov-30-2001 is $121,915,684
+220	check these out
+221	FYI........
+221	We will probably have some changes to the trader matrix, we have had some traders quit or decide to stay with the estate.
+221	Once we know for sure, we will send you the new breakout.
+221	Thanks,
+222	Arnold, Kevin Ruscitti, Brad McKay are the only ones so far.
+222	I'm sure there are a few more I don't know about yet.
+222	How is your group looking, who's left, are you in charge now?
+223	Jeff, There is a meeting at the Houstonian tomorrow morning.
+223	Is this one for us or did they split the group into seperate meetings?
+224	Kathy, Vladi asked me to give you a call.
+224	I will be out of the office until about 2:00 today so I wanted to let you know what we did to populate Form A. We gave all post-id's that were calculated on Nov-30th to Zhiyong Wei.
+224	From there, he dumped all of that information into excel and we formatted it from there into the required buckets.
+224	It will take a few hours for IT to get the file ready to use so I recommend getting that together ASAP.
+224	Let me know what I can do to help.
+224	Thanks
+225	There will be some changes to be made to this list.
+225	We should know more later this week.
+225	Thanks
+226	are Darren and Phillip doing this?
+227	Could you please re-run the data dump you did for me last week with the attached post-id's?
+227	If you could let me know how long it takes I would appreciate it.
+227	If possible, could it be ready after lunch tomorrow?
+227	Thanks
+228	How do we get into test to view these trades?
+229	Carl, Here are the values you requested.
+229	I have the detail if you need it.
+229	Physical $71,893 Financial $123,077,652 Total $123,149,545 Physical $71,945 Financial $121,796,554 Total $121,868,499 Thanks
+230	John, There is another report that needs to be added to our daily duties, it is currently only being done once a month by accounting.
+230	I'll show it to you in the morning.
+231	Could you run the detail for these post-id's in grey.
+231	These are the physical post-id's that were excluded from the original request.
+231	You don't need to run the other post-id's, just the new column I. Thanks again,
+232	We are working on this now.
+232	We have a book with all physical active trades we will be performing on, we are now working on getting the in-the-money financial trades separated into a new book.
+232	Once that book is ready and deals are moved, we will be able to report it to you.
+232	Thanks,
+233	You should try looking at Duke, they seem to be doing some mass hiring of Enron people and giving them big pay raises.
+234	I don't have any contacts at Duke.
+234	Kelly Little will be working there, but other than that I don't know anyone.
+234	Have you called Scott Neal back yet?
+234	We were just talking about that exact thing, we knew all the weather guys left and were wondering what they would do.
+234	That would be a great opportunity for you.
+235	Congratulations!!!!
+236	Kelly will be a power trader.
+236	I don't know if she has any experience doing that.
+236	I haven't heard exactly why the weather group left, but many of the traders weren't happy that the move was a lateral one and didn't accept their offers.
+236	I think that's what happened with them.
+236	Good luck with everything, it would be great to work with you again.
+237	In the Bedroom looks better.
+238	done
+239	I will also be leaving for vacation tomorrow and returning whenever the hell I feel like it.
+240	Brian, In an effort to keep things consistent at UBS we have tried to perfect a roll spreadsheet that all regions should use.
+240	We added extra rolls so we should never have to add rolls.
+240	We have saved copies for our new P&L's in O:erms\erms_adm\netco\2002\0102\Regions0102 (this will be out new regions file until further notice. Can you copy one of those files and use that as your new P&L's? Let me know if you see a problem in doing that. We are trying to start linking up all new P&L's to the DPR, can you save yours out to that file when you are ready. Thanks
+241	Scott, I really think that Melissa would be able to handle Storey better than Kristen.
+241	I think we should keep her on Central and let you take Kristen on the East.
+241	Are you ok with that?
+242	Thank you.
+243	Do you know if all of our books are set up and ready to go in risktrac, ready to report VaR?
+244	Ok, once that is done, we need to set up the RMS access query to extract the new VaR and dump it in the positions by trader spreadsheet.
+245	Ashely, I noticed that there isn't a wacog being used in your P&L.
+245	Currently it is taking the UA4 volume and multiplying it by $0, it needs to have a dollar value in cell M83 on the physical tab.
+245	Thanks
+246	We all need to sit down again.
+247	Could we change the gas daily intra-month and index to GDM and GDY, rather than GDL and GDX.
+247	Tell me how much trouble that is to change.
+247	IT also made some changes to the physical org region names.
+247	I will have to get you those changes.
+247	Thanks
+248	Now that we know which traders will be moving over, or we should, we need to make a second pass at the EOL product list.
+248	Can you confirm with your desk heads that the list of names we have is correct, and then update the product mappings by tomorrow afternoon?
+248	O:\erms\erms_adm\netco\controls\Trader-Book template (US Gas)_EOL new books.xls Thanks
+249	Outstanding!!!!!!!!!!!!!
+249	That's the best news I've heard all day : )
+250	Let Russ know also so he can break this up for TDS.
+250	Have him create a roll up for South and Northwest and a total west that sums up both.
+251	I created an Inactive Books folder in the Netco file for all currently unused books.
+251	O:\erms\erms_adm\Netco\Inactive books Thanks
+252	There is a file under Netco for all currently unused books, rolls and hedge strips.
+252	O:\erms\erms_adm\netco\unused books.
+252	Rather than deleting these, they will remain here until they are needed.
+252	The NGP&L will link to these, once they are needed we will start saving it to the regions file and the links will be updated.
+252	There is also a hedgestrip saved for each book to the live and unused books files.
+252	We should also start creating a common file for each region to post the P&L to the website.
+252	Let's try to keep these the same format.
+252	East has a good file that shows new deals and curveshift.
+252	West used a macro to pull in finished P&L's instead of updating links which eliminated some problems, Randy could help with this.
+252	Figure out what format you want and use that for all regions.
+252	I think everyone agrees that we don't want to give them a positions file like in the past, they should use TDS for that.
+252	I believe the TRV website should be ready to go tomorrow so we can set up the users and report #'s then.
+253	Yes ma'am, same as before.
+253	Thanks
+254	I left a message with confirms....they should answer this for us.
+255	That sounds good.
+256	How about tomorrow morning at 9:30?
+256	I have a meeting at 10:00 and I'm clear around that.
+257	Only inactivate those books that don't have a trader name next to it on the book request.
+257	There are only a about 6 that should be inactivated.
+258	Good question, I think we should have an excel template set up with all imaginable necessary info that all traders should use, one line per trade rather than one sheet per trade.
+258	What do you think?
+259	Dawn, Please see the attached trader matrix template.
+259	There were some changes made on the physical global id's.
+259	Steve South was also added on the west desk.
+259	Thanks
+260	I am on the 5th floor.
+260	05156.
+260	See you then.
+261	After speaking with Kim Theriot in confirmations, we will not be using the RiskMantra entity, per the legal department.
+261	All Canada to US deals should be booked ENA to ECC (using the new legal entities of course) rather than RiskMantra.
+261	She is waiting on the final word about our new legal entity names, I will let you know what I hear.
+261	Thanks
+262	No problem.
+263	Could you please add Derek Baily (dbailey) to the TDS and sitara access list?
+263	Thanks
+264	Here is our final list of EOL products.
+264	Thanks
+265	Here is the gas DPR for last night.
+265	You will start getting this on Wednesdays and Mondays.
+265	Please tell me if this is what you need.
+265	Thanks
+266	The 7849 are all in-the-money financial counterparties and all physical deals we are performing on.
+266	We have gotten shorter because that is not all positions we are reporting.
+266	To the true DPR we are reporting additional books but we were told for this purpose you only wanted the deals we plan to perform on.
+266	We don't need the East/West for gas.
+266	I will fill in those additional columns for tomorrows report.
+266	Will you be sending out a new form or shall I make the changes?
+266	Do you want an email daily or have you set up a file for these to be saved into?
+266	Is Canada doing their part?
+267	Sheet 3 has been updated (highlighted) for all TRV users.
+267	I added the admin names in column H. Thanks
+268	We have decided to take the curve history with us to UBS for the attached curves.
+268	We have changed the names for some of the curves so column J has additional curves that we would like to bring history.
+268	We will not continue publishing those in the future however.
+268	Thanks
+269	try this
+270	These are the official post-id's from Dec 31st for all live deals.
+270	We didn't have a "performance" book until January.
+270	I included Canada and EMW at the bottom if needed.
+270	Bankruptcy book
+271	Since you need this as of the 31st, we will have to get Zhiyong the post-id's after we calc.
+271	on Thursday and should have this ready to go early next week.
+271	Is that early enough?
+272	Bob, The estate DPR is ready and will be run on Wednesday and Monday mornings.
+272	Thomas Underwood will be taking over that task from me.
+273	This is what we have to look forward to.
+273	We need to get all post-id's, for the live and bankruptcy books, and get those to Sanjeev Gupta to dump into excel.
+273	Then try to tie those MTM values back to the Gross Book Balance we reported on the final NGP&L.
+273	Once that ties, we will format the info to fit schedule B. You can't wait, right?
+274	Sanjeev, will you be here on Thursday and Friday?
+274	I will need your help again with a dump of data before the weekend.
+274	Thanks
+275	Thanks, Will they also be doing those additional files that are not in the Netco directory?
+276	Kim, Are these physical or financial, or a combination.
+276	Do you know the termination dates?
+276	If not, I will try to get them from the confirmations group.
+276	Thanks
+277	Please let me know if any of this reqeuest can be done through CAS.
+277	Thanks
+278	Could you please each take a section of this spreadsheet and search tagg for any deals with these counterparties.
+278	I need to know the exact counterparty name and if there are any deals with that counterparty for Nov-01 forward.
+278	Thanks
+279	Thanks, I will forward this to Casey Evans to work on the Power side.
+280	Casey, Barry Tycholiz, the west originator, has put a project in front of us.
+280	I am working on this for gas, could you help with the power side, if you have any deals with these counterparties?
+280	Thanks
+281	Can I get your help on the following request?
+281	We need to find out what receivables/payables for financial and physical deals we have outstanding with the attached counterparties that we don't plan on settling.
+281	Can you please let me know if you are the right people to do this and how long it would take to get this information together?
+281	Thanks
+282	Kim, I am trying to find the exact termination date for the attached counterparties for physical and financial deals.
+282	Can you help me with this?
+283	Could you please add me to this distribution list for any issues regarding the DPR?
+283	Thanks
+284	Thomas, Could you use this file to replace what we currently have for the new DPR?
+284	Thanks
+285	More testing.
+285	Recruit as many people as you need to help you.
+285	I want these tested very thoroughly.
+285	Thanks
+286	Does he know to set up us as web users also?
+286	Can you add Errol to the first list?
+287	We are paused on this for now.
+287	UBS isn't supposed to get any Enron info and that is what this project was intended to do.
+287	Here is the attachment but don't waste any time until further notice.
+288	Here are the updated ERV names.
+288	users highlighted in grey.
+288	Thanks
+289	Thank you.
+290	Also, all physical weapon-X tabs are linking to an old east book.
+290	I didn't touch that tab yet, we don't know if we're using weapon-X or sasqwatch.
+291	James, Could you go back to the detail we used to do the form A, there is also a cross commodity file that needs to be added, and remove all intercompany deals and redo.
+291	Let me check it once you have all of those deals isolated, just to check over the names once again.
+291	Thanks
+292	I got the Goldman counterparty names from Bill Hare and I have found 0 deals with them.
+292	Let me know if there is anything else I can do.
+293	Price, Basis and Index.
+294	Those two counterparties could be currently in NG-Price, ENA-WT-Socal, or ENA-WT-Cal, not just NG-Price.
+294	Thanks
+295	Is this going to change?
+295	Do we have a new book set up for this?
+296	This was settled with Chris Abel last night.
+296	We have always reported our positions in contracts, they want to see it in BCF.
+296	We will be reporting it that way going forward.
+297	I should have a list of post-id's for you by 4:30 today.
+297	After friday, I will no longer have access to the estate, so if you could shoot this off over night so I could have something in the morning to work with I would appreciate it.
+297	Let me know if that doesn't seem possible.
+297	Thanks
+298	Ed, Here is a list of the risk people that will be with the estate.
+298	After this weekend, we will no longer have access to the estate files, these people will be able to help you with any of your questions.
+298	We will still be around to assist them if needed.
+298	Thanks
+299	Kristen, Attached are all live financial deals by risk type.
+299	As you can see, the price data is too large to fit into one tab.
+299	After tomorrow, I will no longer have access to the estate files.
+299	Greg Couch will be taking over the responsibility for the estate risk group and will be able to assist you with your requests going forward.
+299	Thanks
+300	As seen below, Please start using the ENA DPR 0102 file rather than the EWS DPR 2002 file to send to Chris.
+300	The positions needed to be divided to reflect BCF's.
+300	Thanks could you also CC me the first few times you send it?
+301	Thanks
+302	WT Cal has been added.
+302	Could you run those additional post-id's?
+302	There are deals in the Aruba book so I'm not sure why you aren't picking those up.
+302	The deals are listed below.
+302	Thanks
+303	We are still trying to figure out some of the cash traders.
+303	Once we get the word from Lavo we'll let you know.
+303	Thanks
+304	It was just a funny song making fun of Enron.
+304	You didn't miss out on much.
+304	I signed the offer letter last week, and we went through the orientation and filled out the piles of paperwork.
+304	I won't have the new title and company name officially until the 8th I heard.
+304	What is up with you?
+304	How's the car treating you?
+304	Were you able to sell the maroon thing?
+304	I'm house shopping now, I want to build one, just don't know where.
+304	It is fun looking though.
+304	Talk to you later,
+305	Does this need to exclude intercompany deals also?
+306	all the other books tied out.
+306	Thanks Could you run these post-id's also.
+306	This is the last book I will need.
+306	Thanks
+307	Correction.
+307	Ignore first email below.
+308	Sorry, Chicago gave us the wrong post-id's.
+308	Thanks again.
+309	I will be attending.
+310	Here is the updated list.
+310	Thanks
+311	Here is our updated form A without intercompany deals.
+311	Included on the last two tabs are the details they asked for from gas.
+311	We are still working on the contracts and confirms.
+311	Thanks
+312	I have highlighted the risk people in grey.
+312	Can you add Jeff Gossett and Matt Olney?
+312	I will send this to Power to check their names.
+312	Thanks
+313	We don't have access to UBS applications today.
+313	They are supposed to make the switch for us tonight.
+313	I have Stephanie a list of risk people that need access to the reports so after tonight we'll be able to test it out.
+313	Thanks
+314	Greg, There are still about 2,000 deals between ECC and Riskmantra that need to be moved to the Bankruptcy books.
+314	IT did all ECC to ENA deals, they need to change the script to ECC and Riskmantra.
+314	We started to move some of the deals manually but there are too many to do.
+314	Sanjeev Gupta has been doing this for us in the past.
+314	I left a message with him but you might want someone to follow up with him to make sure it happens before calcing time today.
+314	Here is a list of the deals if you guys are looking for work to do.
+314	Thanks
+315	Here is a list by risk type that we plan on loading with UBS.
+315	There were some name changes to a few of the west desk curves.
+315	Lt me know if you have any questions.
+316	We have created six new curve files for UBS.
+316	Could you please look at them and let me know if there is something in your files that you are not responsible for and we will move them.
+316	Also, you can use these files to change or update your links.
+316	O:\_dropbox\West Curves We will probably be loading these on Wednesday for the first time to do our final testing so let me know if you have any questions or need our help with this.
+316	Can you let me know when you have finished with yours so we can convert them to the new database?
+316	Thanks If you have already done this let me know, Phillip is out all week and I don't know where he left off.
+317	Dawn has given us until noon Wednesday to get them the final list of EOL products and book mappings.
+317	I know with the trader changes last Friday these will change again.
+317	The traders had a meeting this morning going over their curves, and it sounds like they are moving some curves between regions and might possibly be losing some locations.
+317	Since we will be testing everything on Thursday, we need to have our curve files ready to load on Wednesday to give a prior day curve for portcalc.
+317	The west traders are looking at theirs now, can you guys check with your traders and see if they need any changes made to the files, and let them change any links?
+317	We also need to create a curve file that the traders can get to, but doesn't give them access to any of our other files, so the current location will not be the final.
+317	We can create this tomorrow once we have converted over to UBS.
+317	Thanks
+318	Tom, Everyone in risk management needs to get access to EOL bridge monitor and reports.
+318	What do we need to do to get this and how soon can it be granted?
+318	We need this by Thursday to be prepared for testing.
+318	Thanks
+319	Jane, The following people will need dual access to the estate and UBS files.
+319	Scott Palmer Phillip Love Errol McLaughlin Jeff Gossett John Valdes Please let me know if you have any questions.
+319	Thanks
+320	Thanks, Will the test database be converted by Thursday?
+320	We will be unable to verify that the deals are bridging correctly unless we can see the EOL reports.
+321	Thanks
+322	Yes, we are set.
+322	Thanks
+323	Stephen, I made a copy of your BenchbyTrader and cleaned it up a little by taking out all the hidden rows and old traders.
+323	It is saved to the same directory as UBS BenchByTrader.xls Can you look at this and check the macros to make sure it all still works?
+323	Can you use that going forward?
+323	Thanks
+324	Here is the risktrac book entry template for these books.
+324	This is the same info John Valdes sent you, with a few extra details added.
+325	Do you have a list of new curves for UBS.
+325	They will only be taking over history for the curves we will continue to load.
+326	Thanks for making those changes.
+326	Let us know when we are ready to start setting up the hierarchy.
+326	Thanks
+327	My e-mail will change on Friday to kam.keiser@UBSWEnergy.com
+328	There is a new directory for the curve files.
+328	I am trying to request access to this for the traders so they can't see the rest of our files.
+328	This should be done soon.
+328	Can you move your files to this drive today?
+329	We didn't run any reports daily for anyone.
+329	There is the DPR that needs to be updated and sent to Showna twice a week that Thomas is doing, Bankruptcy books calculated and post-id's sent to credit daily, and broker quotes need to be saved daily.
+329	Other than that, we were doing mini-books or other requests as they came.
+330	We would like to change the Netco directory name to UBS.
+330	We will have to change the links to the NGP&L and anything else that links to files in Netco.
+330	Let me know this morning if that will be a major problem for anyone.
+330	Thanks
+331	Could you tell me what the new Rac website address will be and when it will be ready to use?
+331	Thanks
+332	Keith, We are in the process of making new deal tickets for UBS and I would like to get your input.
+332	Could you look at the attached ticket and delete, add or change anything you want to.
+332	Everyone will be using this format for all non-EOL deals, one ticket per trade.
+332	Thanks
+333	Here you go.
+334	I will have the procedures for deal entry to you tomorrow.
+334	Keith Holst is also taking a look at the current deal ticket and might be making some changes.
+334	I'll run it by you before we finalize it.
+334	Thanks
+335	Hey, I am going to have to miss your wedding.
+335	Unfortunately, I will be in Plano that weekend.
+335	I wish I could make it.
+335	What's going on with the UBS weather position?
+335	Has that gone anywhere or are the other possibilities you had better?
+335	Talk to you soon,

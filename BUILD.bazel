@@ -1,0 +1,46 @@
+# Copyright 2021 Google LLC.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+# Bazel rules for this dataset.
+
+package(default_visibility = ["//visibility:public"])
+
+licenses(["notice"])
+
+exports_files(["LICENSE"])
+
+filegroup(
+    name = "metadata_dev_files",
+    srcs = glob(["metadata/dev/dev*.info.tsv"]),
+)
+
+filegroup(
+    name = "metadata_test_files",
+    srcs = glob(["metadata/test/tst*.info.tsv"]),
+)
+
+filegroup(
+    name = "text_dev_files",
+    srcs = glob(["text/dev/dev*.text.tsv"]),
+)
+
+filegroup(
+    name = "text_test_files",
+    srcs = glob(["text/test/tst*.text.tsv"]),
+)
+
+filegroup(
+    name = "all_files",
+    srcs = glob(["**/*.tsv"]),
+)
