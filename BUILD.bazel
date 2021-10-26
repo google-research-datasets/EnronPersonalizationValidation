@@ -2,10 +2,6 @@
 
 package(default_visibility = ["//visibility:public"])
 
-licenses(["notice"])
-
-exports_files(["LICENSE"])
-
 filegroup(
     name = "metadata_dev_files",
     srcs = glob(["metadata/dev/dev*.info.tsv"]),
