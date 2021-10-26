@@ -1,4 +1,4 @@
-#Enron Personalization Validation Set
+# Enron Personalization Validation Set
 
 The data collected here is email text taken from the [Enron email dataset](https://www.cs.cmu.edu/~./enron/), assembled in such a way that all text in a single file was written by the same author, organized chronologically.  Files are organized into dev (45 author) and test (44 author) partitions, and into separate text and metadata files for each author.
 
@@ -10,7 +10,7 @@ This dataset is being released for benchmarking purposes only.  Given the paucit
 
 Any third party content or data is provided "As Is" without any warranty, express or implied.
 
-##Reference:
+## Reference:
 
 ```bibtex
   @inproceedings{fowler-etal-2015,
@@ -26,7 +26,7 @@ Any third party content or data is provided "As Is" without any warranty, expres
   }
 ```
 
-##Contacts
+## Contacts
 
 - roark [at] google.com
 - agutkin [at] google.com
